@@ -1,0 +1,12 @@
+dist/
+cmake-build-*/
+build/
+*.zip
+*.pyd
+.idea/
+*.egg-info
+.ipynb_checkpoints/
+/BERNpp/bern_wrap.cpp
+/BERNpp/bern.py
+venv*/
+/Results/
