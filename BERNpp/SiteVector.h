@@ -19,7 +19,7 @@
 #ifndef SiteVector_h__
 #define SiteVector_h__
 
-
+#include <limits>
 #include <stdexcept>
 #include <vector>
 #include <map>
