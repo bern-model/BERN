@@ -3,7 +3,7 @@
 # BERN habitat model
 ### Bioindication of Ecologic Regeneration within Natural conditions plant habitat model
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10406722.svg)](https://doi.org/10.5281/zenodo.10406722)
 
 A fuzzy logic based model for plant community habitat predictation. The model has been implemented in multiple languages, 
 this version is written as a C++ library. A demo main function is provided and a [SWIG](www.swig.org) wrapper for Python.
