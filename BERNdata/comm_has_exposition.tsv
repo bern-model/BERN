@@ -1,1468 +1,1640 @@
-Comm_ID	Exposition
-1	plain
-2	plain
-3	plain
-5	plain
-6	plain
-7	plain
-8	plain
-9	plain
-10	plain
-12	plain
-13	plain
-14	plain
-15	plain
-16	plain
-17	plain
-18	plain
-19	plain
-20	plain
-21	plain
-22	plain
-23	plain
-24	plain
-25	plain
-26	plain
-27	plain
-28	plain
-29	plain
-30	plain
-31	plain
-32	plain
-33	plain
-34	plain
-35	plain
-36	plain
-37	plain
-38	plain
-39	plain
-40	plain
-42	plain
-43	plain
-44	plain
-45	plain
-46	plain
-48	plain
-49	plain
-52	plain
-53	plain
-54	plain
-55	plain
-56	plain
-59	plain
-60	plain
-61	plain
-62	plain
-63	plain
-64	plain
-65	plain
-66	plain
-67	plain
-69	plain
-70	plain
-71	plain
-72	plain
-73	plain
-74	plain
-75	plain
-76	plain
-77	plain
-78	plain
-79	plain
-80	plain
-81	plain
-82	plain
-83	plain
-84	plain
-85	plain
-86	plain
-87	plain
-88	plain
-89	plain
-90	plain
-91	plain
-93	plain
-94	plain
-95	plain
-96	plain
-98	plain
-99	plain
-100	plain
-102	plain
-103	plain
-104	plain
-105	plain
-107	plain
-110	plain
-112	plain
-113	plain
-114	plain
-115	plain
-116	plain
-118	plain
-119	plain
-120	plain
-121	plain
-122	plain
-123	plain
-124	plain
-125	plain
-126	plain
-127	plain
-128	plain
-129	plain
-130	plain
-131	plain
-132	plain
-133	plain
-134	plain
-135	plain
-136	plain
-137	plain
-138	plain
-139	plain
-140	plain
-141	plain
-142	plain
-143	plain
-144	plain
-145	plain
-146	plain
-147	plain
-148	plain
-149	plain
-150	plain
-151	plain
-152	plain
-154	plain
-156	plain
-158	plain
-159	plain
-162	plain
-163	plain
-166	plain
-167	plain
-168	plain
-169	plain
-170	plain
-171	plain
-172	plain
-173	plain
-174	plain
-175	plain
-180	plain
-181	plain
-183	plain
-187	plain
-188	plain
-189	plain
-190	plain
-191	plain
-192	plain
-196	plain
-198	plain
-203	plain
-204	plain
-206	plain
-2010	plain
-2010	shade
-2011	sunny
-2011	plain
-2012	plain
-2013	plain
-2013	shade
-2013	sunny
-2014	shade
-2015	plain
-2016	plain
-2016	shade
-2016	sunny
-2017	sunny
-2018	shade
-2019	shade
-2020	sunny
-2020	shade
-2020	plain
-2021	plain
-2022	sunny
-2023	shade
-2024	sunny
-2024	plain
-2025	shade
-2026	shade
-2026	plain
-2026	sunny
-2027	sunny
-2027	shade
-2027	plain
-2028	sunny
-2028	plain
-2028	shade
-2029	sunny
-2030	sunny
-2031	plain
-2032	plain
-2032	shade
-2033	sunny
-2033	plain
-2033	shade
-2034	plain
-2034	sunny
-2034	shade
-2035	shade
-2035	plain
-2035	sunny
-2036	plain
-2036	sunny
-2037	sunny
-2038	plain
-2038	shade
-2039	sunny
-2040	plain
-2040	sunny
-2041	plain
-2042	sunny
-2042	shade
-2043	shade
-2043	plain
-2044	plain
-2045	plain
-2046	plain
-2047	plain
-2047	shade
-2047	sunny
-2048	plain
-2048	shade
-2048	sunny
-2049	plain
-2050	shade
-2050	plain
-2050	sunny
-2051	plain
-2051	sunny
-2051	shade
-2052	plain
-2053	sunny
-2053	shade
-2053	plain
-2054	shade
-2054	plain
-2054	sunny
-2055	sunny
-2055	shade
-2055	plain
-2056	plain
-2057	plain
-2057	sunny
-2057	shade
-2058	shade
-2058	plain
-2058	sunny
-2059	sunny
-2059	shade
-2059	plain
-2060	sunny
-2060	shade
-2060	plain
-2061	shade
-2062	shade
-2062	plain
-2063	shade
-2064	plain
-2064	shade
-2065	shade
-2065	plain
-2066	plain
-2067	plain
-2068	sunny
-2069	shade
-2069	plain
-2069	sunny
-2070	shade
-2071	shade
-2071	sunny
-2072	plain
-2073	shade
-2073	plain
-2074	plain
-2074	shade
-2075	shade
-2075	plain
-2076	shade
-2077	sunny
-2078	plain
-2079	shade
-2081	sunny
-2081	plain
-2083	shade
-2084	shade
-2084	plain
-2085	sunny
-2086	shade
-2087	sunny
-2090	sunny
-2090	shade
-2090	plain
-2100	sunny
-2100	shade
-2100	plain
-2101	plain
-2110	plain
-2111	plain
-2111	sunny
-2112	shade
-2120	plain
-2121	shade
-2122	sunny
-2124	plain
-2130	plain
-2131	sunny
-2132	shade
-2133	plain
-2134	shade
-2140	sunny
-2150	sunny
-2151	shade
-2151	plain
-2152	sunny
-2153	sunny
-2154	sunny
-2155	sunny
-2155	plain
-2156	sunny
-2160	shade
-2160	plain
-2170	plain
-2170	sunny
-2170	shade
-2180	shade
-2180	plain
-2180	sunny
-2190	plain
-2191	plain
-2201	shade
-2201	plain
-2201	sunny
-2202	plain
-2203	plain
-2210	plain
-2210	sunny
-2210	shade
-2211	plain
-2211	shade
-2212	sunny
-2230	sunny
-2230	plain
-2230	shade
-2241	shade
-2242	shade
-2243	shade
-2244	shade
-2245	plain
-2245	shade
-2245	sunny
-2246	plain
-2250	shade
-2250	sunny
-2250	plain
-2260	shade
-2260	plain
-2261	plain
-2270	sunny
-2271	sunny
-2273	plain
-2273	shade
-2274	shade
-2280	shade
-2290	shade
-2290	sunny
-2290	plain
-2291	plain
-2292	plain
-2293	plain
-2293	sunny
-2301	plain
-2301	shade
-2302	plain
-2302	sunny
-2303	plain
-2303	sunny
-2311	sunny
-2312	sunny
-2313	sunny
-2314	plain
-2314	sunny
-2315	sunny
-2320	shade
-2320	plain
-2330	shade
-2330	plain
-2340	plain
-2340	shade
-2340	sunny
-2350	sunny
-2360	sunny
-2370	sunny
-2380	sunny
-2399	shade
-2399	plain
-2400	shade
-2400	sunny
-2400	plain
-2401	sunny
-2401	shade
-2401	plain
-2402	plain
-2403	sunny
-2404	sunny
-2405	sunny
-2406	shade
-2407	plain
-2407	shade
-2407	sunny
-2408	sunny
-2409	sunny
-2409	shade
-2409	plain
-2410	sunny
-2410	shade
-2410	plain
-2412	shade
-2413	sunny
-2414	sunny
-2415	sunny
-2416	sunny
-2417	shade
-2418	sunny
-2418	plain
-2419	shade
-2420	sunny
-2420	shade
-2420	plain
-2421	sunny
-2421	plain
-2421	shade
-2422	plain
-2422	shade
-2422	sunny
-2423	shade
-2423	sunny
-2423	plain
-2424	plain
-2424	shade
-2424	sunny
-2425	plain
-2425	shade
-2425	sunny
-2426	plain
-2426	shade
-2427	shade
-2427	sunny
-2428	shade
-2429	sunny
-2429	plain
-2429	shade
-2430	sunny
-2430	plain
-2430	shade
-2431	sunny
-2432	sunny
-2433	sunny
-2433	plain
-2434	plain
-2435	sunny
-2436	shade
-2437	shade
-2438	shade
-2438	plain
-2438	sunny
-2439	sunny
-2440	sunny
-2441	shade
-2441	plain
-2442	shade
-2444	shade
-2445	sunny
-2446	sunny
-2461	plain
-2462	plain
-2462	sunny
-2464	shade
-2465	sunny
-2470	plain
-2471	shade
-2474	plain
-2475	sunny
-2477	shade
-2478	sunny
-2478	shade
-2478	plain
-2501	plain
-2501	shade
-2501	sunny
-2502	plain
-2510	sunny
-2510	plain
-2511	shade
-2511	sunny
-2511	plain
-2512	plain
-2512	sunny
-2513	sunny
-2513	shade
-2513	plain
-2601	sunny
-2602	sunny
-2603	sunny
-2604	sunny
-2605	sunny
-2605	shade
-2605	plain
-2606	plain
-2606	sunny
-2607	sunny
-2608	sunny
-2609	sunny
-2610	sunny
-2613	plain
-2614	plain
-2614	sunny
-2615	plain
-2615	shade
-2616	plain
-2617	plain
-2618	plain
-2619	plain
-2619	sunny
-2620	plain
-2621	shade
-2621	plain
-2622	plain
-2622	sunny
-2623	sunny
-2624	shade
-2625	shade
-2626	plain
-2627	plain
-2628	shade
-2628	plain
-2628	sunny
-2629	plain
-2629	sunny
-2629	shade
-2630	plain
-2631	sunny
-2631	shade
-2632	shade
-2633	plain
-2634	plain
-2635	plain
-2636	shade
-2636	plain
-2637	shade
-2638	plain
-2640	sunny
-2641	shade
-2641	plain
-2642	shade
-2642	plain
-2643	shade
-2643	plain
-2644	plain
-2645	shade
-2646	sunny
-2646	plain
-2646	shade
-2647	sunny
-2648	plain
-2649	plain
-2650	shade
-2651	shade
-2652	sunny
-2652	shade
-2652	plain
-2653	shade
-2654	plain
-2654	sunny
-2656	sunny
-2656	shade
-2657	plain
-2657	sunny
-2659	sunny
-2660	sunny
-2661	sunny
-2664	sunny
-2665	sunny
-2666	shade
-2666	plain
-2666	sunny
-2667	shade
-2669	sunny
-2670	sunny
-2671	shade
-2672	shade
-2673	sunny
-2673	plain
-2675	shade
-2676	shade
-2676	plain
-2677	sunny
-2678	shade
-2679	plain
-2679	shade
-2679	sunny
-2680	shade
-2680	plain
-2681	shade
-2681	sunny
-2681	plain
-2682	plain
-2683	sunny
-2700	shade
-2700	sunny
-2700	plain
-2701	shade
-2701	sunny
-2701	plain
-2702	shade
-2702	plain
-2702	sunny
-2703	plain
-2703	sunny
-2703	shade
-2704	plain
-2704	shade
-2704	sunny
-2705	plain
-2705	sunny
-2706	plain
-2706	shade
-2706	sunny
-2707	sunny
-2707	plain
-2707	shade
-2708	sunny
-2709	sunny
-2709	plain
-2709	shade
-2710	shade
-2710	sunny
-2710	plain
-2711	sunny
-2711	shade
-2711	plain
-2712	shade
-2712	plain
-2712	sunny
-2713	plain
-2714	plain
-2715	sunny
-2715	plain
-2716	plain
-2717	plain
-2718	plain
-2719	plain
-2720	plain
-2721	plain
-2721	shade
-2721	sunny
-2722	plain
-2722	shade
-2722	sunny
-2723	shade
-2723	plain
-2724	shade
-2724	plain
-2725	plain
-2725	shade
-2725	sunny
-2726	plain
-2726	sunny
-2727	shade
-2728	shade
-2728	plain
-2728	sunny
-2729	shade
-2730	plain
-2730	sunny
-2730	shade
-2731	plain
-2732	shade
-2732	sunny
-2732	plain
-2733	sunny
-2733	plain
-2733	shade
-2734	plain
-2734	shade
-2734	sunny
-2735	plain
-2736	sunny
-2737	plain
-2738	shade
-2738	plain
-2739	shade
-2740	shade
-2741	plain
-2742	shade
-2743	shade
-2744	sunny
-2744	plain
-2745	plain
-2745	sunny
-2746	sunny
-2747	plain
-2747	sunny
-2748	sunny
-2748	plain
-2748	shade
-2749	shade
-2749	plain
-2750	sunny
-2750	plain
-2750	shade
-2751	shade
-2752	plain
-2753	sunny
-2754	sunny
-2754	plain
-2754	shade
-2755	sunny
-2756	sunny
-2756	plain
-2757	shade
-2758	sunny
-2758	plain
-2759	shade
-2759	sunny
-2760	shade
-2760	sunny
-2761	shade
-2761	sunny
-2761	plain
-2762	shade
-2762	sunny
-2763	sunny
-2763	shade
-2765	shade
-2765	sunny
-2801	shade
-2801	plain
-2802	plain
-2803	plain
-2804	plain
-2805	plain
-2806	plain
-2807	plain
-2808	plain
-2809	sunny
-2810	sunny
-2811	plain
-2812	sunny
-2813	sunny
-2813	plain
-2814	sunny
-2814	plain
-2815	sunny
-2815	plain
-2816	sunny
-2817	plain
-2817	sunny
-2818	plain
-2819	plain
-2819	sunny
-2820	shade
-2820	sunny
-2820	plain
-2821	plain
-2822	sunny
-2822	plain
-2823	sunny
-2823	plain
-2824	plain
-2825	plain
-2826	plain
-2826	sunny
-2827	sunny
-3001	plain
-3001	shade
-3001	sunny
-3002	sunny
-3003	sunny
-3003	plain
-3004	shade
-3004	plain
-3005	shade
-3005	sunny
-3006	sunny
-3007	sunny
-3008	shade
-3009	sunny
-3009	shade
-3010	sunny
-3010	shade
-3011	sunny
-3011	shade
-3012	shade
-3012	sunny
-3012	plain
-3013	plain
-3013	sunny
-3081	plain
-3081	sunny
-3081	shade
-3082	plain
-3082	sunny
-3082	shade
-3083	shade
-3083	sunny
-3083	plain
-3084	shade
-3084	sunny
-3084	plain
-3110	sunny
-3110	shade
-3110	plain
-3111	shade
-3111	sunny
-3111	plain
-3114	shade
-3114	sunny
-3114	plain
-3115	shade
-3115	sunny
-3115	plain
-3120	sunny
-3120	shade
-3120	plain
-3130	plain
-3130	shade
-3130	sunny
-3140	plain
-3140	shade
-3140	sunny
-3141	plain
-3141	sunny
-3141	shade
-3150	plain
-3150	shade
-3150	sunny
-3171	shade
-3171	plain
-3171	sunny
-3172	plain
-3172	sunny
-3173	sunny
-3173	plain
-3174	sunny
-3174	plain
-3175	sunny
-3175	plain
-3200	sunny
-3200	plain
-3200	shade
-3201	plain
-3201	sunny
-3201	shade
-3261	shade
-3261	sunny
-3261	plain
-3262	shade
-3262	plain
-3262	sunny
-3310	plain
-3310	sunny
-3310	shade
-3311	shade
-3311	sunny
-3311	plain
-3370	sunny
-3370	shade
-3370	plain
-3371	shade
-3371	plain
-3371	sunny
-3391	sunny
-3391	plain
-3391	shade
-3392	sunny
-3392	shade
-3392	plain
-3440	sunny
-3440	plain
-3440	shade
-3480	shade
-3480	plain
-3480	sunny
-3481	sunny
-3481	shade
-3481	plain
-3501	shade
-3501	sunny
-3501	plain
-3502	shade
-3502	sunny
-3502	plain
-3503	plain
-3503	sunny
-3503	shade
-3540	plain
-3540	shade
-3540	sunny
-3541	sunny
-3541	plain
-3541	shade
-3542	plain
-3543	plain
-3544	plain
-3601	plain
-3602	plain
-3603	plain
-3607	sunny
-3607	shade
-3607	plain
-3608	sunny
-3608	plain
-3608	shade
-3609	plain
-3609	sunny
-3609	shade
-3610	sunny
-3610	plain
-3610	shade
-3611	shade
-3611	sunny
-3611	plain
-3612	plain
-3612	shade
-3612	sunny
-3613	plain
-3911	sunny
-3911	shade
-3911	plain
-3912	sunny
-3912	plain
-3912	shade
-4000	plain
-4000	sunny
-4000	shade
-4021	plain
-4021	sunny
-4021	shade
-4040	sunny
-4040	shade
-4040	plain
-4041	sunny
-4041	shade
-4041	plain
-4042	shade
-4042	sunny
-4042	plain
-4043	plain
-4043	sunny
-4043	shade
-4044	plain
-4151	shade
-4201	plain
-4201	shade
-4201	sunny
-4202	shade
-4202	plain
-4203	sunny
-4203	plain
-4203	shade
-4214	plain
-4215	plain
-4216	sunny
-4216	shade
-4216	plain
-4217	sunny
-4217	shade
-4217	plain
-4218	plain
-4218	shade
-4218	sunny
-4290	shade
-4290	sunny
-4290	plain
-4501	plain
-4501	shade
-4501	sunny
-4502	plain
-4502	shade
-4502	sunny
-4730	plain
-4730	sunny
-4730	shade
-4731	sunny
-4731	plain
-4731	shade
-4732	shade
-4732	plain
-4732	sunny
-4750	sunny
-4750	shade
-4750	plain
-4771	sunny
-4771	plain
-4772	plain
-4772	sunny
-4773	sunny
-4773	plain
-4774	plain
-4775	plain
-4775	sunny
-4778	plain
-4779	plain
-4780	shade
-4780	sunny
-4780	plain
-4781	sunny
-4781	plain
-4781	shade
-4800	shade
-4800	sunny
-4800	plain
-4801	plain
-4801	shade
-4803	sunny
-4803	plain
-4803	shade
-4880	plain
-4880	shade
-4920	sunny
-4920	shade
-4920	plain
-4921	plain
-4922	plain
-4930	shade
-4930	sunny
-4930	plain
-4934	plain
-4934	sunny
-4935	sunny
-4935	plain
-4936	sunny
-4936	plain
-4937	plain
-4937	sunny
-4938	sunny
-4938	plain
-4939	shade
-4939	plain
-4940	plain
-4940	shade
-4941	sunny
-4941	plain
-4941	shade
-4942	sunny
-4942	plain
-4942	shade
-4943	shade
-4943	plain
-4943	sunny
-4944	plain
-4945	sunny
-4945	plain
-4947	sunny
-4947	plain
-4948	plain
-4948	sunny
-4949	sunny
-4949	plain
-4950	plain
-4951	plain
-4952	plain
-4953	plain
-4954	plain
-4955	plain
-4956	plain
-4957	plain
-4958	shade
-4960	plain
-4960	sunny
-4961	shade
-5000	sunny
-5000	plain
-5001	plain
-5002	plain
-5004	plain
-5005	plain
-5005	sunny
-5008	sunny
-5008	plain
-5009	sunny
-5009	plain
-5010	plain
-5010	shade
-5011	sunny
-5011	plain
-5011	shade
-5012	plain
-5012	shade
-5012	sunny
-5013	plain
-5014	plain
-5014	sunny
-5014	shade
-5015	plain
-5015	sunny
-5015	shade
-5016	sunny
-5016	shade
-5016	plain
-5017	shade
-5017	sunny
-5017	plain
-5018	sunny
-5018	plain
-5019	shade
-5019	plain
-5020	sunny
-5020	shade
-5020	plain
-5021	plain
-5021	sunny
-5021	shade
-5022	sunny
-5023	shade
-5024	plain
-5026	plain
-5026	shade
-5027	plain
-5027	sunny
-5027	shade
-5028	plain
-5028	sunny
-5028	shade
-5029	sunny
-5029	shade
-5029	plain
-5030	shade
-5030	plain
-5031	sunny
-5031	shade
-5031	plain
-5032	sunny
-5032	plain
-5032	shade
-5033	sunny
-5033	plain
-5033	shade
-5034	sunny
-5034	plain
-5034	shade
-5035	shade
-5036	shade
-5036	plain
-5037	sunny
-5038	sunny
-5038	plain
-5039	shade
-5039	sunny
-5040	plain
-5040	sunny
-5041	plain
-5041	sunny
-5042	shade
-5042	sunny
-5042	plain
-5043	sunny
-5044	sunny
-5045	sunny
-5045	shade
-5046	sunny
-5047	shade
-5047	plain
-5048	shade
-5048	plain
-5048	sunny
-5049	shade
-5049	plain
-5049	sunny
-5050	shade
-5050	sunny
-5050	plain
-5051	sunny
-5051	plain
-5052	plain
-5052	sunny
-5053	shade
-5053	plain
-5053	sunny
-5054	plain
-5054	sunny
-5054	shade
-5055	sunny
-5055	plain
-5056	plain
-5057	plain
-5057	sunny
-5058	plain
-5059	sunny
-5060	plain
-5061	plain
-5064	plain
-5064	sunny
-5068	shade
-5069	sunny
-5100	shade
-5101	plain
-5101	sunny
-5102	shade
-5102	sunny
-5103	shade
-5105	shade
-5105	sunny
-5106	sunny
-5107	shade
-5108	shade
-5108	sunny
-5108	plain
-5109	shade
-5109	sunny
-5109	plain
-5110	shade
-5110	sunny
-5110	plain
-5111	shade
-5111	sunny
-5111	plain
-5112	sunny
-5113	shade
-5114	plain
-5115	sunny
-5115	plain
-5116	sunny
-5116	plain
-5116	shade
-5117	shade
-5118	sunny
-5118	plain
-5119	plain
-5120	shade
-5120	sunny
-5120	plain
-5121	plain
-5121	shade
-5122	shade
-5123	plain
-5123	shade
-5124	sunny
-5124	plain
-5125	shade
-5125	plain
-5126	shade
-5126	sunny
-5127	shade
-5127	sunny
-5128	shade
-5129	plain
-5130	sunny
-5131	shade
-5132	plain
-5132	shade
-5133	shade
-5134	plain
-5134	shade
-5135	sunny
-5204	plain
-5204	sunny
-5204	shade
-5205	plain
-5205	sunny
-5205	shade
-5206	sunny
-5206	plain
-5206	shade
-5207	sunny
-5207	shade
-5207	plain
-5208	plain
-5209	plain
-5451	plain
-5451	sunny
-5451	shade
-5452	plain
-5452	sunny
-5501	sunny
-5501	shade
-5501	plain
-5520	shade
-5520	sunny
-5520	plain
-5601	sunny
-5602	shade
-5602	plain
-5602	sunny
-5740	plain
-5740	sunny
-5740	shade
-5820	plain
-5820	shade
-5820	sunny
-5821	plain
-5821	shade
-5821	sunny
-5822	plain
-5822	shade
-5822	sunny
-5823	shade
-5823	sunny
-5823	plain
-5824	sunny
-5824	shade
-5824	plain
-6001	shade
-6002	plain
-6003	plain
-6004	plain
-6006	plain
-6007	plain
-6008	plain
-6009	plain
-6010	shade
-6010	plain
-6011	plain
-6011	sunny
-6015	plain
-6023	plain
-6027	sunny
-6027	plain
-6028	plain
-6030	plain
-6032	plain
-6033	plain
-6034	sunny
-6035	sunny
-6036	shade
-6036	plain
-6037	sunny
-6038	plain
-6038	shade
-6038	sunny
-6039	plain
-6039	shade
-6040	sunny
-6040	plain
-6041	plain
-6041	shade
-6041	sunny
-6042	shade
-6042	sunny
-6043	plain
-6044	shade
-6044	plain
-6044	sunny
-6101	shade
-6102	shade
-6102	plain
-6103	shade
-6103	plain
-6103	sunny
-6104	shade
-6104	plain
-6104	sunny
-6105	plain
-6105	shade
-6105	sunny
-6106	plain
-6106	shade
-6106	sunny
-6107	shade
-6107	plain
-6108	sunny
-6108	shade
-6108	plain
-6109	sunny
-6109	plain
-6109	shade
-6110	sunny
-6110	plain
-6110	shade
-6111	shade
-6111	plain
-6111	sunny
-6112	shade
-6113	plain
-6114	sunny
-6118	plain
-6201	shade
-6201	sunny
-6201	plain
-6202	plain
-6202	shade
-6202	sunny
-6301	sunny
-6301	plain
-6302	plain
-6303	shade
-6401	plain
-6501	sunny
-6501	plain
-6501	shade
-6502	sunny
-6502	plain
-6502	shade
-6503	shade
-6503	sunny
-6503	plain
-7001	plain
-7002	plain
-7003	plain
-7004	plain
-7005	plain
-7006	plain
-7007	plain
-7008	plain
-7009	plain
-7010	plain
-7011	plain
-7012	plain
-7013	plain
-7014	plain
-7015	plain
-7016	plain
-7017	plain
-7018	plain
-7019	plain
-7020	plain
-7021	plain
-7022	plain
-7023	plain
-7024	plain
-7025	plain
-7026	plain
-7027	plain
-7028	plain
-7029	plain
-7030	plain
-7031	plain
-7032	plain
-7033	plain
-7034	plain
-7035	plain
-7036	sunny
-7037	plain
-7038	plain
-7039	plain
-7040	plain
-7041	plain
-7042	plain
-7043	plain
-2304	sunny
-2305	plain
-2306	plain
-2307	sunny
-2307	plain
-2308	plain
-2309	sunny
-2310	plain
-2316	sunny
-2317	sunny
-2318	sunny
-2319	sunny
-2321	sunny
-2322	sunny
-2323	sunny
-2322	plain
+GesID,Ebene
+1,plain
+2,plain
+3,plain
+5,plain
+6,plain
+7,plain
+8,plain
+9,plain
+10,plain
+12,plain
+13,plain
+14,plain
+15,plain
+16,plain
+17,plain
+18,plain
+19,plain
+20,plain
+21,plain
+22,plain
+23,plain
+24,plain
+25,plain
+26,plain
+27,plain
+28,plain
+29,plain
+30,plain
+31,plain
+32,plain
+33,plain
+34,plain
+35,plain
+36,plain
+37,plain
+38,plain
+39,plain
+40,plain
+42,plain
+43,plain
+44,plain
+45,plain
+46,plain
+48,plain
+49,plain
+52,plain
+53,plain
+54,plain
+55,plain
+56,plain
+59,plain
+60,plain
+61,plain
+62,plain
+63,plain
+64,plain
+65,plain
+66,plain
+67,plain
+69,plain
+70,plain
+71,plain
+72,plain
+73,plain
+74,plain
+75,plain
+76,plain
+77,plain
+78,plain
+79,plain
+80,plain
+81,plain
+82,plain
+83,plain
+84,plain
+85,plain
+86,plain
+87,plain
+88,plain
+89,plain
+90,plain
+91,plain
+93,plain
+94,plain
+95,plain
+96,plain
+98,plain
+99,plain
+100,plain
+102,plain
+103,plain
+104,plain
+105,plain
+107,plain
+110,plain
+112,plain
+113,plain
+114,plain
+115,plain
+116,plain
+118,plain
+119,plain
+120,plain
+121,plain
+122,plain
+123,plain
+124,plain
+125,plain
+126,plain
+127,plain
+128,plain
+129,plain
+130,plain
+131,plain
+132,plain
+133,plain
+134,plain
+135,plain
+136,plain
+137,plain
+138,plain
+139,plain
+140,plain
+141,plain
+142,plain
+143,plain
+144,plain
+145,plain
+146,plain
+147,plain
+148,plain
+149,plain
+150,plain
+151,plain
+152,plain
+154,plain
+156,plain
+158,plain
+159,plain
+162,plain
+163,plain
+166,plain
+167,plain
+168,plain
+169,plain
+170,plain
+171,plain
+172,plain
+173,plain
+174,plain
+175,plain
+180,plain
+181,plain
+183,plain
+187,plain
+188,plain
+189,plain
+190,plain
+191,plain
+192,plain
+196,plain
+198,plain
+203,plain
+204,plain
+206,plain
+2010,plain
+2010,shade
+2011,plain
+2011,sunny
+2012,plain
+2013,shade
+2013,plain
+2013,sunny
+2014,shade
+2015,plain
+2016,plain
+2016,sunny
+2016,shade
+2017,sunny
+2018,shade
+2019,shade
+2020,sunny
+2020,plain
+2020,shade
+2021,plain
+2022,sunny
+2023,shade
+2024,plain
+2024,sunny
+2025,shade
+2026,shade
+2026,plain
+2026,sunny
+2027,plain
+2027,shade
+2027,sunny
+2028,plain
+2028,shade
+2028,sunny
+2029,sunny
+2030,sunny
+2031,plain
+2032,shade
+2032,plain
+2033,shade
+2033,plain
+2033,sunny
+2034,sunny
+2034,shade
+2034,plain
+2035,sunny
+2035,plain
+2035,shade
+2036,plain
+2036,sunny
+2037,sunny
+2038,plain
+2038,shade
+2039,sunny
+2040,sunny
+2040,plain
+2041,sunny
+2042,shade
+2042,plain
+2043,plain
+2043,shade
+2044,plain
+2045,plain
+2046,plain
+2047,plain
+2047,sunny
+2047,shade
+2048,plain
+2048,sunny
+2048,shade
+2049,plain
+2050,sunny
+2050,plain
+2050,shade
+2051,plain
+2051,shade
+2051,sunny
+2052,plain
+2053,sunny
+2053,plain
+2053,shade
+2054,shade
+2054,plain
+2054,sunny
+2055,sunny
+2055,shade
+2055,plain
+2056,plain
+2057,sunny
+2057,shade
+2057,plain
+2058,sunny
+2058,shade
+2058,plain
+2059,sunny
+2059,shade
+2059,plain
+2060,sunny
+2060,plain
+2060,shade
+2061,shade
+2062,plain
+2062,shade
+2063,shade
+2064,shade
+2064,plain
+2065,shade
+2065,plain
+2066,plain
+2067,plain
+2068,sunny
+2069,plain
+2069,sunny
+2069,shade
+2070,shade
+2071,shade
+2071,sunny
+2072,plain
+2073,shade
+2073,plain
+2074,shade
+2074,plain
+2075,shade
+2075,plain
+2076,shade
+2077,sunny
+2078,plain
+2079,shade
+2081,sunny
+2081,plain
+2083,shade
+2084,shade
+2084,plain
+2085,sunny
+2086,shade
+2087,sunny
+2090,shade
+2090,sunny
+2090,plain
+2091,plain
+2092,plain
+2093,plain
+2100,shade
+2100,sunny
+2100,plain
+2101,plain
+2110,plain
+2111,sunny
+2111,plain
+2112,shade
+2120,plain
+2121,shade
+2122,sunny
+2124,plain
+2130,plain
+2131,sunny
+2132,shade
+2133,plain
+2134,shade
+2140,sunny
+2150,sunny
+2151,shade
+2151,plain
+2152,sunny
+2153,sunny
+2154,sunny
+2155,sunny
+2155,plain
+2156,sunny
+2160,plain
+2160,shade
+2170,shade
+2170,sunny
+2170,plain
+2180,shade
+2180,plain
+2180,sunny
+2190,plain
+2191,plain
+2201,shade
+2201,sunny
+2201,plain
+2202,plain
+2203,plain
+2210,sunny
+2210,plain
+2210,shade
+2211,shade
+2211,plain
+2212,sunny
+2230,sunny
+2230,plain
+2230,shade
+2241,shade
+2242,shade
+2243,shade
+2244,shade
+2245,plain
+2245,shade
+2245,sunny
+2246,plain
+2250,plain
+2250,shade
+2250,sunny
+2260,plain
+2260,shade
+2261,plain
+2270,sunny
+2271,sunny
+2273,plain
+2273,shade
+2274,shade
+2280,shade
+2290,sunny
+2290,shade
+2290,plain
+2291,plain
+2292,plain
+2293,plain
+2293,sunny
+2301,shade
+2301,plain
+2302,plain
+2302,sunny
+2303,plain
+2303,sunny
+2304,sunny
+2305,plain
+2306,plain
+2307,plain
+2307,sunny
+2308,plain
+2309,sunny
+2310,plain
+2312,sunny
+2313,sunny
+2314,sunny
+2314,plain
+2315,sunny
+2316,sunny
+2317,shade
+2317,sunny
+2318,sunny
+2319,sunny
+2320,plain
+2320,shade
+2321,sunny
+2322,sunny
+2322,plain
+2323,sunny
+2330,plain
+2330,shade
+2340,shade
+2340,plain
+2340,sunny
+2350,sunny
+2360,sunny
+2370,sunny
+2380,sunny
+2399,shade
+2399,plain
+2400,shade
+2400,plain
+2400,sunny
+2401,plain
+2401,shade
+2401,sunny
+2402,plain
+2403,sunny
+2404,sunny
+2405,sunny
+2406,shade
+2407,shade
+2407,sunny
+2407,plain
+2408,sunny
+2409,sunny
+2409,plain
+2409,shade
+2410,sunny
+2410,shade
+2410,plain
+2412,shade
+2413,sunny
+2414,sunny
+2415,sunny
+2416,sunny
+2417,shade
+2418,plain
+2418,sunny
+2419,shade
+2420,plain
+2420,shade
+2420,sunny
+2421,plain
+2421,sunny
+2421,shade
+2422,shade
+2422,plain
+2422,sunny
+2423,shade
+2423,plain
+2423,sunny
+2424,sunny
+2424,shade
+2424,plain
+2425,shade
+2425,plain
+2425,sunny
+2426,shade
+2426,sunny
+2426,plain
+2427,sunny
+2427,shade
+2428,shade
+2429,plain
+2429,shade
+2429,sunny
+2430,plain
+2430,shade
+2430,sunny
+2431,sunny
+2432,sunny
+2433,plain
+2433,sunny
+2434,plain
+2435,sunny
+2436,shade
+2437,shade
+2438,shade
+2438,sunny
+2438,plain
+2439,sunny
+2440,sunny
+2441,plain
+2441,shade
+2442,shade
+2444,shade
+2445,sunny
+2446,sunny
+2461,plain
+2462,plain
+2462,sunny
+2464,shade
+2465,sunny
+2470,plain
+2471,shade
+2474,plain
+2475,sunny
+2477,shade
+2478,plain
+2478,shade
+2478,sunny
+2501,shade
+2501,sunny
+2501,plain
+2502,plain
+2510,plain
+2510,sunny
+2511,shade
+2511,sunny
+2511,plain
+2512,sunny
+2512,plain
+2513,sunny
+2513,plain
+2513,shade
+2515,sunny
+2516,sunny
+2516,plain
+2517,shade
+2517,plain
+2518,sunny
+2518,plain
+2519,shade
+2519,plain
+2520,shade
+2521,sunny
+2522,sunny
+2522,plain
+2523,sunny
+2523,plain
+2523,shade
+2524,shade
+2524,plain
+2525,plain
+2525,shade
+2526,plain
+2526,shade
+2527,shade
+2527,plain
+2528,plain
+2528,shade
+2529,plain
+2529,shade
+2530,shade
+2530,plain
+2531,shade
+2531,plain
+2532,shade
+2532,plain
+2532,sunny
+2533,plain
+2533,shade
+2533,sunny
+2534,shade
+2534,plain
+2534,sunny
+2535,sunny
+2535,shade
+2535,plain
+2536,shade
+2536,plain
+2536,sunny
+2537,plain
+2537,shade
+2537,sunny
+2538,shade
+2539,shade
+2540,shade
+2541,shade
+2542,sunny
+2543,sunny
+2544,shade
+2544,plain
+2544,sunny
+2545,plain
+2545,shade
+2545,sunny
+2546,shade
+2546,sunny
+2546,plain
+2547,sunny
+2547,shade
+2547,plain
+2548,sunny
+2548,shade
+2548,plain
+2549,sunny
+2550,sunny
+2551,sunny
+2552,shade
+2553,plain
+2553,sunny
+2553,shade
+2554,shade
+2555,plain
+2556,sunny
+2557,sunny
+2558,sunny
+2558,plain
+2558,shade
+2559,sunny
+2560,sunny
+2561,sunny
+2562,shade
+2562,plain
+2562,sunny
+2563,plain
+2563,shade
+2563,sunny
+2564,plain
+2564,shade
+2564,sunny
+2565,plain
+2565,shade
+2565,sunny
+2566,shade
+2567,sunny
+2567,shade
+2567,plain
+2568,sunny
+2568,shade
+2568,plain
+2569,shade
+2569,sunny
+2569,plain
+2570,shade
+2570,plain
+2570,sunny
+2571,shade
+2571,sunny
+2571,plain
+2572,shade
+2572,plain
+2572,sunny
+2573,sunny
+2573,shade
+2573,plain
+2574,plain
+2574,sunny
+2574,shade
+2575,shade
+2576,shade
+2577,sunny
+2578,plain
+2578,shade
+2578,sunny
+2579,plain
+2579,shade
+2579,sunny
+2580,shade
+2580,sunny
+2580,plain
+2581,sunny
+2581,plain
+2581,shade
+2582,sunny
+2583,sunny
+2584,plain
+2585,plain
+2586,plain
+2587,plain
+2588,plain
+2591,sunny
+2591,shade
+2591,plain
+2592,plain
+2593,plain
+2594,plain
+2595,plain
+2596,plain
+2596,shade
+2596,sunny
+2597,shade
+2597,sunny
+2597,plain
+2598,plain
+2598,shade
+2598,sunny
+2599,sunny
+2599,plain
+2599,shade
+2601,sunny
+2602,sunny
+2603,sunny
+2604,sunny
+2605,plain
+2605,sunny
+2605,shade
+2606,sunny
+2606,plain
+2607,sunny
+2608,sunny
+2609,sunny
+2610,sunny
+2613,plain
+2614,plain
+2614,sunny
+2615,plain
+2615,shade
+2616,plain
+2617,plain
+2618,plain
+2619,sunny
+2619,plain
+2620,plain
+2621,plain
+2621,shade
+2622,plain
+2622,sunny
+2623,sunny
+2624,shade
+2625,shade
+2626,plain
+2627,plain
+2628,shade
+2628,plain
+2628,sunny
+2629,plain
+2629,sunny
+2629,shade
+2630,plain
+2631,shade
+2631,sunny
+2632,shade
+2633,plain
+2634,plain
+2635,plain
+2636,plain
+2636,shade
+2637,shade
+2638,plain
+2640,sunny
+2641,shade
+2641,plain
+2642,shade
+2642,plain
+2643,shade
+2643,plain
+2644,plain
+2645,shade
+2646,shade
+2646,sunny
+2646,plain
+2647,sunny
+2648,plain
+2649,plain
+2650,shade
+2651,shade
+2652,shade
+2652,sunny
+2652,plain
+2653,shade
+2654,sunny
+2654,plain
+2656,sunny
+2656,shade
+2657,sunny
+2657,plain
+2659,sunny
+2660,sunny
+2661,sunny
+2664,sunny
+2665,sunny
+2666,sunny
+2666,plain
+2666,shade
+2667,shade
+2669,sunny
+2670,sunny
+2671,shade
+2672,shade
+2673,sunny
+2673,plain
+2675,shade
+2676,shade
+2676,plain
+2677,sunny
+2678,shade
+2679,shade
+2679,plain
+2679,sunny
+2680,shade
+2680,plain
+2681,sunny
+2681,shade
+2681,plain
+2682,plain
+2683,sunny
+2700,shade
+2700,plain
+2700,sunny
+2701,sunny
+2701,plain
+2701,shade
+2702,sunny
+2702,plain
+2702,shade
+2703,plain
+2703,sunny
+2703,shade
+2704,plain
+2704,shade
+2704,sunny
+2705,plain
+2705,sunny
+2706,shade
+2706,plain
+2706,sunny
+2707,sunny
+2707,shade
+2707,plain
+2708,sunny
+2709,sunny
+2709,plain
+2709,shade
+2710,sunny
+2710,shade
+2710,plain
+2711,shade
+2711,plain
+2711,sunny
+2712,sunny
+2712,shade
+2712,plain
+2713,plain
+2714,plain
+2715,plain
+2715,sunny
+2716,plain
+2717,plain
+2718,plain
+2719,plain
+2720,plain
+2721,sunny
+2721,plain
+2721,shade
+2722,shade
+2722,plain
+2722,sunny
+2723,plain
+2723,shade
+2724,plain
+2724,shade
+2725,plain
+2725,sunny
+2725,shade
+2726,sunny
+2726,plain
+2727,shade
+2728,sunny
+2728,shade
+2728,plain
+2729,shade
+2730,sunny
+2730,plain
+2730,shade
+2731,plain
+2732,sunny
+2732,shade
+2732,plain
+2733,plain
+2733,sunny
+2733,shade
+2734,shade
+2734,plain
+2734,sunny
+2735,plain
+2736,sunny
+2737,plain
+2738,plain
+2738,shade
+2739,shade
+2740,shade
+2741,plain
+2742,shade
+2743,shade
+2744,sunny
+2744,plain
+2745,sunny
+2745,plain
+2746,sunny
+2747,plain
+2747,sunny
+2748,shade
+2748,sunny
+2748,plain
+2749,shade
+2749,plain
+2750,shade
+2750,sunny
+2750,plain
+2751,shade
+2752,plain
+2753,sunny
+2754,shade
+2754,plain
+2754,sunny
+2755,sunny
+2756,plain
+2756,sunny
+2757,shade
+2758,plain
+2758,sunny
+2759,shade
+2759,sunny
+2760,shade
+2760,sunny
+2761,plain
+2761,sunny
+2761,shade
+2762,shade
+2762,sunny
+2763,sunny
+2763,shade
+2765,sunny
+2765,shade
+2801,shade
+2801,plain
+2802,plain
+2803,plain
+2804,plain
+2805,plain
+2806,plain
+2807,plain
+2808,plain
+2809,sunny
+2810,sunny
+2811,plain
+2812,sunny
+2813,plain
+2813,sunny
+2814,plain
+2814,sunny
+2815,sunny
+2815,plain
+2816,sunny
+2817,plain
+2817,sunny
+2818,plain
+2819,plain
+2819,sunny
+2820,plain
+2820,sunny
+2820,shade
+2821,plain
+2822,plain
+2822,sunny
+2823,sunny
+2823,plain
+2824,plain
+2825,plain
+2826,plain
+2826,sunny
+2827,sunny
+3001,shade
+3001,sunny
+3001,plain
+3002,sunny
+3003,sunny
+3003,plain
+3004,plain
+3004,shade
+3005,shade
+3005,sunny
+3006,sunny
+3007,sunny
+3008,shade
+3009,sunny
+3009,shade
+3010,shade
+3010,sunny
+3011,shade
+3011,sunny
+3012,plain
+3012,sunny
+3012,shade
+3013,sunny
+3013,plain
+3081,sunny
+3081,plain
+3081,shade
+3082,shade
+3082,plain
+3082,sunny
+3083,shade
+3083,sunny
+3083,plain
+3084,sunny
+3084,plain
+3084,shade
+3110,shade
+3110,sunny
+3110,plain
+3111,plain
+3111,shade
+3111,sunny
+3114,plain
+3114,shade
+3114,sunny
+3115,shade
+3115,plain
+3115,sunny
+3120,shade
+3120,sunny
+3120,plain
+3130,plain
+3130,sunny
+3130,shade
+3140,sunny
+3140,shade
+3140,plain
+3141,sunny
+3141,shade
+3141,plain
+3150,sunny
+3150,shade
+3150,plain
+3171,plain
+3171,sunny
+3171,shade
+3172,sunny
+3172,plain
+3173,sunny
+3173,plain
+3174,plain
+3174,sunny
+3175,plain
+3175,sunny
+3200,plain
+3200,shade
+3200,sunny
+3201,shade
+3201,plain
+3201,sunny
+3211,sunny
+3261,sunny
+3261,plain
+3261,shade
+3262,plain
+3262,shade
+3262,sunny
+3310,shade
+3310,sunny
+3310,plain
+3311,plain
+3311,sunny
+3311,shade
+3370,plain
+3370,shade
+3370,sunny
+3371,plain
+3371,sunny
+3371,shade
+3391,sunny
+3391,shade
+3391,plain
+3392,plain
+3392,shade
+3392,sunny
+3440,plain
+3440,shade
+3440,sunny
+3480,shade
+3480,plain
+3480,sunny
+3481,plain
+3481,sunny
+3481,shade
+3501,plain
+3501,sunny
+3501,shade
+3502,shade
+3502,plain
+3502,sunny
+3503,shade
+3503,sunny
+3503,plain
+3540,plain
+3540,shade
+3540,sunny
+3541,sunny
+3541,plain
+3541,shade
+3542,plain
+3543,plain
+3544,plain
+3601,plain
+3602,plain
+3603,plain
+3607,plain
+3607,sunny
+3607,shade
+3608,plain
+3608,shade
+3608,sunny
+3609,plain
+3609,sunny
+3609,shade
+3610,plain
+3610,sunny
+3610,shade
+3611,sunny
+3611,shade
+3611,plain
+3612,shade
+3612,plain
+3612,sunny
+3613,plain
+3911,plain
+3911,sunny
+3911,shade
+3912,shade
+3912,sunny
+3912,plain
+4000,shade
+4000,plain
+4000,sunny
+4021,plain
+4021,sunny
+4021,shade
+4040,sunny
+4040,plain
+4040,shade
+4041,plain
+4041,shade
+4041,sunny
+4042,shade
+4042,plain
+4042,sunny
+4043,plain
+4043,sunny
+4043,shade
+4044,plain
+4151,shade
+4201,sunny
+4201,plain
+4201,shade
+4202,plain
+4202,shade
+4203,sunny
+4203,plain
+4203,shade
+4214,plain
+4215,plain
+4216,sunny
+4216,plain
+4216,shade
+4217,plain
+4217,sunny
+4217,shade
+4218,shade
+4218,sunny
+4218,plain
+4290,shade
+4290,sunny
+4290,plain
+4501,plain
+4501,sunny
+4501,shade
+4502,sunny
+4502,shade
+4502,plain
+4730,sunny
+4730,plain
+4730,shade
+4731,plain
+4731,shade
+4731,sunny
+4732,sunny
+4732,shade
+4732,plain
+4750,sunny
+4750,plain
+4750,shade
+4771,plain
+4771,sunny
+4772,sunny
+4772,plain
+4773,plain
+4773,sunny
+4774,plain
+4775,plain
+4775,sunny
+4778,plain
+4779,plain
+4780,shade
+4780,sunny
+4780,plain
+4781,shade
+4781,plain
+4781,sunny
+4800,plain
+4800,sunny
+4800,shade
+4801,plain
+4801,shade
+4803,shade
+4803,plain
+4803,sunny
+4880,plain
+4880,shade
+4920,plain
+4920,sunny
+4920,shade
+4921,plain
+4922,plain
+4930,shade
+4930,sunny
+4930,plain
+4934,plain
+4934,sunny
+4935,plain
+4935,sunny
+4936,plain
+4936,sunny
+4937,plain
+4937,sunny
+4938,sunny
+4938,plain
+4939,shade
+4939,plain
+4940,shade
+4940,plain
+4941,sunny
+4941,plain
+4941,shade
+4942,sunny
+4942,shade
+4942,plain
+4943,shade
+4943,sunny
+4943,plain
+4944,plain
+4945,sunny
+4945,plain
+4947,sunny
+4947,plain
+4948,sunny
+4948,plain
+4949,plain
+4949,sunny
+4950,plain
+4951,plain
+4952,plain
+4953,plain
+4954,plain
+4955,plain
+4956,plain
+4957,plain
+4958,shade
+4960,plain
+4960,sunny
+4961,shade
+5000,sunny
+5000,plain
+5001,plain
+5002,plain
+5004,plain
+5005,plain
+5005,sunny
+5008,plain
+5008,sunny
+5009,plain
+5009,sunny
+5010,plain
+5010,shade
+5011,plain
+5011,shade
+5011,sunny
+5012,shade
+5012,sunny
+5012,plain
+5013,plain
+5014,plain
+5014,sunny
+5014,shade
+5015,sunny
+5015,plain
+5015,shade
+5016,plain
+5016,shade
+5016,sunny
+5017,plain
+5017,shade
+5017,sunny
+5018,sunny
+5018,plain
+5019,plain
+5019,shade
+5020,plain
+5020,sunny
+5020,shade
+5021,sunny
+5021,plain
+5021,shade
+5022,sunny
+5023,shade
+5024,plain
+5025,plain
+5026,plain
+5026,shade
+5027,shade
+5027,sunny
+5027,plain
+5028,plain
+5028,shade
+5028,sunny
+5029,plain
+5029,shade
+5029,sunny
+5030,plain
+5030,shade
+5031,plain
+5031,shade
+5031,sunny
+5032,plain
+5032,shade
+5032,sunny
+5033,plain
+5033,shade
+5033,sunny
+5034,plain
+5034,sunny
+5034,shade
+5035,shade
+5036,plain
+5036,shade
+5037,sunny
+5038,plain
+5038,sunny
+5039,shade
+5039,sunny
+5040,plain
+5040,sunny
+5041,plain
+5041,sunny
+5042,plain
+5042,sunny
+5042,shade
+5043,sunny
+5044,sunny
+5045,sunny
+5045,shade
+5046,sunny
+5047,plain
+5047,shade
+5048,shade
+5048,sunny
+5048,plain
+5049,plain
+5049,shade
+5049,sunny
+5050,plain
+5050,shade
+5050,sunny
+5051,plain
+5051,sunny
+5052,plain
+5052,sunny
+5053,plain
+5053,shade
+5053,sunny
+5054,plain
+5054,shade
+5054,sunny
+5055,sunny
+5055,plain
+5056,plain
+5057,plain
+5057,sunny
+5058,plain
+5059,sunny
+5060,plain
+5061,plain
+5064,plain
+5064,sunny
+5068,shade
+5069,sunny
+5100,shade
+5101,sunny
+5101,plain
+5102,shade
+5102,sunny
+5103,shade
+5105,sunny
+5105,shade
+5106,sunny
+5107,shade
+5108,sunny
+5108,plain
+5108,shade
+5109,sunny
+5109,plain
+5109,shade
+5110,sunny
+5110,shade
+5110,plain
+5111,shade
+5111,sunny
+5111,plain
+5112,sunny
+5113,shade
+5114,plain
+5115,sunny
+5115,plain
+5116,shade
+5116,sunny
+5116,plain
+5117,shade
+5118,sunny
+5118,plain
+5119,plain
+5120,shade
+5120,sunny
+5120,plain
+5121,plain
+5121,shade
+5122,shade
+5123,plain
+5123,shade
+5124,plain
+5124,sunny
+5125,plain
+5125,shade
+5126,shade
+5126,sunny
+5127,sunny
+5127,shade
+5128,shade
+5129,plain
+5130,sunny
+5131,shade
+5132,plain
+5132,shade
+5133,shade
+5134,shade
+5134,plain
+5135,sunny
+5204,plain
+5204,shade
+5204,sunny
+5205,shade
+5205,plain
+5205,sunny
+5206,plain
+5206,sunny
+5206,shade
+5207,plain
+5207,shade
+5207,sunny
+5208,plain
+5209,plain
+5451,plain
+5451,sunny
+5451,shade
+5452,sunny
+5452,plain
+5501,plain
+5501,sunny
+5501,shade
+5520,shade
+5520,sunny
+5520,plain
+5601,sunny
+5602,plain
+5602,shade
+5602,sunny
+5740,plain
+5740,shade
+5740,sunny
+5820,sunny
+5820,plain
+5820,shade
+5821,shade
+5821,plain
+5821,sunny
+5822,plain
+5822,shade
+5822,sunny
+5823,shade
+5823,sunny
+5823,plain
+5824,sunny
+5824,plain
+5824,shade
+6001,shade
+6002,plain
+6003,plain
+6004,plain
+6006,plain
+6007,plain
+6008,plain
+6009,plain
+6010,shade
+6010,plain
+6011,plain
+6011,sunny
+6015,plain
+6023,plain
+6027,plain
+6027,sunny
+6028,plain
+6030,plain
+6032,plain
+6033,plain
+6034,sunny
+6035,sunny
+6036,shade
+6036,plain
+6037,sunny
+6038,sunny
+6038,plain
+6038,shade
+6039,shade
+6039,plain
+6040,sunny
+6040,plain
+6041,shade
+6041,plain
+6041,sunny
+6042,sunny
+6042,shade
+6043,plain
+6044,shade
+6044,plain
+6044,sunny
+6101,shade
+6102,plain
+6102,shade
+6103,sunny
+6103,plain
+6103,shade
+6104,plain
+6104,shade
+6104,sunny
+6105,plain
+6105,shade
+6105,sunny
+6106,plain
+6106,shade
+6106,sunny
+6107,shade
+6107,plain
+6108,shade
+6108,sunny
+6108,plain
+6109,sunny
+6109,plain
+6109,shade
+6110,plain
+6110,shade
+6110,sunny
+6111,plain
+6111,sunny
+6111,shade
+6112,shade
+6113,plain
+6114,sunny
+6118,plain
+6201,plain
+6201,shade
+6201,sunny
+6202,sunny
+6202,shade
+6202,plain
+6301,sunny
+6301,plain
+6302,plain
+6303,shade
+6401,plain
+6501,plain
+6501,sunny
+6501,shade
+6502,plain
+6502,shade
+6502,sunny
+6503,plain
+6503,sunny
+6503,shade
+7001,plain
+7002,plain
+7003,plain
+7004,plain
+7005,plain
+7006,plain
+7007,plain
+7008,plain
+7009,plain
+7010,plain
+7011,plain
+7012,plain
+7013,plain
+7014,plain
+7015,plain
+7016,plain
+7017,plain
+7018,plain
+7019,plain
+7020,plain
+7021,plain
+7022,plain
+7023,plain
+7024,plain
+7025,plain
+7026,plain
+7027,plain
+7028,plain
+7029,plain
+7030,plain
+7031,plain
+7032,plain
+7033,plain
+7034,plain
+7035,plain
+7036,sunny
+7037,plain
+7038,plain
+7039,plain
+7040,plain
+7041,plain
+7042,plain
+7043,plain
