@@ -5,5 +5,5 @@ CN	Soil carbon / nitrogen ratio	5	70
 WI	Wetness index	0	100
 CI	Continentality index	0	100
 VP	Vegetation period	40	366
-T	Temperature range	-41	53
 CWB	Climatic water balance (P-ETpot) in mm/veg period	-100	500
+PAR	Photosynthetic Active Radiation in kWh/m² in Vegetation period	0	5000
