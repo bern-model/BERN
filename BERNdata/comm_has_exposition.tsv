@@ -1,1866 +1,1884 @@
-GesID	Ebene
-1	Plain
-2	Plain
-3	Plain
+Comm_ID	Inclination/Exposition
+1	plain
+2	plain
+3	plain
 4	Plain
-5	Plain
-6	Plain
-7	Plain
-8	Plain
-9	Plain
-10	Plain
-12	Plain
-13	Plain
-14	Plain
-15	Plain
-16	Plain
-17	Plain
-18	Plain
-19	Plain
-20	Plain
-21	Plain
-22	Plain
-23	Plain
-24	Plain
-25	Plain
-26	Plain
-27	Plain
-28	Plain
-29	Plain
-30	Plain
-31	Plain
-32	Plain
-33	Plain
-34	Plain
-35	Plain
-36	Plain
-37	Plain
-38	Plain
-39	Plain
-40	Plain
+4	plain
+5	plain
+6	plain
+7	plain
+8	plain
+9	plain
+10	plain
+12	plain
+13	plain
+14	plain
+15	plain
+16	plain
+17	plain
+18	plain
+19	plain
+20	plain
+21	plain
+22	plain
+23	plain
+24	plain
+25	plain
+26	plain
+27	plain
+28	plain
+29	plain
+30	plain
+31	plain
+32	plain
+33	plain
+34	plain
+35	plain
+36	plain
+37	plain
+38	plain
+39	plain
+40	plain
 41	on water surface
-42	Plain
-43	Plain
-44	Plain
-45	Plain
-46	Plain
+41	on water surface
+42	plain
+43	plain
+44	plain
+45	plain
+46	plain
 47	on water surface
-48	Plain
-49	Plain
-52	Plain
-53	Plain
-54	Plain
-55	Plain
-56	Plain
+47	on water surface
+48	plain
+49	plain
+52	plain
+53	plain
+54	plain
+55	plain
+56	plain
+57	on water surface
 57	on water surface
 58	on water surface
-59	Plain
-60	Plain
-61	Plain
-62	Plain
-63	Plain
-64	Plain
-65	Plain
-66	Plain
-67	Plain
+58	on water surface
+59	plain
+60	plain
+61	plain
+62	plain
+63	plain
+64	plain
+65	plain
+66	plain
+67	plain
 68	on water surface
-69	Plain
-70	Plain
-71	Plain
-72	Plain
+68	on water surface
+69	plain
+70	plain
+71	plain
+72	plain
 72	on water surface
-73	Plain
-74	Plain
-75	Plain
-76	Plain
-77	Plain
-78	Plain
-79	Plain
-80	Plain
-81	Plain
-82	Plain
-83	Plain
-84	Plain
-85	Plain
-86	Plain
-87	Plain
-88	Plain
-89	Plain
-90	Plain
-91	Plain
-93	Plain
-94	Plain
-95	Plain
-96	Plain
+72	on water surface
+73	plain
+74	plain
+75	plain
+76	plain
+77	plain
+78	plain
+79	plain
+80	plain
+81	plain
+82	plain
+83	plain
+84	plain
+85	plain
+86	plain
+87	plain
+88	plain
+89	plain
+90	plain
+91	plain
+93	plain
+94	plain
+95	plain
+96	plain
 97	Plain
-98	Plain
-99	Plain
-99	Plain
-100	Plain
-102	Plain
-103	Plain
-104	Plain
-105	Plain
+97	plain
+98	plain
+99	plain
+99	plain
+100	plain
+102	plain
+103	plain
+104	plain
+105	plain
 106	Shadow-exposed slope
-107	Plain
-110	Plain
-112	Plain
-113	Plain
-114	Plain
-115	Plain
-116	Plain
+106	Shadow-exposed slope
+107	plain
+110	plain
+112	plain
+113	plain
+114	plain
+115	plain
+116	plain
 117	Sun-exposed slope
 117	Plain
 117	Shadow-exposed slope
-118	Plain
-119	Plain
-120	Plain
-121	Plain
-122	Plain
-123	Plain
-124	Plain
-125	Plain
-126	Plain
-127	Plain
-128	Plain
-129	Plain
-130	Plain
-131	Plain
-132	Plain
-133	Plain
-134	Plain
-135	Plain
-136	Plain
-137	Plain
-138	Plain
-139	Plain
-140	Plain
+117	Sun-exposed slope
+117	plain
+117	Shadow-exposed slope
+118	plain
+119	plain
+120	plain
+121	plain
+122	plain
+123	plain
+124	plain
+125	plain
+126	plain
+127	plain
+128	plain
+129	plain
+130	plain
+131	plain
+132	plain
+133	plain
+134	plain
+135	plain
+136	plain
+137	plain
+138	plain
+139	plain
+140	plain
 140	on water surface
-141	Plain
-142	Plain
-143	Plain
-144	Plain
-145	Plain
-146	Plain
-147	Plain
-148	Plain
-149	Plain
-150	Plain
-151	Plain
-152	Plain
+140	on water surface
+141	plain
+142	plain
+143	plain
+144	plain
+145	plain
+146	plain
+147	plain
+148	plain
+149	plain
+150	plain
+151	plain
+152	plain
+153	plain
 153	Plain
-154	Plain
+154	plain
 155	Plain
-156	Plain
-158	Plain
-159	Plain
+155	plain
+156	plain
+158	plain
+159	plain
+160	plain
 160	Plain
+161	plain
 161	Plain
-162	Plain
-163	Plain
+162	plain
+163	plain
+164	plain
 164	Plain
+165	plain
 165	Plain
-166	Plain
-167	Plain
-168	Plain
-169	Plain
-170	Plain
-171	Plain
-172	Plain
-173	Plain
-174	Plain
-175	Plain
+166	plain
+167	plain
+168	plain
+169	plain
+170	plain
+171	plain
+172	plain
+173	plain
+174	plain
+175	plain
+176	plain
 176	Plain
 177	Plain
+177	plain
 178	Plain
-180	Plain
-181	Plain
-183	Plain
-187	Plain
-188	Plain
-189	Plain
-190	Plain
-191	Plain
-192	Plain
-196	Plain
-198	Plain
-203	Plain
-204	Plain
-206	Plain
+178	plain
+180	plain
+181	plain
+183	plain
+187	plain
+188	plain
+189	plain
+190	plain
+191	plain
+192	plain
+196	plain
+198	plain
+203	plain
+204	plain
+2006	plain
 2010	Shadow-exposed slope
-2010	Plain
+2010	plain
 2011	Sun-exposed slope
-2011	Plain
-2012	Plain
-2013	Shadow-exposed slope
-2013	Plain
+2011	plain
+2012	plain
 2013	Sun-exposed slope
+2013	Shadow-exposed slope
+2013	plain
 2014	Shadow-exposed slope
-2015	Plain
-2016	Plain
+2015	plain
 2016	Sun-exposed slope
 2016	Shadow-exposed slope
+2016	plain
 2017	Sun-exposed slope
 2018	Shadow-exposed slope
 2019	Shadow-exposed slope
-2020	Shadow-exposed slope
 2020	Sun-exposed slope
-2020	Plain
-2021	Plain
+2020	Shadow-exposed slope
+2020	plain
+2021	plain
 2022	Sun-exposed slope
 2023	Shadow-exposed slope
-2024	Plain
 2024	Sun-exposed slope
+2024	plain
 2025	Shadow-exposed slope
-2026	Plain
-2026	Shadow-exposed slope
 2026	Sun-exposed slope
-2027	Plain
-2027	Shadow-exposed slope
+2026	Shadow-exposed slope
+2026	plain
 2027	Sun-exposed slope
-2028	Plain
-2028	Shadow-exposed slope
+2027	Shadow-exposed slope
+2027	plain
 2028	Sun-exposed slope
+2028	Shadow-exposed slope
+2028	plain
 2029	Sun-exposed slope
 2030	Sun-exposed slope
-2031	Plain
-2032	Plain
+2031	plain
+2032	plain
 2032	Shadow-exposed slope
-2033	Sun-exposed slope
-2033	Plain
+2033	plain
 2033	Shadow-exposed slope
-2034	Plain
-2034	Sun-exposed slope
+2033	Sun-exposed slope
+2034	plain
 2034	Shadow-exposed slope
-2035	Plain
+2034	Sun-exposed slope
 2035	Shadow-exposed slope
 2035	Sun-exposed slope
-2036	Plain
+2035	plain
 2036	Sun-exposed slope
+2036	plain
 2037	Sun-exposed slope
-2038	Plain
+2038	plain
 2038	Shadow-exposed slope
 2039	Sun-exposed slope
+2040	plain
 2040	Sun-exposed slope
-2040	Plain
 2041	Sun-exposed slope
 2042	Shadow-exposed slope
-2042	Plain
+2042	plain
 2043	Shadow-exposed slope
-2043	Plain
-2044	Plain
-2045	Plain
-2046	Plain
+2043	plain
+2044	plain
+2045	plain
+2046	plain
 2047	Sun-exposed slope
 2047	Shadow-exposed slope
-2047	Plain
-2048	Shadow-exposed slope
-2048	Plain
+2047	plain
 2048	Sun-exposed slope
-2049	Plain
-2050	Plain
+2048	plain
+2048	Shadow-exposed slope
+2049	plain
 2050	Sun-exposed slope
+2050	plain
 2050	Shadow-exposed slope
-2051	Shadow-exposed slope
+2051	plain
 2051	Sun-exposed slope
-2051	Plain
-2052	Plain
+2051	Shadow-exposed slope
+2052	plain
 2053	Sun-exposed slope
-2053	Plain
 2053	Shadow-exposed slope
+2053	plain
 2054	Sun-exposed slope
-2054	Plain
 2054	Shadow-exposed slope
-2055	Shadow-exposed slope
-2055	Plain
+2054	plain
 2055	Sun-exposed slope
-2056	Plain
-2057	Shadow-exposed slope
-2057	Plain
+2055	Shadow-exposed slope
+2055	plain
+2056	plain
 2057	Sun-exposed slope
-2058	Plain
-2058	Sun-exposed slope
+2057	Shadow-exposed slope
+2057	plain
 2058	Shadow-exposed slope
+2058	Sun-exposed slope
+2058	plain
 2059	Sun-exposed slope
 2059	Shadow-exposed slope
-2059	Plain
-2060	Plain
+2059	plain
 2060	Sun-exposed slope
 2060	Shadow-exposed slope
+2060	plain
 2061	Shadow-exposed slope
-2062	Plain
 2062	Shadow-exposed slope
+2062	plain
 2063	Shadow-exposed slope
 2064	Shadow-exposed slope
-2064	Plain
+2064	plain
 2065	Shadow-exposed slope
-2065	Plain
-2066	Plain
-2067	Plain
+2065	plain
+2066	plain
+2067	plain
 2068	Sun-exposed slope
-2069	Plain
 2069	Sun-exposed slope
+2069	plain
 2069	Shadow-exposed slope
 2070	Shadow-exposed slope
 2071	Shadow-exposed slope
 2071	Sun-exposed slope
-2072	Plain
-2073	Plain
+2072	plain
+2073	plain
 2073	Shadow-exposed slope
+2074	plain
 2074	Shadow-exposed slope
-2074	Plain
+2075	plain
 2075	Shadow-exposed slope
-2075	Plain
 2076	Shadow-exposed slope
 2077	Sun-exposed slope
-2078	Plain
+2078	plain
 2079	Shadow-exposed slope
+2081	plain
 2081	Sun-exposed slope
-2081	Plain
 2083	Shadow-exposed slope
-2084	Plain
+2084	plain
 2084	Shadow-exposed slope
 2085	Sun-exposed slope
 2086	Shadow-exposed slope
 2087	Sun-exposed slope
-2088	Sun-exposed slope
-2088	Plain
-2089	Shadow-exposed slope
+2088	plain
 2089	Sun-exposed slope
-2090	Sun-exposed slope
+2089	plain
 2090	Shadow-exposed slope
-2090	Plain
-2091	Plain
-2092	Plain
-2093	Plain
-2094	Plain
+2090	Sun-exposed slope
+2090	plain
+2091	plain
+2092	plain
+2093	plain
 2094	Sun-exposed slope
-2094	Shadow-exposed slope
-2095	Plain
-2095	Shadow-exposed slope
 2095	Sun-exposed slope
-2096	Plain
-2097	Plain
-2098	Plain
-2099	Plain
-2100	Shadow-exposed slope
-2100	Plain
+2095	plain
+2096	plain
+2097	plain
+2098	plain
+2099	plain
+2100	plain
 2100	Sun-exposed slope
-2101	Plain
+2100	Shadow-exposed slope
+2101	plain
 2102	Shadow-exposed slope
 2103	Shadow-exposed slope
+2103	plain
 2103	Sun-exposed slope
-2103	Plain
-2104	Plain
+2104	plain
 2104	Shadow-exposed slope
 2105	Sun-exposed slope
 2106	Sun-exposed slope
 2107	Sun-exposed slope
 2108	Shadow-exposed slope
-2109	Plain
-2110	Plain
+2109	plain
+2110	plain
+2111	plain
 2111	Sun-exposed slope
-2111	Plain
 2112	Shadow-exposed slope
-2120	Plain
+2120	plain
 2121	Shadow-exposed slope
 2122	Sun-exposed slope
-2124	Plain
-2130	Plain
+2124	plain
+2130	plain
 2131	Sun-exposed slope
 2132	Shadow-exposed slope
-2133	Plain
+2133	plain
 2134	Shadow-exposed slope
 2140	Sun-exposed slope
 2150	Sun-exposed slope
 2151	Shadow-exposed slope
-2151	Plain
+2151	plain
 2152	Sun-exposed slope
 2153	Sun-exposed slope
 2154	Sun-exposed slope
-2155	Plain
+2155	plain
 2155	Sun-exposed slope
 2156	Sun-exposed slope
+2160	plain
 2160	Shadow-exposed slope
-2160	Plain
-2170	Plain
 2170	Sun-exposed slope
+2170	plain
 2170	Shadow-exposed slope
-2180	Sun-exposed slope
-2180	Plain
 2180	Shadow-exposed slope
-2190	Plain
-2191	Plain
-2192	Plain
-2193	Plain
-2201	Sun-exposed slope
+2180	plain
+2180	Sun-exposed slope
+2190	plain
+2191	plain
+2192	plain
+2193	plain
 2201	Shadow-exposed slope
-2201	Plain
-2202	Plain
-2203	Plain
+2201	Sun-exposed slope
+2201	plain
+2202	plain
+2203	plain
+2210	plain
 2210	Sun-exposed slope
 2210	Shadow-exposed slope
-2210	Plain
 2211	Shadow-exposed slope
-2211	Plain
+2211	plain
 2212	Sun-exposed slope
-2230	Plain
+2230	plain
 2230	Sun-exposed slope
 2230	Shadow-exposed slope
 2241	Shadow-exposed slope
 2242	Shadow-exposed slope
 2243	Shadow-exposed slope
 2244	Shadow-exposed slope
-2245	Shadow-exposed slope
 2245	Sun-exposed slope
-2245	Plain
-2246	Plain
-2250	Shadow-exposed slope
-2250	Plain
+2245	Shadow-exposed slope
+2245	plain
+2246	plain
 2250	Sun-exposed slope
-2260	Plain
+2250	plain
+2250	Shadow-exposed slope
 2260	Shadow-exposed slope
-2261	Plain
+2260	plain
+2261	plain
 2270	Sun-exposed slope
 2271	Sun-exposed slope
-2273	Plain
 2273	Shadow-exposed slope
+2273	plain
 2274	Shadow-exposed slope
 2280	Shadow-exposed slope
-2289	Plain
+2289	plain
 2290	Shadow-exposed slope
-2290	Plain
 2290	Sun-exposed slope
-2291	Plain
-2292	Plain
-2293	Plain
+2290	plain
+2291	plain
+2292	plain
 2293	Sun-exposed slope
-2301	Plain
+2293	plain
 2301	Shadow-exposed slope
-2302	Plain
+2301	plain
 2302	Sun-exposed slope
+2302	plain
 2303	Sun-exposed slope
-2303	Plain
+2303	plain
 2304	Sun-exposed slope
-2305	Plain
-2306	Plain
-2307	Plain
+2305	plain
+2306	plain
 2307	Sun-exposed slope
-2308	Plain
+2307	plain
+2308	plain
 2309	Sun-exposed slope
-2310	Plain
+2310	plain
 2312	Sun-exposed slope
 2313	Sun-exposed slope
 2314	Sun-exposed slope
-2314	Plain
+2314	plain
 2315	Sun-exposed slope
 2316	Sun-exposed slope
-2317	Shadow-exposed slope
 2317	Sun-exposed slope
+2317	Shadow-exposed slope
 2318	Sun-exposed slope
 2319	Sun-exposed slope
 2320	Shadow-exposed slope
-2320	Plain
+2320	plain
 2321	Sun-exposed slope
-2322	Plain
+2322	plain
 2322	Sun-exposed slope
 2323	Sun-exposed slope
 2330	Shadow-exposed slope
-2330	Plain
+2330	plain
 2340	Sun-exposed slope
-2340	Plain
 2340	Shadow-exposed slope
+2340	plain
 2350	Sun-exposed slope
 2360	Sun-exposed slope
 2370	Sun-exposed slope
 2380	Sun-exposed slope
+2381	plain
 2381	Shadow-exposed slope
-2381	Plain
 2382	Shadow-exposed slope
-2382	Plain
-2383	Plain
-2384	Plain
-2385	Plain
+2382	plain
+2383	plain
+2384	plain
+2385	plain
 2386	Sun-exposed slope
+2387	plain
 2387	Sun-exposed slope
-2387	Plain
-2388	Plain
+2388	plain
 2399	Shadow-exposed slope
-2399	Plain
-2400	Sun-exposed slope
+2399	plain
 2400	Shadow-exposed slope
-2400	Plain
+2400	plain
+2400	Sun-exposed slope
 2401	Shadow-exposed slope
 2401	Sun-exposed slope
-2401	Plain
-2402	Plain
+2401	plain
+2402	plain
 2403	Sun-exposed slope
 2404	Sun-exposed slope
 2405	Sun-exposed slope
 2406	Shadow-exposed slope
 2407	Shadow-exposed slope
+2407	plain
 2407	Sun-exposed slope
-2407	Plain
 2408	Sun-exposed slope
-2409	Sun-exposed slope
 2409	Shadow-exposed slope
-2409	Plain
-2410	Shadow-exposed slope
-2410	Plain
+2409	plain
+2409	Sun-exposed slope
+2410	plain
 2410	Sun-exposed slope
+2410	Shadow-exposed slope
 2412	Shadow-exposed slope
 2413	Sun-exposed slope
 2414	Sun-exposed slope
 2415	Sun-exposed slope
 2416	Sun-exposed slope
 2417	Shadow-exposed slope
+2418	plain
 2418	Sun-exposed slope
-2418	Plain
 2419	Shadow-exposed slope
-2420	Shadow-exposed slope
+2420	plain
 2420	Sun-exposed slope
-2420	Plain
-2421	Sun-exposed slope
-2421	Plain
+2420	Shadow-exposed slope
 2421	Shadow-exposed slope
+2421	plain
+2421	Sun-exposed slope
 2422	Shadow-exposed slope
 2422	Sun-exposed slope
-2422	Plain
+2422	plain
 2423	Shadow-exposed slope
+2423	plain
 2423	Sun-exposed slope
-2423	Plain
-2424	Shadow-exposed slope
+2424	plain
 2424	Sun-exposed slope
-2424	Plain
+2424	Shadow-exposed slope
+2425	plain
 2425	Sun-exposed slope
-2425	Plain
 2425	Shadow-exposed slope
-2426	Plain
+2426	plain
 2426	Sun-exposed slope
 2426	Shadow-exposed slope
-2427	Sun-exposed slope
 2427	Shadow-exposed slope
+2427	Sun-exposed slope
 2428	Shadow-exposed slope
-2429	Shadow-exposed slope
+2429	plain
 2429	Sun-exposed slope
-2429	Plain
-2430	Sun-exposed slope
-2430	Plain
+2429	Shadow-exposed slope
 2430	Shadow-exposed slope
+2430	plain
+2430	Sun-exposed slope
 2431	Sun-exposed slope
 2432	Sun-exposed slope
 2433	Sun-exposed slope
-2433	Plain
-2434	Plain
+2433	plain
+2434	plain
 2435	Sun-exposed slope
 2436	Shadow-exposed slope
 2437	Shadow-exposed slope
+2438	plain
 2438	Shadow-exposed slope
 2438	Sun-exposed slope
-2438	Plain
 2439	Sun-exposed slope
 2440	Sun-exposed slope
+2441	plain
 2441	Shadow-exposed slope
-2441	Plain
 2442	Shadow-exposed slope
 2444	Shadow-exposed slope
 2445	Sun-exposed slope
 2446	Sun-exposed slope
-2461	Plain
-2462	Plain
+2461	plain
+2462	plain
 2462	Sun-exposed slope
 2464	Shadow-exposed slope
 2465	Sun-exposed slope
-2470	Plain
+2470	plain
 2471	Shadow-exposed slope
-2474	Plain
+2474	plain
 2475	Sun-exposed slope
 2477	Shadow-exposed slope
-2478	Sun-exposed slope
-2478	Plain
 2478	Shadow-exposed slope
+2478	plain
+2478	Sun-exposed slope
 2501	Shadow-exposed slope
+2501	plain
 2501	Sun-exposed slope
-2501	Plain
-2502	Plain
+2502	plain
+2504	Shadow-exposed slope
 2510	Sun-exposed slope
-2510	Plain
+2510	plain
 2511	Sun-exposed slope
-2511	Plain
+2511	plain
 2511	Shadow-exposed slope
+2512	plain
 2512	Sun-exposed slope
-2512	Plain
-2513	Shadow-exposed slope
+2513	plain
 2513	Sun-exposed slope
-2513	Plain
+2513	Shadow-exposed slope
+2514	plain
 2514	Shadow-exposed slope
 2514	Sun-exposed slope
-2514	Plain
 2515	Sun-exposed slope
 2516	Sun-exposed slope
-2516	Plain
-2517	Plain
+2516	plain
 2517	Shadow-exposed slope
+2517	plain
 2518	Sun-exposed slope
-2518	Plain
+2518	plain
 2519	Shadow-exposed slope
-2519	Plain
+2519	plain
 2520	Shadow-exposed slope
 2521	Sun-exposed slope
 2522	Sun-exposed slope
-2522	Plain
+2522	plain
+2523	plain
 2523	Shadow-exposed slope
 2523	Sun-exposed slope
-2523	Plain
+2524	plain
 2524	Shadow-exposed slope
-2524	Plain
 2525	Shadow-exposed slope
-2525	Plain
+2525	plain
 2526	Shadow-exposed slope
-2526	Plain
-2527	Plain
+2526	plain
+2527	plain
 2527	Shadow-exposed slope
-2528	Plain
+2528	plain
 2528	Shadow-exposed slope
+2529	plain
 2529	Shadow-exposed slope
-2529	Plain
-2530	Plain
 2530	Shadow-exposed slope
-2531	Plain
+2530	plain
 2531	Shadow-exposed slope
-2532	Shadow-exposed slope
+2531	plain
+2532	plain
 2532	Sun-exposed slope
-2532	Plain
-2533	Sun-exposed slope
+2532	Shadow-exposed slope
+2533	plain
 2533	Shadow-exposed slope
-2533	Plain
-2534	Plain
+2533	Sun-exposed slope
+2534	plain
 2534	Sun-exposed slope
 2534	Shadow-exposed slope
+2535	plain
 2535	Sun-exposed slope
 2535	Shadow-exposed slope
-2535	Plain
-2536	Sun-exposed slope
-2536	Plain
 2536	Shadow-exposed slope
-2537	Sun-exposed slope
+2536	plain
+2536	Sun-exposed slope
+2537	plain
 2537	Shadow-exposed slope
-2537	Plain
+2537	Sun-exposed slope
 2538	Shadow-exposed slope
 2539	Shadow-exposed slope
 2540	Shadow-exposed slope
 2541	Shadow-exposed slope
 2542	Sun-exposed slope
 2543	Sun-exposed slope
-2544	Sun-exposed slope
 2544	Shadow-exposed slope
-2544	Plain
+2544	Sun-exposed slope
+2544	plain
+2545	plain
 2545	Shadow-exposed slope
-2545	Plain
 2545	Sun-exposed slope
-2546	Plain
 2546	Sun-exposed slope
 2546	Shadow-exposed slope
+2546	plain
+2547	plain
 2547	Shadow-exposed slope
 2547	Sun-exposed slope
-2547	Plain
-2548	Sun-exposed slope
+2548	plain
 2548	Shadow-exposed slope
-2548	Plain
+2548	Sun-exposed slope
 2549	Sun-exposed slope
 2550	Sun-exposed slope
 2551	Sun-exposed slope
 2552	Shadow-exposed slope
-2553	Shadow-exposed slope
-2553	Plain
 2553	Sun-exposed slope
+2553	plain
+2553	Shadow-exposed slope
 2554	Shadow-exposed slope
-2555	Plain
+2555	plain
 2556	Sun-exposed slope
 2557	Sun-exposed slope
+2558	plain
 2558	Shadow-exposed slope
 2558	Sun-exposed slope
-2558	Plain
 2559	Sun-exposed slope
 2560	Sun-exposed slope
 2561	Sun-exposed slope
-2562	Sun-exposed slope
+2562	plain
 2562	Shadow-exposed slope
-2562	Plain
+2562	Sun-exposed slope
+2563	plain
 2563	Shadow-exposed slope
-2563	Plain
 2563	Sun-exposed slope
-2564	Plain
+2564	plain
 2564	Sun-exposed slope
 2564	Shadow-exposed slope
 2565	Shadow-exposed slope
+2565	plain
 2565	Sun-exposed slope
-2565	Plain
 2566	Shadow-exposed slope
+2567	plain
 2567	Shadow-exposed slope
 2567	Sun-exposed slope
-2567	Plain
-2568	Sun-exposed slope
-2568	Plain
+2568	plain
 2568	Shadow-exposed slope
-2569	Shadow-exposed slope
+2568	Sun-exposed slope
 2569	Sun-exposed slope
-2569	Plain
-2570	Plain
-2570	Shadow-exposed slope
+2569	Shadow-exposed slope
+2569	plain
 2570	Sun-exposed slope
-2571	Sun-exposed slope
+2570	Shadow-exposed slope
+2570	plain
+2571	plain
 2571	Shadow-exposed slope
-2571	Plain
+2571	Sun-exposed slope
 2572	Sun-exposed slope
 2572	Shadow-exposed slope
-2572	Plain
+2572	plain
+2573	plain
 2573	Sun-exposed slope
-2573	Plain
 2573	Shadow-exposed slope
-2574	Plain
-2574	Sun-exposed slope
 2574	Shadow-exposed slope
+2574	Sun-exposed slope
+2574	plain
 2575	Shadow-exposed slope
 2576	Shadow-exposed slope
 2577	Sun-exposed slope
+2578	plain
 2578	Sun-exposed slope
-2578	Plain
 2578	Shadow-exposed slope
 2579	Shadow-exposed slope
-2579	Plain
+2579	plain
 2579	Sun-exposed slope
 2580	Shadow-exposed slope
-2580	Plain
 2580	Sun-exposed slope
-2581	Sun-exposed slope
-2581	Plain
+2580	plain
 2581	Shadow-exposed slope
+2581	plain
+2581	Sun-exposed slope
 2582	Sun-exposed slope
 2583	Sun-exposed slope
-2584	Plain
-2585	Plain
-2586	Plain
-2587	Plain
-2588	Plain
-2591	Plain
-2591	Sun-exposed slope
+2584	plain
+2585	plain
+2586	plain
+2587	plain
+2588	plain
 2591	Shadow-exposed slope
-2592	Plain
-2593	Plain
-2594	Plain
-2595	Plain
+2591	plain
+2591	Sun-exposed slope
+2592	plain
+2593	plain
+2594	plain
+2595	plain
 2596	Sun-exposed slope
-2596	Plain
+2596	plain
 2596	Shadow-exposed slope
-2597	Plain
-2597	Shadow-exposed slope
+2597	plain
 2597	Sun-exposed slope
+2597	Shadow-exposed slope
 2598	Sun-exposed slope
-2598	Plain
 2598	Shadow-exposed slope
-2599	Sun-exposed slope
+2598	plain
 2599	Shadow-exposed slope
-2599	Plain
+2599	Sun-exposed slope
+2599	plain
 2601	Sun-exposed slope
 2602	Sun-exposed slope
 2603	Sun-exposed slope
 2604	Sun-exposed slope
 2605	Sun-exposed slope
+2605	plain
 2605	Shadow-exposed slope
-2605	Plain
+2606	plain
 2606	Sun-exposed slope
-2606	Plain
 2607	Sun-exposed slope
 2608	Sun-exposed slope
 2609	Sun-exposed slope
 2610	Sun-exposed slope
 2611	Sun-exposed slope
 2612	Shadow-exposed slope
-2612	Plain
+2612	plain
 2612	Sun-exposed slope
-2613	Plain
-2614	Plain
+2613	plain
 2614	Sun-exposed slope
-2615	Plain
+2614	plain
 2615	Shadow-exposed slope
-2616	Plain
-2617	Plain
-2618	Plain
-2619	Plain
+2615	plain
+2616	plain
+2617	plain
+2618	plain
+2619	plain
 2619	Sun-exposed slope
-2620	Plain
-2621	Plain
+2620	plain
 2621	Shadow-exposed slope
-2622	Plain
+2621	plain
 2622	Sun-exposed slope
+2622	plain
 2623	Sun-exposed slope
 2624	Shadow-exposed slope
 2625	Shadow-exposed slope
-2626	Plain
-2627	Plain
-2628	Plain
+2626	plain
+2627	plain
 2628	Shadow-exposed slope
 2628	Sun-exposed slope
-2629	Plain
-2629	Shadow-exposed slope
+2628	plain
 2629	Sun-exposed slope
-2630	Plain
-2631	Shadow-exposed slope
+2629	plain
+2629	Shadow-exposed slope
+2630	plain
 2631	Sun-exposed slope
+2631	Shadow-exposed slope
 2632	Shadow-exposed slope
-2633	Plain
-2634	Plain
-2635	Plain
-2636	Plain
+2633	plain
+2634	plain
+2635	plain
 2636	Shadow-exposed slope
+2636	plain
 2637	Shadow-exposed slope
-2638	Plain
+2638	plain
 2640	Sun-exposed slope
-2641	Plain
+2641	plain
 2641	Shadow-exposed slope
-2642	Plain
+2642	plain
 2642	Shadow-exposed slope
-2643	Plain
+2643	plain
 2643	Shadow-exposed slope
-2644	Plain
+2644	plain
 2645	Shadow-exposed slope
-2646	Plain
-2646	Shadow-exposed slope
+2646	plain
 2646	Sun-exposed slope
+2646	Shadow-exposed slope
 2647	Sun-exposed slope
-2648	Plain
-2649	Plain
+2648	plain
+2649	plain
 2650	Shadow-exposed slope
 2651	Shadow-exposed slope
-2652	Plain
 2652	Shadow-exposed slope
+2652	plain
 2652	Sun-exposed slope
 2653	Shadow-exposed slope
-2654	Plain
+2654	plain
 2654	Sun-exposed slope
 2656	Shadow-exposed slope
 2656	Sun-exposed slope
-2657	Plain
+2657	plain
 2657	Sun-exposed slope
 2659	Sun-exposed slope
 2660	Sun-exposed slope
 2661	Sun-exposed slope
-2662	Plain
+2662	plain
 2662	Shadow-exposed slope
 2663	Sun-exposed slope
 2664	Sun-exposed slope
 2665	Sun-exposed slope
-2666	Plain
 2666	Shadow-exposed slope
+2666	plain
 2666	Sun-exposed slope
 2667	Shadow-exposed slope
 2669	Sun-exposed slope
 2670	Sun-exposed slope
 2671	Shadow-exposed slope
 2672	Shadow-exposed slope
-2673	Plain
+2673	plain
 2673	Sun-exposed slope
-2674	Plain
+2674	plain
 2675	Shadow-exposed slope
-2676	Plain
 2676	Shadow-exposed slope
+2676	plain
 2677	Sun-exposed slope
 2678	Shadow-exposed slope
-2679	Plain
 2679	Shadow-exposed slope
 2679	Sun-exposed slope
+2679	plain
 2680	Shadow-exposed slope
-2680	Plain
-2681	Shadow-exposed slope
-2681	Plain
+2680	plain
 2681	Sun-exposed slope
-2682	Plain
+2681	plain
+2681	Shadow-exposed slope
+2682	plain
 2683	Sun-exposed slope
-2684	Plain
 2684	Shadow-exposed slope
+2684	plain
+2686	Shadow-exposed slope
 2686	Sun-exposed slope
 2687	Shadow-exposed slope
 2688	Shadow-exposed slope
 2689	Shadow-exposed slope
+2689	Sun-exposed slope
 2690	Sun-exposed slope
 2690	Shadow-exposed slope
-2690	Plain
+2690	plain
 2691	Shadow-exposed slope
 2692	Shadow-exposed slope
-2693	Shadow-exposed slope
 2693	Sun-exposed slope
-2694	Plain
+2693	plain
+2693	Shadow-exposed slope
+2694	plain
 2694	Shadow-exposed slope
-2695	Plain
+2695	plain
 2695	Shadow-exposed slope
-2696	Sun-exposed slope
 2696	Shadow-exposed slope
-2696	Plain
-2697	Plain
+2696	plain
+2696	Sun-exposed slope
+2697	plain
 2697	Shadow-exposed slope
-2698	Plain
+2698	plain
 2698	Shadow-exposed slope
+2699	plain
 2699	Shadow-exposed slope
 2700	Shadow-exposed slope
+2700	plain
 2700	Sun-exposed slope
-2700	Plain
-2701	Plain
+2701	plain
 2701	Shadow-exposed slope
 2701	Sun-exposed slope
 2702	Sun-exposed slope
-2702	Plain
+2702	plain
 2702	Shadow-exposed slope
 2703	Sun-exposed slope
-2703	Plain
+2703	plain
 2703	Shadow-exposed slope
-2704	Sun-exposed slope
 2704	Shadow-exposed slope
-2704	Plain
-2705	Plain
+2704	plain
+2704	Sun-exposed slope
+2705	plain
 2705	Sun-exposed slope
-2706	Plain
-2706	Shadow-exposed slope
+2706	plain
 2706	Sun-exposed slope
-2707	Plain
+2706	Shadow-exposed slope
 2707	Shadow-exposed slope
 2707	Sun-exposed slope
+2707	plain
 2708	Sun-exposed slope
-2709	Plain
 2709	Sun-exposed slope
 2709	Shadow-exposed slope
-2710	Sun-exposed slope
-2710	Plain
+2709	plain
+2710	plain
 2710	Shadow-exposed slope
-2711	Sun-exposed slope
-2711	Plain
+2710	Sun-exposed slope
 2711	Shadow-exposed slope
-2712	Plain
-2712	Shadow-exposed slope
+2711	plain
+2711	Sun-exposed slope
+2712	plain
 2712	Sun-exposed slope
-2713	Plain
-2714	Plain
-2715	Plain
+2712	Shadow-exposed slope
+2713	plain
+2714	plain
 2715	Sun-exposed slope
-2716	Plain
-2717	Plain
-2718	Plain
-2719	Plain
-2720	Plain
+2715	plain
+2716	plain
+2717	plain
+2718	plain
+2719	plain
+2720	plain
 2721	Sun-exposed slope
+2721	plain
 2721	Shadow-exposed slope
-2721	Plain
 2722	Shadow-exposed slope
+2722	plain
 2722	Sun-exposed slope
-2722	Plain
+2723	plain
 2723	Shadow-exposed slope
-2723	Plain
+2724	plain
 2724	Shadow-exposed slope
-2724	Plain
-2725	Sun-exposed slope
 2725	Shadow-exposed slope
-2725	Plain
-2726	Plain
+2725	plain
+2725	Sun-exposed slope
+2726	plain
 2726	Sun-exposed slope
 2727	Shadow-exposed slope
-2728	Shadow-exposed slope
-2728	Plain
+2728	plain
 2728	Sun-exposed slope
+2728	Shadow-exposed slope
 2729	Shadow-exposed slope
-2730	Plain
-2730	Shadow-exposed slope
+2730	plain
 2730	Sun-exposed slope
-2731	Plain
+2730	Shadow-exposed slope
+2731	plain
 2732	Sun-exposed slope
-2732	Plain
 2732	Shadow-exposed slope
+2732	plain
 2733	Sun-exposed slope
 2733	Shadow-exposed slope
-2733	Plain
-2734	Shadow-exposed slope
-2734	Plain
+2733	plain
 2734	Sun-exposed slope
-2735	Plain
+2734	Shadow-exposed slope
+2734	plain
+2735	plain
 2736	Sun-exposed slope
-2737	Plain
-2738	Plain
+2737	plain
+2738	plain
 2738	Shadow-exposed slope
 2739	Shadow-exposed slope
 2740	Shadow-exposed slope
-2741	Plain
+2741	plain
 2742	Shadow-exposed slope
 2743	Shadow-exposed slope
-2744	Plain
 2744	Sun-exposed slope
-2745	Plain
+2744	plain
+2745	plain
 2745	Sun-exposed slope
 2746	Sun-exposed slope
+2747	plain
 2747	Sun-exposed slope
-2747	Plain
-2748	Sun-exposed slope
-2748	Plain
+2748	plain
 2748	Shadow-exposed slope
-2749	Plain
+2748	Sun-exposed slope
+2749	plain
 2749	Shadow-exposed slope
-2750	Sun-exposed slope
 2750	Shadow-exposed slope
-2750	Plain
+2750	Sun-exposed slope
+2750	plain
 2751	Shadow-exposed slope
-2752	Plain
+2752	plain
 2753	Sun-exposed slope
 2754	Shadow-exposed slope
-2754	Plain
+2754	plain
 2754	Sun-exposed slope
 2755	Sun-exposed slope
 2756	Sun-exposed slope
-2756	Plain
+2756	plain
 2757	Shadow-exposed slope
+2758	plain
 2758	Sun-exposed slope
-2758	Plain
-2759	Sun-exposed slope
 2759	Shadow-exposed slope
+2759	Sun-exposed slope
 2760	Sun-exposed slope
 2760	Shadow-exposed slope
-2761	Sun-exposed slope
+2761	plain
 2761	Shadow-exposed slope
-2761	Plain
+2761	Sun-exposed slope
 2762	Shadow-exposed slope
 2762	Sun-exposed slope
-2763	Shadow-exposed slope
 2763	Sun-exposed slope
+2763	Shadow-exposed slope
 2764	Sun-exposed slope
+2764	plain
 2764	Shadow-exposed slope
-2764	Plain
 2765	Shadow-exposed slope
 2765	Sun-exposed slope
-2766	Plain
 2766	Shadow-exposed slope
+2766	plain
 2766	Sun-exposed slope
 2767	Sun-exposed slope
-2767	Plain
+2767	plain
 2767	Shadow-exposed slope
+2768	plain
 2768	Sun-exposed slope
-2768	Plain
-2769	Plain
-2770	Plain
-2771	Plain
-2772	Shadow-exposed slope
-2772	Plain
+2769	plain
+2770	plain
+2771	plain
 2772	Sun-exposed slope
+2772	plain
+2772	Shadow-exposed slope
 2773	Sun-exposed slope
-2774	Shadow-exposed slope
 2774	Sun-exposed slope
-2774	Plain
+2774	Shadow-exposed slope
+2774	plain
 2775	Sun-exposed slope
 2776	Sun-exposed slope
-2777	Sun-exposed slope
 2777	Shadow-exposed slope
+2777	Sun-exposed slope
 2778	Sun-exposed slope
 2779	Sun-exposed slope
 2780	Sun-exposed slope
 2781	Sun-exposed slope
-2801	Plain
 2801	Shadow-exposed slope
-2802	Plain
-2803	Plain
-2804	Plain
-2805	Plain
-2806	Plain
-2807	Plain
-2808	Plain
+2801	plain
+2802	plain
+2803	plain
+2804	plain
+2805	plain
+2806	plain
+2807	plain
+2808	plain
 2809	Sun-exposed slope
 2810	Sun-exposed slope
-2811	Plain
+2811	plain
 2812	Sun-exposed slope
-2813	Plain
 2813	Sun-exposed slope
+2813	plain
 2814	Sun-exposed slope
-2814	Plain
-2815	Plain
+2814	plain
 2815	Sun-exposed slope
+2815	plain
 2816	Sun-exposed slope
-2817	Plain
 2817	Sun-exposed slope
-2818	Plain
-2819	Plain
+2817	plain
+2818	plain
 2819	Sun-exposed slope
-2820	Plain
+2819	plain
+2820	plain
 2820	Sun-exposed slope
 2820	Shadow-exposed slope
-2821	Plain
-2822	Plain
+2821	plain
 2822	Sun-exposed slope
+2822	plain
 2823	Sun-exposed slope
-2823	Plain
-2824	Plain
-2825	Plain
-2826	Plain
+2823	plain
+2824	plain
+2825	plain
 2826	Sun-exposed slope
+2826	plain
 2827	Sun-exposed slope
-2828	Plain
-2829	Plain
-2830	Plain
-2831	Plain
+2828	Shadow-exposed slope
+2828	plain
+2829	plain
+2830	plain
+2831	plain
 3001	Sun-exposed slope
-3001	Plain
+3001	plain
 3001	Shadow-exposed slope
 3002	Sun-exposed slope
-3003	Plain
 3003	Sun-exposed slope
-3004	Plain
+3003	plain
 3004	Shadow-exposed slope
-3005	Shadow-exposed slope
+3004	plain
 3005	Sun-exposed slope
+3005	Shadow-exposed slope
 3006	Sun-exposed slope
 3007	Sun-exposed slope
 3008	Shadow-exposed slope
-3009	Sun-exposed slope
 3009	Shadow-exposed slope
-3010	Sun-exposed slope
+3009	Sun-exposed slope
 3010	Shadow-exposed slope
-3011	Sun-exposed slope
+3010	Sun-exposed slope
 3011	Shadow-exposed slope
-3012	Shadow-exposed slope
-3012	Plain
+3011	Sun-exposed slope
+3012	plain
 3012	Sun-exposed slope
-3013	Plain
+3012	Shadow-exposed slope
 3013	Sun-exposed slope
+3013	plain
 3014	Sun-exposed slope
 3014	Shadow-exposed slope
-3081	Plain
 3081	Sun-exposed slope
 3081	Shadow-exposed slope
-3082	Plain
-3082	Sun-exposed slope
+3081	plain
 3082	Shadow-exposed slope
+3082	Sun-exposed slope
+3082	plain
 3083	Sun-exposed slope
-3083	Plain
+3083	plain
 3083	Shadow-exposed slope
 3084	Shadow-exposed slope
-3084	Plain
+3084	plain
 3084	Sun-exposed slope
-3110	Plain
-3110	Shadow-exposed slope
 3110	Sun-exposed slope
-3111	Plain
+3110	Shadow-exposed slope
+3110	plain
 3111	Shadow-exposed slope
+3111	plain
 3111	Sun-exposed slope
 3114	Shadow-exposed slope
+3114	plain
 3114	Sun-exposed slope
-3114	Plain
 3115	Shadow-exposed slope
-3115	Plain
 3115	Sun-exposed slope
+3115	plain
 3120	Sun-exposed slope
-3120	Plain
+3120	plain
 3120	Shadow-exposed slope
-3121	Plain
-3130	Plain
+3121	plain
+3130	plain
 3130	Shadow-exposed slope
 3130	Sun-exposed slope
-3140	Plain
+3140	plain
 3140	Shadow-exposed slope
 3140	Sun-exposed slope
 3141	Shadow-exposed slope
+3141	plain
 3141	Sun-exposed slope
-3141	Plain
-3142	Plain
-3142	Plain
-3150	Shadow-exposed slope
-3150	Plain
+3142	plain
 3150	Sun-exposed slope
+3150	plain
+3150	Shadow-exposed slope
 3171	Sun-exposed slope
 3171	Shadow-exposed slope
-3171	Plain
-3172	Plain
+3171	plain
 3172	Sun-exposed slope
-3173	Plain
+3172	plain
 3173	Sun-exposed slope
+3173	plain
+3174	plain
 3174	Sun-exposed slope
-3174	Plain
-3175	Sun-exposed slope
-3175	Plain
+3200	plain
 3200	Shadow-exposed slope
-3200	Plain
 3200	Sun-exposed slope
-3201	Sun-exposed slope
-3201	Plain
+3201	plain
 3201	Shadow-exposed slope
+3201	Sun-exposed slope
 3211	Sun-exposed slope
-3261	Plain
-3261	Shadow-exposed slope
+3261	plain
 3261	Sun-exposed slope
-3262	Plain
-3262	Shadow-exposed slope
+3261	Shadow-exposed slope
 3262	Sun-exposed slope
+3262	Shadow-exposed slope
+3262	plain
+3310	plain
 3310	Shadow-exposed slope
 3310	Sun-exposed slope
-3310	Plain
-3311	Shadow-exposed slope
-3311	Plain
+3311	plain
 3311	Sun-exposed slope
+3311	Shadow-exposed slope
+3370	plain
 3370	Shadow-exposed slope
 3370	Sun-exposed slope
-3370	Plain
+3371	plain
 3371	Shadow-exposed slope
-3371	Plain
 3371	Sun-exposed slope
+3391	plain
 3391	Shadow-exposed slope
-3391	Plain
 3391	Sun-exposed slope
-3392	Plain
 3392	Sun-exposed slope
 3392	Shadow-exposed slope
+3392	plain
 3440	Shadow-exposed slope
-3440	Plain
+3440	plain
 3440	Sun-exposed slope
 3480	Sun-exposed slope
+3480	plain
 3480	Shadow-exposed slope
-3480	Plain
-3481	Sun-exposed slope
 3481	Shadow-exposed slope
-3481	Plain
-3501	Plain
+3481	Sun-exposed slope
+3481	plain
 3501	Shadow-exposed slope
+3501	plain
 3501	Sun-exposed slope
-3502	Plain
-3502	Sun-exposed slope
 3502	Shadow-exposed slope
-3503	Sun-exposed slope
+3502	Sun-exposed slope
+3502	plain
 3503	Shadow-exposed slope
-3503	Plain
+3503	plain
+3503	Sun-exposed slope
+3540	plain
 3540	Shadow-exposed slope
-3540	Plain
 3540	Sun-exposed slope
-3541	Plain
-3541	Sun-exposed slope
+3541	plain
 3541	Shadow-exposed slope
-3542	Plain
-3543	Plain
-3544	Plain
-3601	Plain
-3602	Plain
-3603	Plain
-3607	Plain
-3607	Sun-exposed slope
+3541	Sun-exposed slope
+3542	plain
+3543	plain
+3544	plain
+3601	plain
+3602	plain
+3603	plain
 3607	Shadow-exposed slope
+3607	plain
+3607	Sun-exposed slope
 3608	Shadow-exposed slope
 3608	Sun-exposed slope
-3608	Plain
-3609	Plain
-3609	Sun-exposed slope
+3608	plain
+3609	plain
 3609	Shadow-exposed slope
-3610	Shadow-exposed slope
-3610	Plain
+3609	Sun-exposed slope
+3610	plain
 3610	Sun-exposed slope
-3611	Plain
+3610	Shadow-exposed slope
+3611	plain
 3611	Shadow-exposed slope
 3611	Sun-exposed slope
 3612	Shadow-exposed slope
 3612	Sun-exposed slope
-3612	Plain
-3613	Plain
-3911	Sun-exposed slope
+3612	plain
+3613	plain
 3911	Shadow-exposed slope
-3911	Plain
-3912	Sun-exposed slope
-3912	Plain
+3911	Sun-exposed slope
+3911	plain
+3912	plain
 3912	Shadow-exposed slope
+3912	Sun-exposed slope
 4000	Shadow-exposed slope
-4000	Plain
 4000	Sun-exposed slope
+4000	plain
 4021	Shadow-exposed slope
 4021	Sun-exposed slope
-4021	Plain
-4040	Sun-exposed slope
-4040	Plain
+4021	plain
 4040	Shadow-exposed slope
+4040	Sun-exposed slope
+4040	plain
 4041	Shadow-exposed slope
-4041	Plain
+4041	plain
 4041	Sun-exposed slope
 4042	Shadow-exposed slope
-4042	Plain
 4042	Sun-exposed slope
+4042	plain
 4043	Sun-exposed slope
-4043	Plain
+4043	plain
 4043	Shadow-exposed slope
-4044	Plain
+4044	plain
 4151	Shadow-exposed slope
-4201	Shadow-exposed slope
-4201	Plain
+4201	plain
 4201	Sun-exposed slope
-4202	Plain
+4201	Shadow-exposed slope
 4202	Shadow-exposed slope
+4202	plain
 4203	Shadow-exposed slope
-4203	Plain
+4203	plain
 4203	Sun-exposed slope
-4214	Plain
-4215	Plain
+4214	plain
+4215	plain
 4216	Shadow-exposed slope
-4216	Plain
+4216	plain
 4216	Sun-exposed slope
 4217	Shadow-exposed slope
+4217	plain
 4217	Sun-exposed slope
-4217	Plain
-4218	Shadow-exposed slope
 4218	Sun-exposed slope
-4218	Plain
+4218	Shadow-exposed slope
+4218	plain
 4290	Shadow-exposed slope
+4290	plain
 4290	Sun-exposed slope
-4290	Plain
+4501	plain
 4501	Sun-exposed slope
 4501	Shadow-exposed slope
-4501	Plain
-4502	Shadow-exposed slope
-4502	Plain
 4502	Sun-exposed slope
+4502	Shadow-exposed slope
+4502	plain
 4730	Sun-exposed slope
-4730	Plain
+4730	plain
 4730	Shadow-exposed slope
-4731	Plain
+4731	plain
 4731	Shadow-exposed slope
 4731	Sun-exposed slope
-4732	Sun-exposed slope
 4732	Shadow-exposed slope
-4732	Plain
-4733	Plain
+4732	plain
+4732	Sun-exposed slope
+4733	plain
 4734	Shadow-exposed slope
-4750	Shadow-exposed slope
+4750	plain
 4750	Sun-exposed slope
-4750	Plain
-4771	Plain
+4750	Shadow-exposed slope
 4771	Sun-exposed slope
+4771	plain
+4772	plain
 4772	Sun-exposed slope
-4772	Plain
-4773	Plain
 4773	Sun-exposed slope
-4774	Plain
-4775	Plain
+4773	plain
+4774	plain
 4775	Sun-exposed slope
-4778	Plain
-4779	Plain
+4775	plain
+4778	plain
+4779	plain
 4780	Shadow-exposed slope
-4780	Plain
+4780	plain
 4780	Sun-exposed slope
 4781	Shadow-exposed slope
-4781	Plain
 4781	Sun-exposed slope
-4800	Sun-exposed slope
-4800	Plain
+4781	plain
+4800	plain
 4800	Shadow-exposed slope
-4801	Plain
+4800	Sun-exposed slope
 4801	Shadow-exposed slope
+4801	plain
 4803	Sun-exposed slope
-4803	Plain
 4803	Shadow-exposed slope
+4803	plain
+4880	plain
 4880	Shadow-exposed slope
-4880	Plain
+4920	plain
 4920	Shadow-exposed slope
 4920	Sun-exposed slope
-4920	Plain
-4921	Plain
-4922	Plain
-4923	Plain
-4924	Plain
-4925	Plain
-4926	Plain
-4926	Shadow-exposed slope
+4921	plain
+4922	plain
+4923	plain
+4924	plain
+4925	plain
+4926	plain
 4926	Sun-exposed slope
+4926	Shadow-exposed slope
 4927	Sun-exposed slope
-4928	Plain
-4929	Plain
-4930	Sun-exposed slope
-4930	Plain
+4928	plain
+4929	plain
 4930	Shadow-exposed slope
+4930	plain
+4930	Sun-exposed slope
+4933	plain
 4933	Shadow-exposed slope
-4933	Plain
+4934	plain
 4934	Sun-exposed slope
-4934	Plain
-4935	Plain
 4935	Sun-exposed slope
+4935	plain
 4936	Sun-exposed slope
-4936	Plain
-4937	Plain
+4936	plain
 4937	Sun-exposed slope
+4937	plain
 4938	Sun-exposed slope
-4938	Plain
-4939	Plain
+4938	plain
 4939	Shadow-exposed slope
+4939	plain
+4940	plain
 4940	Shadow-exposed slope
-4940	Plain
-4941	Shadow-exposed slope
 4941	Sun-exposed slope
-4941	Plain
-4942	Shadow-exposed slope
+4941	Shadow-exposed slope
+4941	plain
 4942	Sun-exposed slope
-4942	Plain
-4943	Plain
+4942	plain
+4942	Shadow-exposed slope
 4943	Shadow-exposed slope
+4943	plain
 4943	Sun-exposed slope
-4944	Plain
-4945	Plain
+4944	plain
 4945	Sun-exposed slope
+4945	plain
 4947	Sun-exposed slope
-4947	Plain
+4947	plain
 4948	Sun-exposed slope
-4948	Plain
+4948	plain
 4949	Sun-exposed slope
-4949	Plain
-4950	Plain
-4951	Plain
-4952	Plain
-4953	Plain
-4954	Plain
-4955	Plain
-4956	Plain
-4957	Plain
+4949	plain
+4950	plain
+4951	plain
+4952	plain
+4953	plain
+4954	plain
+4955	plain
+4956	plain
+4957	plain
 4958	Shadow-exposed slope
 4960	Sun-exposed slope
-4960	Plain
+4960	plain
 4961	Shadow-exposed slope
-4962	Plain
+4962	plain
+4963	plain
 4963	Sun-exposed slope
-4963	Plain
 4963	Shadow-exposed slope
-4964	Plain
 4964	Shadow-exposed slope
+4964	plain
 4965	Sun-exposed slope
-4965	Plain
+4965	plain
 4965	Shadow-exposed slope
 4966	Sun-exposed slope
-4966	Plain
+4966	plain
 4966	Shadow-exposed slope
-4967	Shadow-exposed slope
 4967	Sun-exposed slope
-4967	Plain
-4968	Plain
+4967	Shadow-exposed slope
+4967	plain
 4968	Shadow-exposed slope
+4968	plain
 4969	Sun-exposed slope
-4970	Plain
 4970	Shadow-exposed slope
 4970	Sun-exposed slope
+4970	plain
 4971	Sun-exposed slope
-4971	Plain
-4972	Plain
+4971	plain
 4972	Shadow-exposed slope
+4972	plain
 4973	Sun-exposed slope
-4973	Plain
-4974	Plain
+4973	plain
 4974	Shadow-exposed slope
-4975	Plain
+4974	plain
 4975	Sun-exposed slope
 4975	Shadow-exposed slope
-4976	Plain
+4975	plain
 4976	Sun-exposed slope
 4976	Shadow-exposed slope
+4976	plain
 4977	Sun-exposed slope
-4977	Plain
 4977	Shadow-exposed slope
+4977	plain
 4978	Sun-exposed slope
-4978	Plain
+4978	plain
 4978	Shadow-exposed slope
-4979	Plain
 4979	Shadow-exposed slope
+4979	plain
 4980	Sun-exposed slope
-4980	Plain
-4981	Plain
+4980	plain
 4981	Sun-exposed slope
+4981	plain
 4982	Shadow-exposed slope
-4983	Plain
 4983	Sun-exposed slope
-4984	Shadow-exposed slope
+4983	Shadow-exposed slope
+4983	plain
 4984	Sun-exposed slope
-4984	Plain
+4984	Shadow-exposed slope
+4984	plain
 4985	Sun-exposed slope
-4985	Plain
-4986	Plain
+4985	plain
+4985	Shadow-exposed slope
 4986	Sun-exposed slope
-4986	Plain
-4987	Plain
+4986	plain
+4986	Shadow-exposed slope
 4987	Sun-exposed slope
-4987	Plain
-4988	Plain
+4987	Shadow-exposed slope
+4987	plain
+4988	plain
 4989	Shadow-exposed slope
 4990	Sun-exposed slope
-5000	Plain
 5000	Sun-exposed slope
-5001	Plain
-5002	Plain
-5004	Plain
-5005	Plain
+5000	plain
+5001	plain
+5002	plain
+5004	plain
 5005	Sun-exposed slope
-5008	Plain
+5005	plain
 5008	Sun-exposed slope
-5009	Plain
+5008	plain
 5009	Sun-exposed slope
-5010	Plain
+5009	plain
 5010	Shadow-exposed slope
-5011	Shadow-exposed slope
-5011	Plain
+5010	plain
 5011	Sun-exposed slope
+5011	Shadow-exposed slope
+5011	plain
 5012	Shadow-exposed slope
-5012	Plain
 5012	Sun-exposed slope
-5013	Plain
-5014	Plain
+5012	plain
+5013	plain
 5014	Sun-exposed slope
+5014	plain
 5014	Shadow-exposed slope
-5015	Plain
-5015	Shadow-exposed slope
 5015	Sun-exposed slope
-5016	Plain
-5016	Shadow-exposed slope
+5015	plain
+5015	Shadow-exposed slope
 5016	Sun-exposed slope
-5017	Shadow-exposed slope
-5017	Plain
+5016	Shadow-exposed slope
+5016	plain
 5017	Sun-exposed slope
-5018	Plain
+5017	Shadow-exposed slope
+5017	plain
+5018	plain
 5018	Sun-exposed slope
-5019	Plain
+5019	plain
 5019	Shadow-exposed slope
-5020	Plain
-5020	Sun-exposed slope
 5020	Shadow-exposed slope
-5021	Plain
-5021	Shadow-exposed slope
+5020	Sun-exposed slope
+5020	plain
 5021	Sun-exposed slope
+5021	Shadow-exposed slope
+5021	plain
 5022	Sun-exposed slope
 5023	Shadow-exposed slope
-5024	Plain
-5025	Plain
-5026	Plain
+5024	plain
+5025	plain
 5026	Shadow-exposed slope
+5026	plain
 5027	Shadow-exposed slope
-5027	Plain
 5027	Sun-exposed slope
-5028	Plain
-5028	Shadow-exposed slope
+5027	plain
 5028	Sun-exposed slope
-5029	Plain
-5029	Shadow-exposed slope
+5028	Shadow-exposed slope
+5028	plain
 5029	Sun-exposed slope
-5030	Plain
+5029	Shadow-exposed slope
+5029	plain
 5030	Shadow-exposed slope
-5031	Plain
-5031	Shadow-exposed slope
+5030	plain
 5031	Sun-exposed slope
-5032	Plain
-5032	Shadow-exposed slope
+5031	Shadow-exposed slope
+5031	plain
 5032	Sun-exposed slope
-5033	Plain
-5033	Shadow-exposed slope
+5032	Shadow-exposed slope
+5032	plain
 5033	Sun-exposed slope
-5034	Plain
+5033	Shadow-exposed slope
+5033	plain
 5034	Sun-exposed slope
+5034	plain
 5034	Shadow-exposed slope
 5035	Shadow-exposed slope
-5036	Plain
+5036	plain
 5036	Shadow-exposed slope
 5037	Sun-exposed slope
-5038	Plain
 5038	Sun-exposed slope
+5038	plain
 5039	Sun-exposed slope
 5039	Shadow-exposed slope
-5040	Plain
 5040	Sun-exposed slope
-5041	Plain
+5040	plain
 5041	Sun-exposed slope
-5042	Plain
-5042	Shadow-exposed slope
+5041	plain
 5042	Sun-exposed slope
+5042	Shadow-exposed slope
+5042	plain
 5043	Sun-exposed slope
 5044	Sun-exposed slope
 5045	Shadow-exposed slope
 5045	Sun-exposed slope
 5046	Sun-exposed slope
-5047	Plain
 5047	Shadow-exposed slope
-5048	Shadow-exposed slope
-5048	Plain
+5047	plain
 5048	Sun-exposed slope
+5048	Shadow-exposed slope
+5048	plain
+5049	plain
 5049	Shadow-exposed slope
-5049	Plain
 5049	Sun-exposed slope
-5050	Plain
-5050	Shadow-exposed slope
 5050	Sun-exposed slope
-5051	Plain
+5050	plain
+5050	Shadow-exposed slope
+5051	plain
 5051	Sun-exposed slope
-5052	Plain
 5052	Sun-exposed slope
-5053	Plain
+5052	plain
 5053	Sun-exposed slope
 5053	Shadow-exposed slope
-5054	Plain
-5054	Shadow-exposed slope
+5053	plain
 5054	Sun-exposed slope
-5055	Plain
+5054	Shadow-exposed slope
+5054	plain
+5055	plain
 5055	Sun-exposed slope
-5056	Plain
-5057	Plain
+5056	plain
 5057	Sun-exposed slope
-5058	Plain
+5057	plain
+5058	plain
 5059	Sun-exposed slope
-5060	Plain
-5061	Plain
-5064	Plain
+5060	plain
+5061	plain
+5064	plain
 5064	Sun-exposed slope
 5068	Shadow-exposed slope
 5069	Sun-exposed slope
 5070	Sun-exposed slope
 5071	Sun-exposed slope
 5072	Shadow-exposed slope
-5072	Plain
+5072	plain
 5073	Sun-exposed slope
+5074	Sun-exposed slope
+5074	plain
 5100	Shadow-exposed slope
-5101	Plain
 5101	Sun-exposed slope
-5102	Shadow-exposed slope
+5101	plain
 5102	Sun-exposed slope
+5102	Shadow-exposed slope
 5103	Shadow-exposed slope
-5105	Shadow-exposed slope
 5105	Sun-exposed slope
+5105	Shadow-exposed slope
 5106	Sun-exposed slope
 5107	Shadow-exposed slope
-5108	Plain
 5108	Sun-exposed slope
 5108	Shadow-exposed slope
-5109	Shadow-exposed slope
-5109	Plain
+5108	plain
 5109	Sun-exposed slope
-5110	Plain
+5109	plain
+5109	Shadow-exposed slope
 5110	Sun-exposed slope
 5110	Shadow-exposed slope
-5111	Sun-exposed slope
+5110	plain
 5111	Shadow-exposed slope
-5111	Plain
+5111	Sun-exposed slope
+5111	plain
 5112	Sun-exposed slope
 5113	Shadow-exposed slope
-5114	Plain
+5114	plain
 5115	Sun-exposed slope
-5115	Plain
-5116	Shadow-exposed slope
+5115	plain
 5116	Sun-exposed slope
-5116	Plain
+5116	Shadow-exposed slope
+5116	plain
 5117	Shadow-exposed slope
-5118	Plain
 5118	Sun-exposed slope
-5119	Plain
+5118	plain
+5119	plain
+5120	plain
 5120	Shadow-exposed slope
-5120	Plain
 5120	Sun-exposed slope
+5121	plain
 5121	Shadow-exposed slope
-5121	Plain
 5122	Shadow-exposed slope
-5123	Plain
 5123	Shadow-exposed slope
-5124	Plain
+5123	plain
 5124	Sun-exposed slope
+5124	plain
 5125	Shadow-exposed slope
-5125	Plain
-5126	Shadow-exposed slope
+5125	plain
 5126	Sun-exposed slope
-5127	Shadow-exposed slope
+5126	Shadow-exposed slope
 5127	Sun-exposed slope
+5127	Shadow-exposed slope
 5128	Shadow-exposed slope
-5129	Plain
+5129	plain
 5130	Sun-exposed slope
 5131	Shadow-exposed slope
-5132	Plain
 5132	Shadow-exposed slope
+5132	plain
 5133	Shadow-exposed slope
 5134	Shadow-exposed slope
-5134	Plain
+5134	plain
 5135	Sun-exposed slope
-5202	Plain
-5203	Plain
-5204	Shadow-exposed slope
-5204	Plain
+5202	plain
+5203	plain
 5204	Sun-exposed slope
-5205	Plain
-5205	Sun-exposed slope
+5204	plain
+5204	Shadow-exposed slope
+5205	plain
 5205	Shadow-exposed slope
-5206	Sun-exposed slope
+5205	Sun-exposed slope
+5206	plain
 5206	Shadow-exposed slope
-5206	Plain
-5207	Plain
+5206	Sun-exposed slope
 5207	Shadow-exposed slope
+5207	plain
 5207	Sun-exposed slope
-5208	Plain
-5209	Plain
-5451	Plain
+5208	plain
+5209	plain
+5451	plain
 5451	Shadow-exposed slope
 5451	Sun-exposed slope
-5452	Plain
+5452	plain
 5452	Sun-exposed slope
-5501	Sun-exposed slope
+5501	plain
 5501	Shadow-exposed slope
-5501	Plain
-5520	Plain
+5501	Sun-exposed slope
+5520	plain
 5520	Shadow-exposed slope
 5520	Sun-exposed slope
 5601	Sun-exposed slope
 5602	Shadow-exposed slope
-5602	Plain
+5602	plain
 5602	Sun-exposed slope
-5740	Sun-exposed slope
+5740	plain
 5740	Shadow-exposed slope
-5740	Plain
-5741	Plain
+5740	Sun-exposed slope
+5741	plain
+5820	plain
 5820	Shadow-exposed slope
 5820	Sun-exposed slope
-5820	Plain
-5821	Sun-exposed slope
-5821	Plain
+5821	plain
 5821	Shadow-exposed slope
-5822	Plain
+5821	Sun-exposed slope
 5822	Sun-exposed slope
+5822	plain
 5822	Shadow-exposed slope
-5823	Plain
 5823	Sun-exposed slope
 5823	Shadow-exposed slope
-5824	Shadow-exposed slope
-5824	Plain
+5823	plain
 5824	Sun-exposed slope
-5825	Plain
-5826	Plain
-5827	Plain
-5828	Plain
-5829	Plain
+5824	Shadow-exposed slope
+5824	plain
+5825	plain
+5826	plain
+5827	plain
+5828	plain
+5829	plain
 6001	Shadow-exposed slope
-6002	Plain
-6003	Plain
-6004	Plain
-6006	Plain
-6007	Plain
-6008	Plain
-6009	Plain
-6010	Plain
+6002	plain
+6003	plain
+6004	plain
+6006	plain
+6007	plain
+6008	plain
+6009	plain
 6010	Shadow-exposed slope
+6010	plain
+6011	plain
 6011	Sun-exposed slope
-6011	Plain
-6015	Plain
-6023	Plain
+6015	plain
+6023	plain
 6027	Sun-exposed slope
-6027	Plain
-6028	Plain
-6030	Plain
-6032	Plain
-6033	Plain
+6027	plain
+6028	plain
+6030	plain
+6032	plain
+6033	plain
 6034	Sun-exposed slope
-6035	Sun-exposed slope
-6036	Shadow-exposed slope
-6036	Plain
-6037	Sun-exposed slope
-6038	Shadow-exposed slope
-6038	Plain
-6038	Sun-exposed slope
-6039	Plain
-6039	Shadow-exposed slope
-6040	Plain
-6040	Sun-exposed slope
-6041	Sun-exposed slope
-6041	Shadow-exposed slope
-6041	Plain
 6042	Shadow-exposed slope
 6042	Sun-exposed slope
-6043	Plain
-6044	Shadow-exposed slope
+6043	plain
 6044	Sun-exposed slope
-6044	Plain
+6044	plain
+6044	Shadow-exposed slope
+6045	plain
+6046	plain
+6047	plain
+6048	plain
+6049	plain
+6050	plain
 6101	Shadow-exposed slope
-6102	Plain
-6102	Shadow-exposed slope
-6103	Shadow-exposed slope
-6103	Plain
-6103	Sun-exposed slope
-6104	Sun-exposed slope
-6104	Shadow-exposed slope
-6104	Plain
-6105	Sun-exposed slope
-6105	Plain
-6105	Shadow-exposed slope
-6106	Plain
-6106	Shadow-exposed slope
-6106	Sun-exposed slope
+6107	plain
 6107	Shadow-exposed slope
-6107	Plain
-6108	Plain
-6108	Sun-exposed slope
 6108	Shadow-exposed slope
-6109	Plain
-6109	Sun-exposed slope
-6109	Shadow-exposed slope
-6110	Shadow-exposed slope
-6110	Sun-exposed slope
-6110	Plain
-6111	Sun-exposed slope
-6111	Plain
-6111	Shadow-exposed slope
+6108	plain
+6108	Sun-exposed slope
 6112	Shadow-exposed slope
-6113	Plain
+6113	plain
 6114	Sun-exposed slope
-6118	Plain
+6118	plain
+6119	plain
+6120	plain
+6120	Shadow-exposed slope
+6121	plain
+6121	Shadow-exposed slope
+6122	plain
+6123	plain
 6201	Shadow-exposed slope
 6201	Sun-exposed slope
-6201	Plain
-6202	Plain
+6201	plain
 6202	Shadow-exposed slope
+6202	plain
 6202	Sun-exposed slope
-6301	Plain
+6203	Sun-exposed slope
+6203	plain
+6204	plain
+6204	Sun-exposed slope
+6301	plain
 6301	Sun-exposed slope
-6302	Plain
+6302	plain
 6303	Shadow-exposed slope
-6401	Plain
-6501	Plain
-6501	Shadow-exposed slope
-6501	Sun-exposed slope
-6502	Sun-exposed slope
-6502	Plain
-6502	Shadow-exposed slope
-6503	Sun-exposed slope
-6503	Plain
-6503	Shadow-exposed slope
-7001	Plain
-7002	Plain
-7003	Plain
-7004	Plain
-7005	Plain
-7006	Plain
-7007	Plain
-7008	Plain
-7009	Plain
-7010	Plain
-7011	Plain
-7012	Plain
-7013	Plain
-7014	Plain
-7015	Plain
-7016	Plain
-7017	Plain
-7018	Plain
-7019	Plain
-7020	Plain
-7021	Plain
-7022	Plain
-7023	Plain
-7024	Plain
-7025	Plain
-7026	Plain
-7027	Plain
-7028	Plain
-7029	Plain
-7030	Plain
-7031	Plain
-7032	Plain
-7033	Plain
-7034	Plain
-7035	Plain
+6304	plain
+6305	plain
+6306	plain
+6307	plain
+6401	plain
+6402	plain
+6403	plain
+6404	plain
+6405	plain
+6501	plain
+6502	plain
+6503	plain
+6504	plain
+6505	plain
+6601	plain
+6602	plain
+6603	plain
+6701	plain
+6702	plain
+6703	plain
+6704	plain
+6705	plain
+6706	plain
+7001	plain
+7002	plain
+7003	plain
+7004	plain
+7005	plain
+7006	plain
+7007	plain
+7008	plain
+7009	plain
+7010	plain
+7011	plain
+7012	plain
+7013	plain
+7014	plain
+7015	plain
+7016	plain
+7017	plain
+7018	plain
+7019	plain
+7020	plain
+7021	plain
+7022	plain
+7023	plain
+7024	plain
+7025	plain
+7026	plain
+7027	plain
+7028	plain
+7029	plain
+7030	plain
+7031	plain
+7032	plain
+7033	plain
+7034	plain
+7035	plain
 7036	Sun-exposed slope
-7037	Plain
-7038	Plain
-7039	Plain
-7040	Plain
-7041	Plain
-7042	Plain
-7043	Plain
+7037	plain
+7038	plain
+7039	plain
+7040	plain
+7041	plain
+7042	plain
+7043	plain
