@@ -1,71 +1,273 @@
 Comm_ID	Humus_form
+1	 -
+2	 -
+3	 -
+4	 -
+5	 -
+6	 -
+7	 -
+8	 -
+9	 -
+10	 -
+12	 -
+13	 -
+14	 -
+15	 -
+16	 -
+17	 -
+18	 -
+19	 -
+20	 -
+21	 -
+22	 -
+23	 -
+24	 -
+25	 -
+26	 -
+27	 -
+28	 -
+29	 -
+30	 -
+31	 -
+32	 -
+33	 -
+34	 -
+35	 -
+36	 -
+37	 -
+38	 -
+39	 -
+40	 -
 41	Moist mull
+42	 -
+43	 -
+44	 -
+45	 -
+46	 -
 47	Moist mull
 48	Low-moor peat
+49	 -
+52	 -
+53	 -
+54	 -
+55	 -
+56	 -
 57	Low-moor peat
+58	 -
+59	 -
+60	 -
+61	 -
+62	 -
+63	 -
+64	 -
+65	 -
+66	 -
+67	 -
 68	Transition bog peat
+69	 -
+70	 -
+71	 -
 72	Raised bog peat
+73	 -
+74	 -
+75	 -
+76	 -
+77	 -
+78	 -
+79	 -
+80	 -
+81	 -
+82	 -
+83	 -
+84	 -
+85	 -
+86	 -
+87	 -
+88	 -
+89	 -
+90	 -
+91	 -
+93	 -
+94	 -
+95	 -
+96	 -
 97	Moist mull
+98	 -
 99	Moist mull
+100	 -
+102	 -
+103	 -
+104	 -
+105	 -
 106	Moist mull
+107	 -
+108	Moist moder
+108	Transition bog peat
+110	 -
+112	 -
+113	 -
+114	 -
+115	 -
+116	 -
 117	Moist mull
+118	 -
+119	 -
+120	 -
+121	 -
+122	 -
+123	 -
+124	 -
+125	 -
+126	 -
+127	 -
+128	 -
+129	 -
+130	 -
+131	 -
+132	 -
+133	 -
+134	 -
+135	 -
+136	 -
+137	 -
+138	 -
+139	 -
 140	Low-moor peat
 140	Low-moor peat
+141	 -
+142	 -
+143	 -
+144	 -
+145	 -
+146	 -
+147	 -
+148	 -
+149	 -
+150	 -
+151	 -
+152	 -
 153	Transition bog peat
 153	Low-moor peat
+154	 -
 155	Low-moor peat
+156	 -
+157	Anmoor
+158	 -
+159	 -
 160	Moist mull
 161	Transition bog peat
+162	 -
+163	 -
 164	Transition bog peat
 164	Low-moor peat
 165	Moist mull
 165	Low-moor peat
 165	Low-moor peat
+166	 -
+167	 -
+168	 -
+169	 -
+170	 -
+171	 -
+172	 -
+173	 -
+174	 -
+175	 -
 176	Moist moder
 177	Moist moder
 178	Moist moder
 178	Transition bog peat
+179	Raised bog peat
+180	 -
+181	 -
+182	Raised bog peat
+183	 -
+184	Raised bog peat
+185	Moist mull
+186	Transition bog peat
+187	 -
+188	 -
+189	 -
+190	 -
+191	 -
+192	 -
+196	 -
+198	 -
+203	 -
+204	 -
+205	Moist mull
+206	 -
+207	 -
+208	 -
+209	Moist moder
+210	Moist mull
+210	Moist moder
+211	Moist mull
+211	Moist moder
+212	Transition bog peat
+213	Transition bog peat
+214	Transition bog peat
+215	Transition bog peat
+216	Raised bog peat
+217	Moist moder
+217	Transition bog peat
+218	Transition bog peat
+219	Transition bog peat
+220	Raised bog peat
+221	Moist moder
+221	Transition bog peat
+222	Moder
+222	Moist moder
+222	Mull-like moder
+223	Moist mull
+224	Anmoor
+224	Low-moor peat
+225	Low-moor peat
+226	Low-moor peat
+227	 -
+228	 -
+2006	 -
 2010	Mull
-2010	Moist moder
-2010	Moist raw humus
 2010	Moder
+2010	Moist raw humus
+2010	Moist moder
 2011	Mull-like moder
 2011	Moder
 2012	Moist moder
 2012	Mull
-2013	Moist moder
-2013	Mull
 2013	Mull-like moder
+2013	Mull
+2013	Moist moder
 2014	Raw humus-like moder
 2014	Mull-like moder
-2014	Mull
 2014	Moder
+2014	Mull
+2015	Moder
+2015	Raw humus-like moder
 2015	Raw humus-like moder
 2015	Moder
-2015	Moder
-2015	Raw humus-like moder
 2016	Raw humus-like moder
 2016	Moder
 2017	Moder
 2017	Moder
 2017	Raw humus-like moder
-2018	Moder
-2018	Moder
 2018	Raw humus-like moder
+2018	Moder
+2018	Moder
 2019	Raw humus-like moder
-2019	Moder
 2019	Mull-like moder
+2019	Moder
 2019	Moist moder
-2020	Raw humus-like moder
 2020	Mull-like moder
-2020	Moder
+2020	Raw humus-like moder
 2020	Anmoor
+2020	Moder
 2021	Raw humus-like moder
 2021	Moder
 2022	Raw humus-like moder
 2022	Moder
-2023	Raw humus-like moder
 2023	Moder
+2023	Raw humus-like moder
 2024	Moder
 2024	Raw humus-like moder
 2025	Raw humus-like moder
@@ -73,30 +275,30 @@ Comm_ID	Humus_form
 2026	Moder
 2026	Moder
 2026	Raw humus-like moder
-2027	Mull
 2027	Mull-like moder
 2027	Moder
+2027	Mull
 2027	Moder
 2028	Mull-like moder
 2028	Moder
 2028	Moder
-2029	Tangel
 2029	Mull
-2030	Mull
+2029	Tangel
 2030	Mull-like moder
 2030	Moder
+2030	Mull
 2031	Mull
 2031	Mull-like moder
 2032	Mull
-2032	Mull-like moder
 2032	Moder
+2032	Mull-like moder
 2033	Moder
 2033	Moder
 2034	Raw humus-like moder
 2034	Raw humus-like moder
-2035	Raw humus-like moder
-2035	Raw humus-like moder
 2035	Raw humus
+2035	Raw humus-like moder
+2035	Raw humus-like moder
 2036	Raw humus-like moder
 2036	Raw humus-like moder
 2036	Raw humus
@@ -113,110 +315,109 @@ Comm_ID	Humus_form
 2041	Mull
 2041	Mull
 2041	Mull-like moder
-2042	Mull
-2042	Mull
 2042	Mull-like moder
+2042	Mull
+2042	Mull
 2043	Raw humus-like moder
 2043	Raw humus-like moder
-2044	Moist raw humus
 2044	Raised bog peat
+2044	Moist raw humus
 2045	Raw humus-like moder
 2045	Raw humus-like moder
 2045	Raw humus-like moder
 2046	Moist raw humus
-2047	Raw humus
 2047	Moist raw humus
-2048	Raw humus-like moder
+2047	Raw humus
 2048	Raw humus
+2048	Raw humus-like moder
 2048	Raw humus
 2049	Moist moder
 2049	Mull
 2050	Moist moder
 2050	Mull-like moder
-2051	Moist moder
 2051	Mull
-2052	Moist raw humus
+2051	Moist moder
 2052	Moist moder
-2053	Low-moor peat
+2052	Moist raw humus
 2053	Anmoor
-2054	Mull-like moder
+2053	Low-moor peat
 2054	Anmoor
 2054	Mull
+2054	Mull-like moder
+2055	Mull-like moder
 2055	Mull
 2055	Moist moder
-2055	Mull-like moder
-2056	Moder
 2056	Mull-like moder
+2056	Moder
 2056	Moist moder
-2057	Moder
 2057	Mull
 2057	Mull-like moder
+2057	Moder
 2058	Raised bog peat
 2059	Raised bog peat
 2060	Moist moder
 2060	Mull
-2061	Mull-like moder
 2061	Moder
+2061	Mull-like moder
 2061	Mull
-2062	Mull
 2062	Mull-like moder
-2063	Mull-like moder
+2062	Mull
 2063	Anmoor
-2064	Raw humus-like moder
+2063	Mull-like moder
 2064	Raw humus
+2064	Raw humus-like moder
 2065	Raw humus-like moder
 2065	Raw humus
 2066	Moder
+2066	Raw humus-like moder
+2066	Raw humus-like moder
 2066	Moist moder
-2066	Raw humus-like moder
-2066	Raw humus-like moder
 2066	Moder
 2067	Mull
-2067	Anmoor
 2067	Mull
+2067	Anmoor
 2068	Tangel
 2069	Raw humus-like moder
 2069	Raw humus-like moder
 2069	Raw humus-like moder
 2070	Mull
-2070	Mull-like moder
 2070	Mull
+2070	Mull-like moder
 2071	Moder
 2071	Mull-like moder
 2072	Raw humus-like moder
 2072	Raw humus-like moder
-2073	Moder
 2073	Mull-like moder
 2073	Moder
-2074	Mull-like moder
+2073	Moder
 2074	Moder
+2074	Mull-like moder
 2075	Mull-like moder
 2075	Moder
 2075	Moder
-2076	Mull-like moder
 2076	Moder
-2077	Mull-like moder
+2076	Mull-like moder
 2077	Moder
+2077	Mull-like moder
 2077	Mull
 2077	Moder
+2078	Mull
 2078	Mull-like moder
 2078	Moder
-2078	Mull
 2078	Moist moder
 2079	Moder
 2079	Raw humus-like moder
 2079	Moder
-2080	Moist mull
-2081	Mull
 2081	Mull-like moder
+2081	Mull
 2081	Moder
 2081	Raw humus-like moder
 2083	Mull
 2083	Mull-like moder
 2083	Moder
+2084	Moder
+2084	Moder
 2084	Mull-like moder
-2084	Moder
-2084	Moder
 2085	Mull
 2085	Mull-like moder
 2086	Mull
@@ -224,12 +425,12 @@ Comm_ID	Humus_form
 2087	Mull
 2088	Moder
 2089	Moder
-2090	Moist raw humus
 2090	Transition bog peat
+2090	Moist raw humus
+2091	Low-moor peat
 2091	Moist mull
+2091	Low-moor peat
 2091	Anmoor
-2091	Low-moor peat
-2091	Low-moor peat
 2092	Low-moor peat
 2093	Low-moor peat
 2094	Moder
@@ -240,31 +441,40 @@ Comm_ID	Humus_form
 2099	Mull
 2100	Mull
 2100	Mull
-2100	Moist moder
 2100	Moder
-2100	Mull
+2100	Moist moder
 2100	Mull-like moder
+2100	Mull
 2101	Anmoor
-2102	Moder
 2102	Mull-like moder
-2103	Moder
+2102	Moder
 2103	Mull-like moder
+2103	Moder
 2104	Mull
 2105	Mull
 2106	Mull
+2107	Raw humus-like moder
 2107	Raw humus
 2107	Moder
-2107	Raw humus-like moder
 2108	Moder
-2109	Raw humus-like moder
 2109	Raw humus
+2109	Raw humus-like moder
 2110	Moist raw humus
 2110	Raw humus
 2110	Anmoor
-2111	Moder
 2111	Mull-like moder
+2111	Moder
 2112	Moder
 2112	Mull-like moder
+2113	Raw humus-like moder
+2113	Moist moder
+2114	Mull
+2114	Mull-like moder
+2115	Mull
+2116	Mull
+2117	Mull
+2118	Mull
+2119	Mull
 2120	Raw humus-like moder
 2120	Moder
 2120	Moder
@@ -275,8 +485,14 @@ Comm_ID	Humus_form
 2122	Moder
 2122	Raw humus-like moder
 2124	Moder
-2124	Raw humus-like moder
 2124	Moder
+2124	Raw humus-like moder
+2125	Mull
+2126	Mull
+2127	Mull
+2128	Moist mull
+2129	Moist mull
+2129	Moist moder
 2130	Raw humus-like moder
 2130	Raw humus-like moder
 2131	Raw humus-like moder
@@ -286,20 +502,26 @@ Comm_ID	Humus_form
 2133	Raw humus
 2133	Raw humus-like moder
 2134	Raw humus-like moder
+2135	Mull-like moder
+2135	Moder
+2136	Mull
+2137	Mull
+2138	Raw humus-like moder
+2138	Raw humus
 2140	Raw humus-like moder
 2140	Raw humus
 2150	Raw humus
 2150	Lean raw humus
+2151	Raw humus
 2151	Raw humus-like moder
 2151	Lean raw humus
-2151	Raw humus
 2152	Raw humus-like moder
 2152	Raw humus-like moder
 2152	Raw humus-like moder
 2153	Moder
 2153	Moder
-2154	Mull-like moder
 2154	Moder
+2154	Mull-like moder
 2155	Raw humus-like moder
 2155	Raw humus
 2156	Raw humus-like moder
@@ -316,29 +538,39 @@ Comm_ID	Humus_form
 2201	Moist raw humus
 2202	Moist raw humus
 2203	Moist moder
-2210	Raw humus-like moder
-2210	Transition bog peat
 2210	Moist moder
+2210	Transition bog peat
+2210	Raw humus-like moder
 2211	Raw humus-like moder
 2212	Raw humus-like moder
+2213	Raw humus
+2213	Raw humus-like moder
+2214	Raw humus-like moder
+2214	Raw humus
+2215	Moist moder
+2215	Low-moor peat
+2216	Mull
+2216	Moist mull
+2217	Mull
+2217	Mull-like moder
 2230	Raw humus-like moder
 2230	Raw humus-like moder
-2241	Mull-like moder
 2241	Mull
-2242	Mull-like moder
+2241	Mull-like moder
 2242	Mull
-2243	Mull-like moder
+2242	Mull-like moder
 2243	Mull
-2244	Mull
+2243	Mull-like moder
 2244	Mull-like moder
+2244	Mull
 2245	Moder
 2245	Moder
 2246	Moist moder
-2250	Moist moder
 2250	Moder
+2250	Moist moder
 2250	Mull-like moder
-2260	Mull-like moder
 2260	Mull
+2260	Mull-like moder
 2261	Moder
 2261	Mull-like moder
 2261	Mull
@@ -347,33 +579,33 @@ Comm_ID	Humus_form
 2271	Mull-like moder
 2271	Mull
 2271	Moder
-2273	Mull-like moder
 2273	Mull
-2274	Mull-like moder
+2273	Mull-like moder
 2274	Mull
-2280	Mull-like moder
+2274	Mull-like moder
 2280	Mull
 2280	Moder
+2280	Mull-like moder
 2289	Moist mull
 2290	Anmoor
-2291	Mull-like moder
 2291	Anmoor
-2292	Mull-like moder
+2291	Mull-like moder
 2292	Moder
-2293	Mull-like moder
+2292	Mull-like moder
 2293	Moder
+2293	Mull-like moder
 2301	Moder
 2301	Moder
-2302	Moder
 2302	Mull
 2302	Mull-like moder
+2302	Moder
 2303	Moder
 2303	Mull-like moder
 2304	Moder
 2304	Mull-like moder
 2305	Mull-like moder
-2306	Raw humus-like moder
 2306	Raw humus
+2306	Raw humus-like moder
 2307	Mull
 2308	Moder
 2309	Mull
@@ -381,9 +613,9 @@ Comm_ID	Humus_form
 2311	Moder
 2311	Moder
 2311	Raw humus-like moder
+2312	Moder
 2312	Mull-like moder
 2312	Mull
-2312	Moder
 2313	Mull-like moder
 2313	Moder
 2314	Mull
@@ -405,21 +637,21 @@ Comm_ID	Humus_form
 2340	Raw humus
 2340	Raw humus-like moder
 2340	Raw humus-like moder
-2350	Raw humus-like moder
 2350	Raw humus
 2350	Raw humus-like moder
+2350	Raw humus-like moder
 2360	Moder
 2360	Moder
-2370	Moder
 2370	Moder
 2370	Mull
 2370	Mull-like moder
+2370	Moder
 2380	Mull
 2380	Mull-like moder
 2381	Mull-like moder
 2381	Moder
-2382	Mull-like moder
 2382	Mull
+2382	Mull-like moder
 2383	Raw humus
 2384	Raw humus-like moder
 2385	Moder
@@ -427,6 +659,25 @@ Comm_ID	Humus_form
 2386	Mull
 2387	Mull
 2388	Moist mull
+2389	Mull-like moder
+2389	Mull
+2389	Moder
+2390	Mull
+2391	Mull
+2392	Moder
+2392	Mull-like moder
+2393	Mull
+2394	Mull-like moder
+2394	Mull
+2394	Moder
+2394	Mull-like moder
+2395	Mull-like moder
+2395	Moder
+2396	 -
+2397	Mull
+2398	Mull-like moder
+2398	Mull
+2398	Moder
 2399	Raw humus-like moder
 2399	Anmoor
 2400	Raw humus-like moder
@@ -434,140 +685,190 @@ Comm_ID	Humus_form
 2401	Raw humus-like moder
 2401	Raw humus-like moder
 2402	Moder
-2402	Moder
-2402	Mull
 2402	Mull-like moder
-2403	Moder
+2402	Mull
+2402	Moder
+2403	Mull
 2403	Mull-like moder
 2403	Moder
-2403	Mull
-2404	Mull-like moder
-2404	Mull
+2403	Moder
 2404	Moder
-2405	Mull-like moder
-2405	Mull-like moder
+2404	Mull
+2404	Mull-like moder
 2405	Mull
 2405	Mull
+2405	Mull-like moder
+2405	Mull-like moder
 2406	Moder
-2406	Mull-like moder
 2406	Tangel
-2407	Moist moder
+2406	Mull-like moder
 2407	Mull
+2407	Moist moder
 2408	Tangel
-2409	Moist raw humus
 2409	Raised bog peat
+2409	Moist raw humus
 2410	Moist raw humus
 2410	Raised bog peat
-2412	Raw humus-like moder
 2412	Raw humus
+2412	Raw humus-like moder
 2413	Tangel
-2414	Moder
 2414	Tangel
+2414	Moder
 2415	Moder
 2415	Mull-like moder
 2415	Moder
 2416	Raw humus-like moder
 2416	Moist raw humus
-2417	Raw humus-like moder
 2417	Moist raw humus
+2417	Raw humus-like moder
 2418	Raw humus-like moder
 2418	Raw humus
 2418	Raw humus-like moder
-2419	Raw humus-like moder
-2419	Raw humus-like moder
 2419	Raw humus
+2419	Raw humus-like moder
+2419	Raw humus-like moder
 2420	Moder
 2420	Moder
 2421	Moder
 2422	Moder
 2422	Tangel
-2423	Raw humus-like moder
 2423	Tangel
-2424	Moder
+2423	Raw humus-like moder
 2424	Tangel
+2424	Moder
 2425	Raw humus-like moder
 2425	Tangel
-2426	Raw humus
 2426	Raw humus-like moder
-2427	Tangel
+2426	Raw humus
 2427	Raw humus-like moder
-2428	Mull-like moder
+2427	Tangel
 2428	Mull
+2428	Mull-like moder
 2429	Tangel
 2430	Moder
-2430	Raw humus-like moder
 2430	Moder
+2430	Raw humus-like moder
 2431	Mull-like moder
 2431	Mull
-2432	Moder
 2432	Mull-like moder
-2433	Mull-like moder
+2432	Moder
 2433	Mull
-2434	Mull-like moder
+2433	Mull-like moder
 2434	Mull
+2434	Mull-like moder
 2435	Mull
 2435	Mull-like moder
 2436	Mull-like moder
 2436	Mull
-2437	Mull-like moder
 2437	Mull
 2437	Moder
+2437	Mull-like moder
 2438	Moder
 2438	Moder
 2439	Tangel
 2439	Moder
-2440	Tangel
-2440	Moder
-2441	Tangel
 2441	Moder
-2442	Tangel
+2441	Tangel
 2442	Moder
-2444	Moder
+2442	Tangel
 2444	Tangel
+2444	Moder
 2445	Moder
-2445	Mull
 2445	Mull-like moder
-2446	Moder
+2445	Mull
 2446	Mull-like moder
+2446	Moder
+2447	Raw humus-like moder
+2447	Moder
+2448	Moder
+2448	Mull-like moder
+2449	 -
+2450	Mull
+2450	Moist raw humus
+2451	Mull
+2452	Moder
+2452	Mull-like moder
+2453	Mull
+2454	Mull
 2461	Moder
 2461	Mull-like moder
 2462	Moder
 2462	Mull-like moder
 2464	Moder
 2464	Mull-like moder
-2465	Moder
 2465	Mull-like moder
+2465	Moder
 2465	Mull
 2470	Moder
 2470	Mull-like moder
 2471	Moder
 2471	Mull-like moder
+2472	 -
 2473	Moder
 2473	Mull-like moder
 2474	Moder
-2474	Raw humus-like moder
 2474	Mull-like moder
 2474	Moder
-2475	Moder
-2475	Raw humus-like moder
+2474	Raw humus-like moder
 2475	Mull-like moder
+2475	Raw humus-like moder
+2475	Moder
 2475	Moder
 2477	Moder
-2477	Mull-like moder
 2477	Raw humus-like moder
 2477	Moder
+2477	Mull-like moder
 2478	Moder
 2478	Moder
+2479	Raw humus
+2479	Raw humus-like moder
+2480	Moder
+2480	Mull-like moder
+2481	Mull
+2481	Moder
+2481	Mull-like moder
+2482	Mull-like moder
+2482	Moder
+2483	Moder
+2483	Mull-like moder
+2484	Mull-like moder
+2484	Moder
+2485	 -
+2486	Moder
+2486	Moist mull
+2486	Anmoor
+2487	Mull
+2488	Moist mull
+2488	Anmoor
+2489	Raw humus
+2489	Moist moder
+2489	Raw humus-like moder
+2490	Raw humus-like moder
+2490	Raw humus
+2491	Mull
+2492	Raw humus-like moder
+2492	Raw humus
+2493	Moder
+2493	Raw humus-like moder
+2494	Moist raw humus
+2495	Moder
+2496	Mull-like moder
+2496	Moder
+2497	Mull
+2498	Mull
+2499	Mull
+2499	Mull-like moder
+2499	Moder
 2501	Raw humus
 2501	Raw humus-like moder
-2502	Raw humus-like moder
 2502	Moder
-2502	Moder
-2502	Moder
-2502	Raw humus-like moder
 2502	Raw humus
-2510	Raw humus-like moder
+2502	Moder
+2502	Raw humus-like moder
+2502	Moder
+2502	Raw humus-like moder
 2510	Moder
+2510	Raw humus-like moder
 2511	Raw humus
 2511	Raw humus-like moder
 2512	Raw humus-like moder
@@ -577,17 +878,17 @@ Comm_ID	Humus_form
 2513	Raw humus-like moder
 2513	Raw humus-like moder
 2514	Mull-like moder
-2515	Mull-like moder
 2515	Mull
-2516	Mull
+2515	Mull-like moder
 2516	Mull-like moder
+2516	Mull
 2517	Mull
 2518	Mull
 2519	Mull
 2520	Mull-like moder
 2521	Mull-like moder
-2522	Mull-like moder
 2522	Mull
+2522	Mull-like moder
 2523	Mull
 2524	Mull-like moder
 2525	Mull-like moder
@@ -605,8 +906,8 @@ Comm_ID	Humus_form
 2537	Mull-like moder
 2538	Mull
 2539	Mull
-2540	Raw humus-like moder
 2540	Mull-like moder
+2540	Raw humus-like moder
 2540	Moder
 2541	Raw humus-like moder
 2542	Mull-like moder
@@ -615,8 +916,8 @@ Comm_ID	Humus_form
 2544	Raw humus-like moder
 2545	Raw humus-like moder
 2546	Mull-like moder
-2547	Mull-like moder
 2547	Mull
+2547	Mull-like moder
 2548	Mull-like moder
 2549	Mull
 2549	Mull-like moder
@@ -625,13 +926,13 @@ Comm_ID	Humus_form
 2552	Mull
 2553	Mull
 2554	Mull
-2555	Moder
 2555	Mull-like moder
+2555	Moder
 2556	Mull
 2557	Mull
 2558	Mull
-2559	Mull
 2559	Moder
+2559	Mull
 2560	Moder
 2560	Raw humus-like moder
 2561	Moder
@@ -650,26 +951,28 @@ Comm_ID	Humus_form
 2574	Moder
 2575	Moder
 2576	Moder
-2577	Moder
+2577	Mull
 2578	Moder
 2579	Moder
 2580	Moder
 2581	Moder
 2582	Mull
 2582	Tangel
-2583	Mull
 2583	Tangel
+2583	Mull
 2584	Transition bog peat
 2585	Transition bog peat
 2586	Low-moor peat
 2587	Raised bog peat
 2588	Moder
-2591	Mull
+2589	Mull
+2590	Mull
 2591	Moder
+2591	Mull
 2592	Mull
 2593	Moder
-2594	Low-moor peat
 2594	Moder
+2594	Low-moor peat
 2595	Raw humus
 2595	Raw humus-like moder
 2596	Moder
@@ -677,30 +980,30 @@ Comm_ID	Humus_form
 2598	Mull
 2599	Mull
 2601	Moder
-2601	Moder
 2601	Mull-like moder
+2601	Moder
+2602	Moder
 2602	Mull-like moder
 2602	Moder
-2602	Moder
+2603	Moder
+2603	Moder
 2603	Mull-like moder
-2603	Moder
-2603	Moder
-2604	Moder
 2604	Mull-like moder
 2604	Moder
+2604	Moder
 2605	Moder
 2605	Moder
+2606	Moder
 2606	Mull-like moder
 2606	Moder
-2606	Moder
+2607	Moder
 2607	Moder
 2607	Mull-like moder
-2607	Moder
+2608	Moder
 2608	Moder
 2608	Mull-like moder
-2608	Moder
-2609	Mull-like moder
 2609	Mull
+2609	Mull-like moder
 2610	Mull-like moder
 2610	Mull
 2611	Mull
@@ -713,51 +1016,51 @@ Comm_ID	Humus_form
 2614	Mull
 2615	Moder
 2615	Moder
-2615	Mull
 2615	Mull-like moder
+2615	Mull
 2616	Moder
 2616	Mull-like moder
-2617	Mull-like moder
 2617	Mull
+2617	Mull-like moder
+2618	Mull-like moder
 2618	Mull
 2618	Moder
-2618	Mull-like moder
 2619	Mull-like moder
 2619	Mull
 2620	Moder
-2620	Mull-like moder
 2620	Moder
-2621	Moder
+2620	Mull-like moder
 2621	Mull-like moder
 2621	Moder
-2622	Raw humus
+2621	Moder
 2622	Moder
 2622	Moder
 2622	Raw humus-like moder
+2622	Raw humus
 2623	Mull-like moder
-2623	Moder
-2623	Moder
 2623	Raw humus-like moder
+2623	Moder
+2623	Moder
 2624	Mull-like moder
 2624	Moder
 2624	Moder
 2625	Moder
 2625	Mull-like moder
 2625	Moder
+2626	Moder
+2626	Moder
 2626	Mull-like moder
-2626	Moder
-2626	Moder
-2627	Moder
 2627	Mull-like moder
+2627	Moder
 2627	Moder
 2628	Moder
 2628	Moder
 2629	Mull
 2629	Moder
 2629	Mull-like moder
-2630	Moder
 2630	Mull
 2630	Mull-like moder
+2630	Moder
 2631	Moder
 2631	Mull-like moder
 2632	Moder
@@ -765,10 +1068,10 @@ Comm_ID	Humus_form
 2633	Moder
 2633	Moder
 2634	Mull-like moder
-2634	Moder
 2634	Mull
-2635	Mull-like moder
+2634	Moder
 2635	Moder
+2635	Mull-like moder
 2635	Moder
 2635	Mull
 2636	Moder
@@ -783,28 +1086,28 @@ Comm_ID	Humus_form
 2641	Moder
 2642	Moder
 2642	Moder
-2643	Moder
-2643	Moder
 2643	Raw humus-like moder
+2643	Moder
+2643	Moder
 2644	Mull
 2644	Moist moder
-2645	Moder
 2645	Mull-like moder
 2645	Mull
+2645	Moder
 2646	Moder
 2646	Moder
 2646	Moder
-2647	Mull
 2647	Moder
 2647	Mull-like moder
+2647	Mull
 2648	Moist mull
-2649	Moist moder
 2649	Anmoor
-2650	Mull
+2649	Moist moder
 2650	Moder
+2650	Mull
 2650	Mull-like moder
-2651	Mull-like moder
 2651	Mull
+2651	Mull-like moder
 2651	Moder
 2652	Mull-like moder
 2652	Moder
@@ -814,18 +1117,18 @@ Comm_ID	Humus_form
 2654	Moder
 2654	Mull-like moder
 2654	Mull
+2656	Mull-like moder
 2656	Mull
 2656	Moder
-2656	Mull-like moder
-2657	Moder
 2657	Mull-like moder
+2657	Moder
 2659	Moder
 2659	Moder
 2660	Moder
 2660	Moder
 2660	Mull-like moder
-2661	Mull-like moder
 2661	Moder
+2661	Mull-like moder
 2662	Mull-like moder
 2663	Raw humus
 2664	Mull-like moder
@@ -834,13 +1137,13 @@ Comm_ID	Humus_form
 2665	Moder
 2665	Tangel
 2666	Moder
-2666	Mull-like moder
 2666	Moder
+2666	Mull-like moder
 2667	Raw humus-like moder
 2667	Moder
 2667	Moder
-2669	Moder
 2669	Mull-like moder
+2669	Moder
 2669	Moder
 2670	Tangel
 2670	Moder
@@ -850,22 +1153,22 @@ Comm_ID	Humus_form
 2673	Moder
 2673	Tangel
 2674	Moist moder
-2675	Tangel
 2675	Moder
+2675	Tangel
 2676	Raw humus-like moder
 2676	Moder
 2676	Moder
-2677	Moder
 2677	Tangel
+2677	Moder
 2678	Moder
 2678	Moder
 2679	Raw humus
 2679	Raw humus-like moder
 2679	Raw humus-like moder
-2680	Mull-like moder
 2680	Mull
-2681	Raw humus
+2680	Mull-like moder
 2681	Raw humus-like moder
+2681	Raw humus
 2681	Raw humus-like moder
 2682	Moder
 2682	Moder
@@ -883,66 +1186,66 @@ Comm_ID	Humus_form
 2692	Mull-like moder
 2692	Mull
 2693	Mull
-2694	Mull-like moder
 2694	Mull
+2694	Mull-like moder
 2695	Moist mull
-2695	Mull
 2695	Mull-like moder
+2695	Mull
 2696	Mull
-2697	Moist mull
 2697	Mull
+2697	Moist mull
 2698	Mull
 2699	Mull
-2700	Mull
 2700	Moder
 2700	Mull-like moder
+2700	Mull
 2701	Moder
 2701	Mull-like moder
-2702	Moder
 2702	Mull-like moder
-2703	Mull-like moder
-2703	Moder
+2702	Moder
 2703	Mull
+2703	Moder
+2703	Mull-like moder
 2704	Moder
 2704	Mull-like moder
 2705	Mull-like moder
 2705	Moder
 2705	Mull
-2706	Mull-like moder
-2706	Mull
 2706	Moder
+2706	Mull
+2706	Mull-like moder
 2707	Moder
 2707	Mull-like moder
-2708	Moder
 2708	Mull-like moder
+2708	Moder
 2709	Moder
 2709	Mull-like moder
 2710	Moder
 2710	Mull
 2710	Mull-like moder
-2711	Moder
 2711	Mull-like moder
-2712	Mull
+2711	Moder
 2712	Moder
+2712	Mull
 2712	Mull-like moder
-2713	Mull
-2713	Moder
 2713	Mull-like moder
+2713	Moder
+2713	Mull
+2714	Moder
 2714	Mull-like moder
 2714	Mull
-2714	Moder
-2715	Mull-like moder
 2715	Moder
+2715	Mull-like moder
 2716	Moder
 2716	Mull
 2716	Mull-like moder
-2717	Mull
 2717	Mull-like moder
+2717	Mull
 2717	Moder
 2718	Moist moder
 2718	Moder
-2719	Moist moder
 2719	Moder
+2719	Moist moder
 2720	Moist moder
 2720	Moder
 2721	Raw humus-like moder
@@ -951,124 +1254,124 @@ Comm_ID	Humus_form
 2722	Moder
 2723	Moder
 2723	Mull-like moder
-2724	Mull-like moder
 2724	Mull
-2725	Moder
+2724	Mull-like moder
 2725	Mull-like moder
+2725	Moder
 2726	Mull
 2726	Mull-like moder
-2727	Mull
 2727	Mull-like moder
+2727	Mull
 2727	Moder
-2728	Mull
-2728	Moder
 2728	Mull-like moder
-2729	Mull-like moder
+2728	Moder
+2728	Mull
 2729	Moder
+2729	Mull-like moder
 2729	Mull
-2730	Moder
 2730	Mull-like moder
+2730	Moder
 2730	Moder
 2731	Moder
 2731	Mull-like moder
 2731	Moder
 2732	Moder
 2732	Moder
+2733	Mull
 2733	Mull-like moder
 2733	Moder
 2733	Mull
-2733	Mull
-2734	Mull
 2734	Mull-like moder
-2734	Moder
 2734	Mull
-2735	Mull-like moder
-2735	Mull
+2734	Mull
+2734	Moder
 2735	Anmoor
+2735	Mull
+2735	Mull-like moder
 2736	Mull-like moder
 2736	Moder
 2736	Moder
 2736	Mull
-2737	Mull
-2737	Moist moder
 2737	Moder
 2737	Mull-like moder
-2738	Moder
+2737	Moist moder
+2737	Mull
 2738	Mull-like moder
+2738	Moder
 2739	Moder
 2739	Mull-like moder
 2740	Moder
-2740	Moder
 2740	Mull-like moder
+2740	Moder
 2741	Moder
 2741	Moder
 2741	Mull-like moder
 2742	Mull-like moder
 2742	Moder
+2743	Moder
 2743	Mull-like moder
 2743	Moder
-2743	Moder
-2744	Mull-like moder
 2744	Moder
-2745	Mull-like moder
+2744	Mull-like moder
 2745	Moder
+2745	Mull-like moder
 2746	Tangel
-2746	Raw humus-like moder
 2746	Moder
+2746	Raw humus-like moder
 2747	Moder
 2747	Mull
 2747	Mull-like moder
+2748	Moder
+2748	Moder
 2748	Mull-like moder
-2748	Moder
-2748	Moder
-2749	Raw humus-like moder
 2749	Raw humus
+2749	Raw humus-like moder
+2750	Mull
 2750	Moder
 2750	Mull-like moder
-2750	Mull
 2751	Moder
 2751	Moder
 2752	Moder
 2752	Moder
 2753	Moder
 2753	Mull-like moder
-2754	Mull-like moder
-2754	Moder
 2754	Mull
+2754	Moder
+2754	Mull-like moder
+2755	Moder
 2755	Moder
 2755	Raw humus-like moder
-2755	Moder
 2756	Moder
 2757	Moder
-2757	Mull-like moder
 2757	Mull
+2757	Mull-like moder
 2758	Moder
 2758	Moder
-2759	Tangel
 2759	Moder
 2759	Moder
 2759	Mull-like moder
-2760	Moder
-2760	Moder
+2759	Tangel
 2760	Tangel
+2760	Moder
+2760	Moder
 2760	Mull-like moder
+2761	Moder
+2761	Moder
 2761	Tangel
-2761	Moder
-2761	Moder
 2762	Raw humus-like moder
 2762	Moder
 2762	Tangel
-2763	Moder
 2763	Raw humus-like moder
 2763	Moder
-2764	Tangel
+2763	Moder
 2764	Raw humus
+2764	Tangel
+2765	Raw humus
 2765	Moder
 2765	Raw humus-like moder
 2765	Moder
-2765	Raw humus
-2766	Mull-like moder
 2766	Mull
+2766	Mull-like moder
 2767	Mull
 2768	Moist moder
 2769	Moist mull
@@ -1085,20 +1388,49 @@ Comm_ID	Humus_form
 2779	Mull
 2780	Mull-like moder
 2781	Mull-like moder
+2782	Mull
+2782	Mull-like moder
+2783	Mull-like moder
+2783	Mull
+2784	Mull
+2785	Mull
+2786	Mull
+2787	Mull
+2788	Mull
+2789	Moder
+2789	Mull-like moder
+2790	Mull-like moder
+2790	Moder
+2790	Moist moder
+2791	Mull
+2792	Mull
+2793	Mull
+2794	Mull-like moder
+2794	Moder
+2795	Mull-like moder
+2795	Moder
+2796	Mull
+2797	Moder
+2797	Mull-like moder
+2798	Mull-like moder
+2798	Moder
+2799	Mull-like moder
+2799	Mull
+2799	Moder
 2801	Moist moder
-2802	Moist moder
 2802	Mull-like moder
+2802	Moist moder
 2803	Moder
 2803	Mull-like moder
+2804	Transition bog peat
 2804	Moist raw humus
 2804	Moder
 2804	Moder
-2804	Transition bog peat
+2805	Anmoor
 2805	Transition bog peat
 2805	Moist moder
-2805	Anmoor
-2806	Anmoor
 2806	Mull
+2806	Anmoor
 2807	Mull
 2807	Low-moor peat
 2808	Moist mull
@@ -1107,64 +1439,94 @@ Comm_ID	Humus_form
 2809	Moder
 2809	Moder
 2810	Moder
-2810	Mull-like moder
 2810	Moder
+2810	Mull-like moder
 2811	Moder
 2811	Moder
 2811	Mull-like moder
-2812	Mull-like moder
 2812	Moder
+2812	Mull-like moder
 2812	Moder
 2813	Mull-like moder
 2813	Moder
 2813	Moder
 2814	Mull
 2814	Mull-like moder
+2815	Moder
+2815	Moder
 2815	Mull-like moder
-2815	Moder
-2815	Moder
-2816	Mull
 2816	Moder
 2816	Mull-like moder
-2817	Mull-like moder
+2816	Mull
 2817	Moder
-2818	Mull
+2817	Mull-like moder
 2818	Low-moor peat
+2818	Mull
 2819	Mull-like moder
 2819	Mull
 2820	Mull-like moder
 2820	Mull
 2821	Moist moder
 2821	Transition bog peat
-2822	Mull
-2822	Moder
 2822	Mull-like moder
+2822	Moder
+2822	Mull
 2822	Mull
 2823	Raw humus
 2823	Raw humus
-2824	Moist mull
 2824	Low-moor peat
+2824	Moist mull
 2824	Anmoor
 2824	Low-moor peat
 2825	Moist moder
-2826	Raw humus
 2826	Raw humus-like moder
+2826	Raw humus
 2827	Mull
 2827	Mull
-2828	Raw humus
 2828	Raw humus-like moder
-2829	Raw humus
+2828	Raw humus
 2829	Raw humus-like moder
+2829	Raw humus
 2830	Moist mull
 2830	Moist moder
 2831	Moist mull
+2832	Moist mull
+2832	Moist moder
+2833	Mull
+2833	Tangel
+2834	 -
+2835	Moder
+2835	Raw humus-like moder
+2836	Moder
+2836	Mull-like moder
+2837	Moder
+2838	Mull
+2839	Raw humus-like moder
+2839	Moder
+2840	Anmoor
+2840	Mull
+2840	Moist mull
+2841	Mull
+2842	Mull
+2843	Moder
+2843	Mull-like moder
+2844	Mull
+2845	Mull
+2846	Moist moder
+2847	Moist mull
+2847	Moist moder
+2848	Moist raw humus
+2848	Mull
+2849	Moder
+2849	Raw humus-like moder
+2850	Mull
 3001	Mull
 3002	Moder
 3002	Mull-like moder
 3003	Mull
 3004	Mull
-3005	Moder
 3005	Mull-like moder
+3005	Moder
 3006	Mull
 3007	Mull
 3008	Mull
@@ -1175,30 +1537,48 @@ Comm_ID	Humus_form
 3012	Mull
 3013	Mull
 3014	Tangel
+3015	Mull
+3016	Mull
+3017	Mull
+3018	Mull
+3018	Tangel
+3019	Mull-like moder
+3019	Moder
+3020	Moder
+3020	Mull-like moder
+3021	 -
+3022	Moist moder
+3023	Mull-like moder
+3023	Moder
+3024	Mull-like moder
 3024	Mull
-3081	Mull
+3024	Moder
 3081	Mull-like moder
-3082	Mull
+3081	Mull
 3082	Moder
+3082	Mull
 3082	Mull-like moder
 3083	Mull-like moder
-3083	Moder
 3083	Mull
+3083	Moder
 3084	Mull
-3084	Moder
 3084	Mull-like moder
+3084	Moder
+3085	Mull-like moder
+3085	Mull
+3085	Moder
 3110	Mull
 3110	Moder
 3110	Mull-like moder
 3111	Mull
-3114	Mull-like moder
 3114	Mull
+3114	Mull-like moder
 3115	Mull
 3115	Mull-like moder
 3120	Mull-like moder
 3121	Moist moder
-3130	Mull-like moder
 3130	Mull
+3130	Mull-like moder
 3140	Moder
 3140	Moder
 3140	Moder
@@ -1206,25 +1586,36 @@ Comm_ID	Humus_form
 3141	Moder
 3141	Moder
 3142	Moder
+3143	Raw humus
+3143	Raw humus-like moder
 3150	Mull
 3150	Mull-like moder
-3171	Moder
+3170	Raw humus
 3171	Moder
 3171	Raw humus-like moder
+3171	Moder
 3172	Moder
 3172	Moder
 3172	Raw humus-like moder
 3173	Mull
-3174	Mull-like moder
 3174	Mull
-3200	Mull-like moder
+3174	Mull-like moder
+3175	Moder
+3175	Raw humus-like moder
+3176	Raw humus-like moder
+3176	Moder
+3177	Moist moder
+3177	Raw humus-like moder
 3200	Mull
+3200	Mull-like moder
 3201	Transition bog peat
-3261	Anmoor
 3261	Transition bog peat
 3261	Moist mull
-3262	Anmoor
+3261	Anmoor
 3262	Moist mull
+3262	Anmoor
+3263	Moist mull
+3264	Moist mull
 3310	Moder
 3311	Mull
 3370	Moder
@@ -1233,16 +1624,16 @@ Comm_ID	Humus_form
 3371	Moder
 3391	Transition bog peat
 3391	Moist raw humus
-3392	Transition bog peat
 3392	Moist raw humus
-3440	Mull-like moder
+3392	Transition bog peat
 3440	Mull
+3440	Mull-like moder
 3480	Moder
-3480	Moist moder
 3480	Mull-like moder
+3480	Moist moder
+3481	Mull-like moder
 3481	Moist moder
 3481	Moder
-3481	Mull-like moder
 3501	Moder
 3501	Raw humus-like moder
 3501	Moder
@@ -1250,31 +1641,40 @@ Comm_ID	Humus_form
 3502	Moder
 3502	Moder
 3503	Moder
+3504	Raw humus-like moder
+3504	Raw humus
+3505	Raw humus
+3505	Raw humus-like moder
+3506	Mull
 3540	Mull
 3540	Mull-like moder
-3541	Mull-like moder
 3541	Mull
-3542	Mull
+3541	Mull-like moder
 3542	Mull-like moder
-3543	Mull
-3543	Mull
+3542	Mull
 3543	Mull-like moder
+3543	Mull
+3543	Mull
+3544	Mull
+3544	Mull
 3544	Mull-like moder
-3544	Mull
-3544	Mull
 3601	Anmoor
 3601	Moist mull
 3602	Moist mull
 3602	Anmoor
 3603	Transition bog peat
 3603	Moist mull
+3604	Moist mull
+3606	Moist mull
+3606	Moist moder
+3606	Low-moor peat
 3607	Moder
 3607	Moder
 3608	Moist mull
 3608	Transition bog peat
 3609	Moist mull
-3610	Mull-like moder
 3610	Mull
+3610	Mull-like moder
 3611	Mull
 3611	Mull-like moder
 3612	Moder
@@ -1282,19 +1682,22 @@ Comm_ID	Humus_form
 3612	Moder
 3612	Raw humus-like moder
 3613	Moder
-3613	Moder
 3613	Tangel
-3911	Moist moder
-3911	Mull-like moder
+3613	Moder
 3911	Mull
+3911	Mull-like moder
+3911	Moist moder
 3912	Mull-like moder
 3912	Mull
-4000	Mull-like moder
+3913	Mull
+3913	Moist mull
+3913	Moist moder
 4000	Mull
-4021	Moder
-4021	Moder
+4000	Mull-like moder
 4021	Moder
 4021	Raw humus-like moder
+4021	Moder
+4021	Moder
 4040	Mull-like moder
 4040	Mull
 4040	Mull
@@ -1305,51 +1708,140 @@ Comm_ID	Humus_form
 4043	Moder
 4044	Raw humus-like moder
 4044	Raw humus-like moder
-4151	Raw humus-like moder
+4045	Mull
+4046	Mull
+4047	Mull
+4047	Mull-like moder
+4048	Moist moder
+4048	Moist mull
+4150	Mull-like moder
+4150	Moder
 4151	Moder
+4151	Raw humus-like moder
 4201	Mull
 4201	Mull-like moder
 4202	Mull
 4202	Mull-like moder
-4203	Mull-like moder
 4203	Mull
+4203	Mull-like moder
 4214	Tangel
 4215	Tangel
-4216	Mull
 4216	Mull-like moder
+4216	Mull
 4217	Mull
 4217	Mull-like moder
 4218	Moder
 4218	Moder
+4219	Mull
+4220	Mull
+4221	Raw humus
+4221	Moder
+4222	Mull
+4222	Mull-like moder
+4223	Moist raw humus
+4224	Moist raw humus
+4225	Mull-like moder
+4225	Mull
+4226	Raw humus-like moder
+4227	 -
+4228	 -
+4229	Mull
 4290	Mull-like moder
 4290	Mull
 4501	Moder
 4501	Moder
 4502	Moder
 4502	Moder
+4725	Mull
+4725	Mull-like moder
+4726	Moist mull
+4727	Moist mull
+4728	Moist moder
+4728	Moist mull
+4729	Transition bog peat
+4729	Moist moder
 4730	Raw humus-like moder
 4730	Raw humus-like moder
 4730	Raw humus-like moder
 4730	Moist raw humus
-4731	Raw humus-like moder
-4731	Raw humus-like moder
 4731	Moist raw humus
+4731	Raw humus-like moder
+4731	Raw humus-like moder
 4732	Raw humus-like moder
 4732	Raw humus-like moder
 4732	Moist raw humus
 4733	Low-moor peat
-4734	Mull
 4734	Moder
-4750	Transition bog peat
+4734	Mull
+4735	Transition bog peat
+4735	Low-moor peat
+4736	Low-moor peat
+4736	Tangel
+4737	Moist mull
+4738	Raw humus-like moder
+4738	Tangel
+4738	Raw humus
+4739	Tangel
+4740	Raw humus
+4740	Raw humus-like moder
+4741	Moder
+4741	Mull-like moder
+4742	Moder
+4742	Mull-like moder
+4743	Mull-like moder
+4743	Moder
+4744	Moder
+4744	Mull-like moder
+4745	Mull
+4746	Mull
+4746	Moder
+4746	Mull-like moder
+4747	Mull
+4748	Mull-like moder
+4748	Moder
+4749	Mull-like moder
+4749	Moder
 4750	Moist mull
+4750	Transition bog peat
+4751	Moder
+4751	Mull-like moder
 4751	Moist raw humus
+4752	Mull-like moder
+4752	Moder
+4753	Mull
+4754	Mull
+4755	Mull
+4756	Moder
+4756	Mull-like moder
+4757	Mull
+4758	Mull
+4759	Mull
+4760	Mull
+4761	Mull
+4762	Mull-like moder
+4762	Mull
+4763	Mull
+4764	Mull
+4765	Mull
+4766	Raw humus
+4766	Raw humus-like moder
+4767	Raw humus-like moder
+4767	Raw humus
+4768	Raw humus-like moder
+4768	Raw humus
+4769	Raw humus-like moder
+4770	Raw humus-like moder
+4770	Raw humus
 4771	Raw humus-like moder
 4772	Raw humus-like moder
 4773	Raw humus-like moder
 4773	Raw humus-like moder
-4774	Raw humus-like moder
 4774	Moist raw humus
+4774	Raw humus-like moder
 4775	Raw humus-like moder
+4776	Raw humus
+4777	Moder
+4777	Tangel
 4778	Raised bog peat
 4778	Moist raw humus
 4779	Raw humus-like moder
@@ -1358,26 +1850,46 @@ Comm_ID	Humus_form
 4779	Raw humus-like moder
 4780	Raw humus
 4780	Raw humus
+4781	Moder
 4781	Raw humus-like moder
 4781	Moder
-4781	Moder
-4800	Mull
+4782	Raw humus
+4782	Raw humus-like moder
+4783	Raw humus
+4783	Tangel
+4784	Mull
+4799	Raw humus-like moder
+4799	Mull
+4799	Moder
 4800	Mull-like moder
+4800	Mull
 4801	Mull-like moder
 4801	Moder
+4803	Moder
+4803	Moder
 4803	Raw humus-like moder
-4803	Moder
-4803	Moder
-4880	Mull-like moder
 4880	Mull
+4880	Mull-like moder
+4911	Moist raw humus
+4912	Mull
+4913	Moist raw humus
+4914	Moist mull
+4915	Mull
+4916	Moder
+4916	Raw humus-like moder
+4917	Moist moder
+4917	Moist mull
+4918	Moist moder
+4919	Transition bog peat
+4919	Moist moder
 4920	Moder
-4920	Mull
 4920	Mull-like moder
+4920	Mull
 4921	Mull
 4921	Low-moor peat
 4921	Moist mull
-4922	Mull
 4922	Moist mull
+4922	Mull
 4922	Low-moor peat
 4923	Low-moor peat
 4923	Low-moor peat
@@ -1385,24 +1897,25 @@ Comm_ID	Humus_form
 4924	Low-moor peat
 4925	Low-moor peat
 4925	Raised bog peat
-4926	Mull
 4926	Moist mull
+4926	Mull
 4927	Mull
 4928	Mull
 4929	Mull
 4930	Mull-like moder
 4933	Mull
-4934	Moder
 4934	Mull-like moder
+4934	Moder
 4935	Mull
+4936	 -
 4937	Mull
 4938	Mull
 4939	Mull
-4940	Moder
 4940	Mull-like moder
+4940	Moder
 4941	Mull
-4942	Mull
 4942	Mull-like moder
+4942	Mull
 4943	Mull
 4943	Mull
 4944	Mull
@@ -1414,13 +1927,13 @@ Comm_ID	Humus_form
 4949	Mull
 4950	Mull-like moder
 4950	Mull
-4951	Mull
 4951	Mull-like moder
-4952	Mull
+4951	Mull
 4952	Mull-like moder
+4952	Mull
 4953	Mull
-4954	Mull
 4954	Mull-like moder
+4954	Mull
 4954	Mull
 4955	Mull-like moder
 4956	Mull
@@ -1430,20 +1943,20 @@ Comm_ID	Humus_form
 4957	Mull
 4958	Raw humus-like moder
 4958	Moder
-4959	Raw humus-like moder
 4959	Moder
-4960	Raw humus-like moder
+4959	Raw humus-like moder
 4960	Moder
+4960	Raw humus-like moder
+4961	Raw humus-like moder
 4961	Moder
 4961	Mull-like moder
-4961	Raw humus-like moder
 4962	Moist moder
-4963	Moder
 4963	Raw humus-like moder
-4964	Raw humus-like moder
+4963	Moder
 4964	Raw humus
-4965	Raw humus
+4964	Raw humus-like moder
 4965	Moder
+4965	Raw humus
 4966	Raw humus
 4967	Moder
 4968	Raw humus
@@ -1457,66 +1970,73 @@ Comm_ID	Humus_form
 4973	Mull
 4974	Moist mull
 4975	Mull
-4976	
 4976	Mull-like moder
+4976	 -
+4977	Moist mull
 4977	Mull-like moder
 4977	Mull
-4977	Moist mull
+4978	Moist mull
 4978	Mull
 4978	Mull-like moder
-4978	Moist mull
 4979	Mull
 4979	Moist mull
-4980	Mull
 4980	Moist mull
-4981	Mull
+4980	Mull
 4981	Moist mull
-4982	Mull
+4981	Mull
 4982	Moist mull
-4983	Mull
+4982	Mull
 4983	Moist mull
-4984	Mull
+4983	Mull
 4984	Moist mull
+4984	Mull
 4985	Mull
-4986	Mull
 4986	Moist mull
-4987	Mull
+4986	Mull
 4987	Moist mull
+4987	Mull
 4988	Mull
 4989	Mull
 4990	Mull
+4991	Mull
+4992	Mull
+4993	Raw humus-like moder
+4994	Moist mull
+4995	Mull
+4996	Mull
+4997	Mull
 5000	Mull
-5001	Raw humus-like moder
 5001	Moist raw humus
+5001	Raw humus-like moder
 5002	Mull
 5004	Mull
-5005	Mull
 5005	Mull-like moder
+5005	Mull
 5006	Moder
 5007	Raised bog peat
 5008	Mull
-5008	Mull-like moder
 5008	Moder
+5008	Mull-like moder
 5009	Mull-like moder
 5010	Mull-like moder
 5010	Moder
-5011	Mull
-5011	Mull-like moder
 5011	Moder
-5012	Transition bog peat
+5011	Mull-like moder
+5011	Mull
 5012	Moist raw humus
 5012	Anmoor
+5012	Transition bog peat
 5013	Raw humus-like moder
 5013	Moist raw humus
 5013	Transition bog peat
-5014	Mull-like moder
 5014	Moder
+5014	Mull-like moder
 5015	Mull-like moder
-5016	Mull
 5016	Mull-like moder
+5016	Mull
 5017	Mull
-5018	Mull-like moder
 5018	Moder
+5018	Mull-like moder
 5019	Mull
 5020	Mull
 5021	Moder
@@ -1528,38 +2048,38 @@ Comm_ID	Humus_form
 5025	Raised bog peat
 5026	Mull
 5027	Moder
-5027	Transition bog peat
-5027	Moist moder
 5027	Moder
-5028	Moist raw humus
+5027	Moist moder
+5027	Transition bog peat
 5028	Raised bog peat
+5028	Moist raw humus
 5029	Moist raw humus
 5029	Raised bog peat
 5030	Mull-like moder
 5030	Moist moder
 5031	Mull-like moder
 5031	Moder
-5032	Moist moder
 5032	Moder
+5032	Moist moder
 5032	Transition bog peat
-5033	Mull-like moder
 5033	Moder
 5033	Moist moder
-5034	Mull
+5033	Mull-like moder
 5034	Moder
+5034	Mull
+5035	Raw humus
 5035	Raw humus-like moder
 5035	Moder
-5035	Raw humus
+5036	Raw humus-like moder
 5036	Raw humus
 5036	Moder
 5036	Moder
-5036	Raw humus-like moder
-5037	Raw humus-like moder
 5037	Raw humus-like moder
 5037	Raw humus
+5037	Raw humus-like moder
+5038	Moder
 5038	Mull
 5038	Mull-like moder
-5038	Moder
 5039	Moder
 5039	Moder
 5040	Moder
@@ -1576,8 +2096,8 @@ Comm_ID	Humus_form
 5047	Mull-like moder
 5048	Raw humus-like moder
 5048	Raw humus-like moder
-5049	Moder
 5049	Raw humus-like moder
+5049	Moder
 5050	Moder
 5050	Raw humus-like moder
 5051	Mull-like moder
@@ -1585,9 +2105,9 @@ Comm_ID	Humus_form
 5052	Mull-like moder
 5052	Moder
 5053	Mull-like moder
+5054	Moder
+5054	Moder
 5054	Mull-like moder
-5054	Moder
-5054	Moder
 5055	Mull
 5056	Mull
 5057	Moder
@@ -1597,19 +2117,19 @@ Comm_ID	Humus_form
 5059	Mull-like moder
 5060	Moist raw humus
 5060	Raised bog peat
+5061	Transition bog peat
 5061	Moist moder
 5061	Moist mull
-5061	Transition bog peat
 5062	Tangel
 5063	Raw humus
 5064	Raw humus
 5065	Moist moder
-5065	Transition bog peat
 5065	Moist raw humus
 5065	Moder
+5065	Transition bog peat
 5066	Tangel
-5068	Moder
 5068	Raw humus-like moder
+5068	Moder
 5068	Moder
 5069	Mull-like moder
 5069	Mull
@@ -1619,13 +2139,48 @@ Comm_ID	Humus_form
 5072	Mull
 5073	Mull
 5074	Raw humus-like moder
+5075	Mull
+5076	Mull
+5077	Mull
+5078	Mull
+5079	Mull
+5080	Mull
+5081	Mull
+5082	Mull
+5083	Mull
+5084	Mull
+5084	Mull-like moder
+5085	Mull
+5086	Mull
+5087	Mull-like moder
+5087	Moder
+5088	Mull-like moder
+5088	Mull
+5089	Moder
+5089	Moist moder
+5089	Mull-like moder
+5090	Raw humus-like moder
+5090	Moder
+5091	Raw humus-like moder
+5092	Moder
+5092	Mull-like moder
+5093	Moder
+5093	Mull-like moder
+5094	Moder
+5094	Mull-like moder
+5095	Mull
+5096	Mull
+5097	Mull
+5098	Moist mull
+5098	Anmoor
+5099	Anmoor
 5100	Mull
 5100	Mull-like moder
 5101	Moder
-5102	Tangel
 5102	Moder
-5103	Mull-like moder
+5102	Tangel
 5103	Moder
+5103	Mull-like moder
 5105	Moder
 5106	Tangel
 5106	Mull
@@ -1641,10 +2196,10 @@ Comm_ID	Humus_form
 5115	Tangel
 5116	Tangel
 5117	Tangel
-5118	Mull
 5118	Mull-like moder
-5119	Mull-like moder
+5118	Mull
 5119	Mull
+5119	Mull-like moder
 5119	Moder
 5120	Tangel
 5121	Tangel
@@ -1654,39 +2209,82 @@ Comm_ID	Humus_form
 5124	Tangel
 5125	Tangel
 5126	Tangel
-5127	Mull
 5127	Mull-like moder
 5127	Moder
+5127	Mull
 5128	Mull-like moder
 5129	Mull-like moder
 5129	Moder
 5130	Tangel
-5131	Mull-like moder
 5131	Moder
+5131	Mull-like moder
 5132	Moder
 5133	Moder
 5134	Tangel
 5135	Tangel
+5136	Moder
+5136	Raw humus-like moder
+5138	Anmoor
+5139	Moist mull
+5140	Mull-like moder
+5140	Mull
+5141	Moder
+5141	Raw humus
+5142	Mull
+5143	Mull
+5144	Mull-like moder
+5145	Mull
+5146	Moder
+5147	Moder
+5147	Mull-like moder
+5148	Moder
+5148	Raw humus-like moder
+5149	Mull
+5160	 -
+5161	 -
+5162	Moder
+5163	Mull
+5164	Mull
+5165	Mull
+5166	Mull
+5167	Mull
+5168	Moder
+5168	Raw humus-like moder
+5168	Mull-like moder
+5169	Raw humus-like moder
+5169	Moder
+5170	Moder
+5171	Mull
 5202	Moist moder
 5203	Moist mull
 5204	Moder
 5204	Moder
-5205	Mull-like moder
 5205	Mull
+5205	Mull-like moder
 5205	Moder
-5206	Moist moder
-5206	Moder
-5206	Mull-like moder
 5206	Mull
-5207	Mull-like moder
-5207	Moder
+5206	Mull-like moder
+5206	Moder
+5206	Moist moder
 5207	Transition bog peat
+5207	Moder
+5207	Mull-like moder
 5208	Mull-like moder
+5208	Mull
 5208	Moist moder
 5208	Moder
-5208	Mull
 5208	Low-moor peat
 5209	Moist mull
+5210	Moist raw humus
+5400	Mull
+5402	Anmoor
+5402	Moist mull
+5403	Moist mull
+5403	Anmoor
+5404	Raw humus
+5404	Raw humus-like moder
+5405	Raw humus-like moder
+5405	Raw humus
 5451	Moder
 5451	Mull-like moder
 5452	Moder
@@ -1694,77 +2292,143 @@ Comm_ID	Humus_form
 5520	Mull
 5520	Moder
 5520	Mull-like moder
-5601	Raw humus
 5601	Raw humus-like moder
 5601	Moder
+5601	Raw humus
 5601	Raw humus-like moder
-5602	Moder
 5602	Raw humus-like moder
-5740	Moder
+5602	Moder
 5740	Transition bog peat
+5740	Moder
 5741	Moist moder
-5820	Moder
+5742	Moist moder
+5743	Moist moder
+5744	Moist moder
+5745	Moist moder
+5746	Moist moder
+5747	Moist moder
+5748	Moist moder
+5749	Low-moor peat
+5750	Moist moder
+5751	Transition bog peat
+5752	Anmoor
+5752	Transition bog peat
+5753	Mull
+5753	Moist mull
+5754	Mull
+5755	Mull
+5756	Mull
+5757	Mull
+5757	Mull-like moder
+5758	Mull
+5759	Mull
+5760	Mull
+5761	Mull
+5762	Mull
+5763	Mull-like moder
+5763	Mull
+5764	Mull
+5765	Moder
+5765	Raw humus-like moder
+5766	Raw humus-like moder
+5766	Moder
+5767	Mull
+5768	Mull
+5769	Raw humus
+5769	Raw humus-like moder
+5770	Raw humus-like moder
+5770	Raw humus
+5771	Mull
+5772	Mull
+5773	Mull
+5774	Mull
+5774	Mull-like moder
+5775	Mull
+5776	Mull
+5777	Raw humus-like moder
+5777	Moder
+5778	Mull
+5779	Mull
+5780	Mull
+5781	Raw humus-like moder
+5781	Moder
+5782	Mull
+5783	Raw humus-like moder
+5783	Moder
+5784	Raw humus-like moder
+5784	Raw humus
+5785	Raw humus
+5785	Raw humus-like moder
 5820	Transition bog peat
-5820	Mull-like moder
 5820	Moist moder
+5820	Moder
+5820	Mull-like moder
 5821	Moder
 5821	Mull
 5822	Mull
 5823	Mull
-5824	Mull
 5824	Moder
+5824	Mull
 5825	Moist mull
 5826	Moist mull
-5827	0
-5828	0
-5829	0
+5827	 -
+5828	 -
+5829	 -
+5830	Moist mull
+5831	Moder
+5831	Moist moder
+5832	Moist moder
+5832	Moder
+5833	 -
+5834	 -
+5835	 -
 6001	Moder
 6001	Moder
-6002	Moder
 6002	Mull-like moder
-6003	Raw humus-like moder
+6002	Moder
 6003	Moder
+6003	Raw humus-like moder
 6004	Moder
 6004	Moder
 6004	Moder
-6006	Raw humus-like moder
 6006	Moder
-6007	Moder
+6006	Raw humus-like moder
 6007	Moder
 6007	Raw humus-like moder
+6007	Moder
 6008	Raw humus-like moder
-6009	Raw humus-like moder
-6009	Raw humus-like moder
 6009	Raw humus
 6009	Raw humus
-6010	Raw humus
+6009	Raw humus-like moder
+6009	Raw humus-like moder
 6010	Raw humus-like moder
+6010	Raw humus
 6011	Raw humus
 6011	Raw humus-like moder
-6015	Raw humus-like moder
-6015	Raw humus-like moder
 6015	Moist raw humus
+6015	Raw humus-like moder
+6015	Raw humus-like moder
 6023	Moder
 6023	Mull-like moder
+6027	Moder
 6027	Mull-like moder
+6027	Moder
 6027	Mull
-6027	Moder
-6027	Moder
 6028	Mull-like moder
 6030	Mull-like moder
-6030	Raw humus-like moder
 6030	Moist moder
+6030	Raw humus-like moder
 6032	Raw humus-like moder
 6032	Raw humus-like moder
 6032	Raw humus-like moder
 6033	Moist mull
-6034	Mull
-6034	Mull
 6034	Mull-like moder
+6034	Mull
+6034	Mull
 6042	Raw humus
 6042	Raw humus
-6043	Raw humus-like moder
 6043	Moder
+6043	Raw humus-like moder
 6044	Raw humus-like moder
 6044	Raw humus-like moder
 6045	Transition bog peat
@@ -1776,26 +2440,18 @@ Comm_ID	Humus_form
 6101	Moist raw humus
 6107	Raw humus-like moder
 6107	Raw humus-like moder
-6112	Raw humus-like moder
+6112	Raw humus
 6112	Raw humus-like moder
 6112	Raw humus
-6112	Raw humus
-6113	Raw humus-like moder
+6112	Raw humus-like moder
 6113	Raw humus
 6113	Raw humus-like moder
 6113	Raw humus
+6113	Raw humus-like moder
 6114	Raw humus-like moder
 6114	Raw humus
 6114	Raw humus-like moder
 6114	Raw humus
-6115	Moder
-6115	Moder
-6115	Mull-like moder
-6116	Raw humus-like moder
-6116	Raw humus-like moder
-6116	Raw humus-like moder
-6117	Raw humus
-6117	Raw humus
 6118	Raw humus
 6118	Raw humus
 6119	Raw humus-like moder
@@ -1803,21 +2459,21 @@ Comm_ID	Humus_form
 6121	Moder
 6122	Moist moder
 6123	Mull
-6201	Mull
-6201	Moder
 6201	Moder
 6201	Mull
+6201	Moder
 6201	Mull-like moder
+6201	Mull
+6202	Raw humus-like moder
 6202	Raw humus
 6202	Moder
-6202	Raw humus-like moder
 6203	Mull
 6204	Moder
 6301	Moder
 6301	Moder
 6302	Moder
-6302	Mull-like moder
 6302	Moder
+6302	Mull-like moder
 6303	Moder
 6303	Mull-like moder
 6303	Moder
@@ -1837,8 +2493,8 @@ Comm_ID	Humus_form
 6505	Moder
 6601	Raw humus-like moder
 6602	Moder
-6603	Mull
 6603	Moder
+6603	Mull
 6701	Mull
 6702	Moder
 6703	Moder
@@ -1846,36 +2502,36 @@ Comm_ID	Humus_form
 6705	Moder
 6706	Raw humus-like moder
 7001	Moder
-7002	Mull-like moder
 7002	Moder
+7002	Mull-like moder
 7003	Mull-like moder
 7003	Moder
 7004	Mull
 7005	Mull
 7006	Mull
-7007	Moder
 7007	Mull
+7007	Moder
 7007	Mull-like moder
-7008	Moder
 7008	Mull
 7008	Mull-like moder
+7008	Moder
 7009	Moder
-7010	Mull-like moder
 7010	Moder
+7010	Mull-like moder
 7011	Moder
 7011	Mull-like moder
 7011	Mull
 7012	Mull
+7013	Moder
 7013	Mull-like moder
 7013	Mull
-7013	Moder
 7014	Mull-like moder
 7014	Moder
 7015	Raw humus-like moder
-7015	Mull-like moder
 7015	Moder
-7016	Mull
+7015	Mull-like moder
 7016	Mull-like moder
+7016	Mull
 7017	Mull
 7017	Moder
 7017	Mull-like moder
@@ -1886,26 +2542,26 @@ Comm_ID	Humus_form
 7022	Mull
 7023	Mull
 7023	Mull-like moder
-7024	Mull-like moder
 7024	Moder
 7024	Mull
+7024	Mull-like moder
 7025	Moder
-7026	Mull
 7026	Mull-like moder
-7027	Mull
+7026	Mull
 7027	Mull-like moder
+7027	Mull
 7028	Moder
 7029	Moder
 7030	Mull-like moder
 7030	Moder
 7031	Mull-like moder
-7031	Mull
 7031	Moder
-7032	Mull
+7031	Mull
 7032	Mull-like moder
+7032	Mull
 7033	Moder
-7034	Mull
 7034	Mull-like moder
+7034	Mull
 7035	Mull
 7036	Mull
 7037	Mull
@@ -1913,11 +2569,14 @@ Comm_ID	Humus_form
 7039	Mull
 7040	Mull
 7041	Mull-like moder
-7041	Moder
 7041	Mull
-7042	Mull-like moder
+7041	Moder
 7042	Moder
 7042	Mull
-7043	Mull
-7043	Mull-like moder
+7042	Mull-like moder
 7043	Moder
+7043	Mull-like moder
+7043	Mull
+7044	 -
+7045	Mull
+7045	Moist raw humus
