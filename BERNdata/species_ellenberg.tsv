@@ -494,6 +494,7 @@ Plant_BERN5_ID	Plant_Name	Light	Temperature	Continentality	Moisture	Reaktion	Nit
 645	Thymus praecox	8	6	5	3	8	1	0		
 646	Clinopodium acinos	9	6	3	2	5	1	0		
 647	Alyssum montanum	9	6	4	2	7	1	0		
+648	Asperula cynanchica cynanchica	7	-1	5	3	8	3	0		
 648	Asperula cynanchica	7	-1	5	3	8	3	0		
 649	Festuca cinerea	9	8	4	2	6	1	0		
 650	Teucrium montanum	8	7	4	1	9	1	0		
@@ -3545,6 +3546,114 @@ Plant_BERN5_ID	Plant_Name	Light	Temperature	Continentality	Moisture	Reaktion	Nit
 4870	Eryngium triquetrum	9	8		4	7	4	0		
 4871	Hedysarum coronarium	8	9			8	5	1		
 4872	Lolium rigidum	8.1			3.6	7.1	0.5			
+4873	Saxifraga oppositifolia rudolphiana	8	2	3	5	8	2	0		
+4874	Euphorbia peplus	6.9	6.3		3.9	6.3	7.1	0.1		
+4875	Lamium album	6.6	5.6		5	5.8	8.3	0		
+4876	Sempervivum arachnoideum	9	3.1	4	2.3	2.7	1	0		
+4877	Sempervivum arachnoideum tomentosum	9	3.1	4	2.3	2.7	1	0		
+4878	Sedum annuum	8.9	3	5	3.5	4	1.3	0		
+4879	Carex bohemica	7.9		6	8.1	6.4	4.6	0.2		
+4880	Radiola linoides	8		4		3.8	2	0.3		
+4881	Veronica scutellata	8.2	4.8	7	9.1	3.9	2.9	0.2		
+4882	Elatine hexandra	7.6	6	3	9	4.2	3.8	0		
+4883	Luzula pedemontana	4.5	4		5.5	4	4	0		
+4884	Phyteuma michelii 	8	2.7		5	2.5	2.5	0		
+4885	Polygala nicaeensis	7								
+4886	Moenchia mantica	8	8		5	6	1.5	0		
+4887	Thymus longicaulis	7	7.5		4	7	3	0		
+4888	Xanthium orientale italicum	8	6	4	8	7	7	0		
+4889	Saponaria officinalis				5.1	3	2.2	0		
+4890	Eruca vesicaria	7.9			4.2	7	6	0.2		
+4891	Puccinellia festuciformis	8.9	10		7.4	7.7	6.7	6.7		
+4892	Rapistrum rugosum	7.8			3.6	7.7	5.9	0.2		
+4893	Avena fatua	7.3		8	4.5	6.9	6	0		
+4894	Clematis viticella	7.5	8		4	6.5	6	0		
+4895	Knautia purpurea	7.5	5.7		4	8	1.5	0		
+4896	Laburnum anagyroides	64	6.8	4	4.2	7.6		0		
+4898	Dianthus barbatus	7.6	4.6	6	5.1	5		0		
+4899	Pulmonaria australis	9	35		4	4	3	0		
+4900	Lamium galeobdolon flavidum	3	5	4	5	7	5	0		
+4901	Asarum europaeum caucasicum	3	6	5	5	7	6	0		
+4902	Galium laevigatum	5	5		6	6	5	0		
+4903	Hemerocallis lilioasphodelus	6.3	6.5	6	7	6	5.7	0		
+4904	Genista sericea	8	8		3	7	3	0		
+4905	Melampyrum velebiticum	6	6.5		6	7	5	0		
+4906	Polypodium interjectum 									
+4907	Geranium nodosum	4	5.7		5.5	6.5	6	0		
+4908	Adenostyles alpina australis	6	3	4	6	8	4	0		
+4909	Cardamine kitaibelii	3	5.5		5	7	7	0		
+4910	Pulmonaria vallarsae	4	4.5		6	6	6	0		
+4911	Dactylorhiza fuchsii									
+4912	Armeria filicaulis									
+4913	Arenaria aggregata									
+4914	Erodium foetidum cheilanthifolium	8.6	5.1		3.2	6.2	2	0		
+4915	Sideritis glacialis	8.9	3.9		1.8	6.4	1.1			
+4916	Jacobaea boissieri	9	2		3	8	1			
+4917	Jurinea humilis	8.5	4.5		3.5	7.5	1	0		
+4918	Agrostis nevadensis				4.6					
+4919	Astragalus sempervirens nevadensis	8.7	4.2		2.8	7.3	2.6	0		
+4920	Daphne oleoides	8.3	5.3		2.7	6.7	3	0		
+4921	Salix salviifolia	9	6		12	6	5	0.1		
+4922	Paeonia broteroi	9	7		1	8	1	0		
+4923	Paeonia coriacea									
+4924	Rhamnus lycioides oleoides	7.7	10.3		3	6.3	4	0.3		
+4925	Pseudorlaya pumila	9	10		3.3	7	4.7	3		
+4926	Silene ramosissima									
+4927	Zollikoferia resedaefolia									
+4928	Ptychotis saxifraga	7	7.5		2	3	2	0		
+4929	Linaria supina	9	6.7		1.5		1.5	0		
+4930	Silene inaperta	9	9		2	4	2	0		
+4931	Alopecurus myosuroides	7				6.9	6.5	0.1		
+4932	Euphorbia illirica	7.4		6	6.6	6.3	4.8	0		
+4933	Cirsium monspessulanum	7.5	8.7		6.7	6	3.5	0		
+4934	Erodium rupestre									
+4935	Allium senescens									
+4936	Teucrium luteum		8							
+4937	Helianthemum italicum	8.5			3	7.5	1.5	0		
+4938	Dictamnus hispanicus									
+4939	Vincetoxicum hirundinaria apodum	6.6	5.5		3.2	7	2.8	0		
+4940	Aristolochia pistolochia	8	8.5		5	8	5	0		
+4941	Arundo donax	8.3	9.3		6.7	6.7	7	0.7		
+4942	Punica granatum	8	8.3		4.5	7	4.5	0		
+4943	Mentha longifolia longifolia	7.3			8	7.8		0.1		
+4944	Petasites pyrenaicus	5.7			6.3	6.7	6	0		
+4945	Malva olbia	7.5	8.5		3	6	7.5	3		
+4946	Clinopodium menthifolium ascendens	5.3	6.6		5	6.4	4.6	0		
+4947	Carex sylvatica paui	2	5	3	5	6	5	0		
+4948	Carex sylvatica sylvatica	2	5	3	5	6	5	0		
+4949	Linum salsoloides									
+4950	Catananche caerulea									
+4951	Onobrychis supina	8	7.3		6	7.5	2.5	0		
+4952	Coronilla minima minima	8.7	6.8		2.3	7.7	1.7	0		
+4953	Fumana ericoides		9							
+4954	Hippocrepis glauca	9	9		2	8	1	0		
+4956	Koeleria splendens	9	8		3	7	1	0		
+4957	Argyrolobium zanonii	8.7	7		2.7	7.3	2.7	0		
+4958	Lavandula angustifolia pyrenaica	8.5	6		3.5	5.5	3.5	0		
+4959	Anthyllis montana 	9	6		3.5	9	2.5	0		
+4960	Helictochloa pratensis iberica	9	2	4	5	7	3	0		
+4961	Genista cinerea	8	8		3	3	3	0		
+4962	Astragalus hypoglottis hypoglottis	8.5	6		3	8.5	2.5	0		
+4963	Linum viscosum	7.5	5.5	4	3.5	7.8	2	0		
+4964	Lotus halophilus	8.5	11.5		1.5	8	5	2.5		
+4965	Astragalus monspessulanus monspessulanus	8.6	6.9		3.1	8	1.7	0		
+4966	Linum narbonense	8.7			4	7.3	1.7	0		
+4967	Helichrysum stoechas	8.7	9		2.8		1.5	0.5		
+4968	Thymus fontqueri 									
+4969	Teucrium aragonense									
+4970	Rhaponticum coniferum	9			3.3	7.3	1.7	0		
+4971	Medicago suffruticosa leiocarpa	8	9		3	8	3	0		
+4972	Pseudopodospermum hispanicum	7.6		8	3.6	7.8	2.8	0		
+4973	Helianthemum origanifolium molle									
+4974	Helictochloa bromoides	8	8		3.5	7.5	3	0		
+4975	Ononis minutissima	8.5	8.3		4.5	7.5	3	0		
+4976	Helianthemum cinereum	9	8		3	7	2	0		
+4977	Phlomis lychnitis 	9	8		3	8	5	0		
+4978	Staehelina dubia	8	8.3		2.5	6.5	4	0		
+4979	Thymus vulgaris aestivus	8	8.3		1.5	7.5	2.5	0		
+4980	Ononis natrix natrix	8.3	8.8		3.4	7.9		0.8		
+4981	Santolina benthamiana									
+4982	Satureja montana montana	8	6.8		3.5	7	2.5	0		
 5001	Angelica palustris	7	6	6	8	-1	-1	0		
 5002	Helosciadium repens	9	6	3	7	7	7	1		
 5003	Botrychium simplex	6	4	4	5	1	2	0		

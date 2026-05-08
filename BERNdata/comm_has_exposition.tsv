@@ -87,6 +87,7 @@ Comm_ID	Inclination/Exposition
 89	plain
 90	plain
 91	plain
+92	plain
 93	plain
 94	plain
 95	plain
@@ -95,6 +96,7 @@ Comm_ID	Inclination/Exposition
 98	plain
 99	plain
 100	plain
+101	plain
 102	plain
 103	plain
 104	plain
@@ -102,6 +104,8 @@ Comm_ID	Inclination/Exposition
 106	Shadow-exposed slope
 107	plain
 108	plain
+109	plain
+109	Sun-exposed slope
 110	plain
 112	plain
 113	plain
@@ -179,9 +183,9 @@ Comm_ID	Inclination/Exposition
 182	plain
 182	Shadow-exposed slope
 183	plain
-184	plain
 184	Shadow-exposed slope
 184	Sun-exposed slope
+184	plain
 185	plain
 186	plain
 187	plain
@@ -212,13 +216,13 @@ Comm_ID	Inclination/Exposition
 219	plain
 219	Shadow-exposed slope
 219	Sun-exposed slope
-220	plain
 220	Shadow-exposed slope
 220	Sun-exposed slope
+220	plain
 221	Shadow-exposed slope
-222	plain
 222	Shadow-exposed slope
 222	Sun-exposed slope
+222	plain
 223	plain
 224	plain
 225	plain
@@ -226,62 +230,67 @@ Comm_ID	Inclination/Exposition
 227	plain
 228	plain
 2006	plain
+2007	plain
+2008	plain
+2008	Shadow-exposed slope
+2009	plain
+2009	Sun-exposed slope
 2010	plain
 2010	Shadow-exposed slope
 2011	plain
 2011	Sun-exposed slope
 2012	plain
-2013	plain
 2013	Shadow-exposed slope
+2013	plain
 2013	Sun-exposed slope
 2014	Shadow-exposed slope
 2015	plain
 2016	plain
-2016	Shadow-exposed slope
 2016	Sun-exposed slope
+2016	Shadow-exposed slope
 2017	Sun-exposed slope
 2018	Shadow-exposed slope
 2019	Shadow-exposed slope
+2020	Sun-exposed slope
 2020	plain
 2020	Shadow-exposed slope
-2020	Sun-exposed slope
 2021	plain
 2022	Sun-exposed slope
 2023	Shadow-exposed slope
-2024	plain
 2024	Sun-exposed slope
+2024	plain
 2025	Shadow-exposed slope
 2026	plain
-2026	Shadow-exposed slope
 2026	Sun-exposed slope
+2026	Shadow-exposed slope
+2027	Sun-exposed slope
 2027	plain
 2027	Shadow-exposed slope
-2027	Sun-exposed slope
-2028	plain
 2028	Shadow-exposed slope
 2028	Sun-exposed slope
+2028	plain
 2029	Sun-exposed slope
 2030	Sun-exposed slope
 2031	plain
 2032	plain
 2032	Shadow-exposed slope
-2033	plain
 2033	Shadow-exposed slope
 2033	Sun-exposed slope
-2034	plain
-2034	Shadow-exposed slope
+2033	plain
 2034	Sun-exposed slope
+2034	Shadow-exposed slope
+2034	plain
+2035	Sun-exposed slope
 2035	plain
 2035	Shadow-exposed slope
-2035	Sun-exposed slope
-2036	plain
 2036	Sun-exposed slope
+2036	plain
 2037	Sun-exposed slope
 2038	plain
 2038	Shadow-exposed slope
 2039	Sun-exposed slope
-2040	plain
 2040	Sun-exposed slope
+2040	plain
 2041	Sun-exposed slope
 2042	plain
 2042	Shadow-exposed slope
@@ -291,38 +300,38 @@ Comm_ID	Inclination/Exposition
 2045	plain
 2046	plain
 2047	plain
-2047	Shadow-exposed slope
 2047	Sun-exposed slope
-2048	plain
+2047	Shadow-exposed slope
 2048	Shadow-exposed slope
+2048	plain
 2048	Sun-exposed slope
 2049	plain
-2050	plain
 2050	Shadow-exposed slope
 2050	Sun-exposed slope
+2050	plain
 2051	plain
-2051	Shadow-exposed slope
 2051	Sun-exposed slope
+2051	Shadow-exposed slope
 2052	plain
+2053	Sun-exposed slope
 2053	plain
 2053	Shadow-exposed slope
-2053	Sun-exposed slope
 2054	plain
 2054	Shadow-exposed slope
 2054	Sun-exposed slope
-2055	plain
 2055	Shadow-exposed slope
+2055	plain
 2055	Sun-exposed slope
 2056	plain
-2057	plain
 2057	Shadow-exposed slope
+2057	plain
 2057	Sun-exposed slope
 2058	plain
 2058	Shadow-exposed slope
 2058	Sun-exposed slope
+2059	Sun-exposed slope
 2059	plain
 2059	Shadow-exposed slope
-2059	Sun-exposed slope
 2060	plain
 2060	Shadow-exposed slope
 2060	Sun-exposed slope
@@ -330,32 +339,32 @@ Comm_ID	Inclination/Exposition
 2062	plain
 2062	Shadow-exposed slope
 2063	Shadow-exposed slope
-2064	plain
 2064	Shadow-exposed slope
-2065	plain
+2064	plain
 2065	Shadow-exposed slope
+2065	plain
 2066	plain
 2067	plain
 2068	Sun-exposed slope
 2069	plain
-2069	Shadow-exposed slope
 2069	Sun-exposed slope
+2069	Shadow-exposed slope
 2070	Shadow-exposed slope
-2071	Shadow-exposed slope
 2071	Sun-exposed slope
+2071	Shadow-exposed slope
 2072	plain
-2073	plain
 2073	Shadow-exposed slope
-2074	plain
+2073	plain
 2074	Shadow-exposed slope
-2075	plain
+2074	plain
 2075	Shadow-exposed slope
+2075	plain
 2076	Shadow-exposed slope
 2077	Sun-exposed slope
 2078	plain
 2079	Shadow-exposed slope
-2081	plain
 2081	Sun-exposed slope
+2081	plain
 2083	Shadow-exposed slope
 2084	plain
 2084	Shadow-exposed slope
@@ -365,22 +374,22 @@ Comm_ID	Inclination/Exposition
 2088	plain
 2089	plain
 2089	Sun-exposed slope
-2090	plain
 2090	Shadow-exposed slope
+2090	plain
 2090	Sun-exposed slope
 2091	plain
 2092	plain
 2093	plain
 2094	Sun-exposed slope
-2095	plain
 2095	Sun-exposed slope
+2095	plain
 2096	plain
 2097	plain
 2098	plain
 2099	plain
-2100	plain
 2100	Shadow-exposed slope
 2100	Sun-exposed slope
+2100	plain
 2101	plain
 2102	Shadow-exposed slope
 2103	plain
@@ -398,19 +407,19 @@ Comm_ID	Inclination/Exposition
 2111	Sun-exposed slope
 2112	Shadow-exposed slope
 2113	plain
-2113	Shadow-exposed slope
 2113	Sun-exposed slope
+2113	Shadow-exposed slope
+2114	Sun-exposed slope
 2114	plain
 2114	Shadow-exposed slope
-2114	Sun-exposed slope
 2115	plain
 2115	Sun-exposed slope
 2116	plain
 2116	Shadow-exposed slope
 2117	plain
 2117	Sun-exposed slope
-2118	plain
 2118	Sun-exposed slope
+2118	plain
 2119	plain
 2120	plain
 2121	Shadow-exposed slope
@@ -430,12 +439,12 @@ Comm_ID	Inclination/Exposition
 2135	Shadow-exposed slope
 2136	Sun-exposed slope
 2137	plain
-2138	plain
-2138	plain
-2138	Shadow-exposed slope
 2138	Shadow-exposed slope
 2138	Sun-exposed slope
 2138	Sun-exposed slope
+2138	Shadow-exposed slope
+2138	plain
+2138	plain
 2140	Sun-exposed slope
 2150	Sun-exposed slope
 2151	plain
@@ -448,39 +457,52 @@ Comm_ID	Inclination/Exposition
 2156	Sun-exposed slope
 2160	plain
 2160	Shadow-exposed slope
-2170	plain
 2170	Shadow-exposed slope
+2170	plain
 2170	Sun-exposed slope
-2180	plain
 2180	Shadow-exposed slope
+2180	plain
 2180	Sun-exposed slope
 2190	plain
 2191	plain
 2192	plain
 2193	plain
-2201	plain
 2201	Shadow-exposed slope
+2201	plain
 2201	Sun-exposed slope
 2202	plain
 2203	plain
-2210	plain
 2210	Shadow-exposed slope
+2210	plain
 2210	Sun-exposed slope
-2211	plain
 2211	Shadow-exposed slope
+2211	plain
 2212	Sun-exposed slope
 2213	plain
 2213	Sun-exposed slope
-2214	plain
 2214	Shadow-exposed slope
+2214	plain
 2215	plain
-2216	plain
-2216	Shadow-exposed slope
 2216	Sun-exposed slope
+2216	Shadow-exposed slope
+2216	plain
 2217	Shadow-exposed slope
+2218	Sun-exposed slope
+2219	Sun-exposed slope
+2220	Sun-exposed slope
+2221	Sun-exposed slope
+2222	Sun-exposed slope
+2222	Shadow-exposed slope
+2223	Shadow-exposed slope
+2224	Sun-exposed slope
+2224	Shadow-exposed slope
+2225	Sun-exposed slope
+2225	Shadow-exposed slope
+2226	Shadow-exposed slope
+2226	plain
+2230	Sun-exposed slope
 2230	plain
 2230	Shadow-exposed slope
-2230	Sun-exposed slope
 2241	Shadow-exposed slope
 2242	Shadow-exposed slope
 2243	Shadow-exposed slope
@@ -490,36 +512,46 @@ Comm_ID	Inclination/Exposition
 2245	Sun-exposed slope
 2246	plain
 2250	plain
-2250	Shadow-exposed slope
 2250	Sun-exposed slope
-2260	plain
+2250	Shadow-exposed slope
 2260	Shadow-exposed slope
+2260	plain
 2261	plain
 2270	Sun-exposed slope
 2271	Sun-exposed slope
-2273	plain
 2273	Shadow-exposed slope
+2273	plain
 2274	Shadow-exposed slope
 2280	Shadow-exposed slope
 2289	plain
-2290	plain
 2290	Shadow-exposed slope
+2290	plain
 2290	Sun-exposed slope
 2291	plain
 2292	plain
-2293	plain
 2293	Sun-exposed slope
-2301	plain
+2293	plain
+2294	plain
+2294	Shadow-exposed slope
+2295	Shadow-exposed slope
+2296	plain
+2297	plain
+2298	plain
+2299	plain
+2299	Shadow-exposed slope
+2299	Sun-exposed slope
+2300	Sun-exposed slope
 2301	Shadow-exposed slope
-2302	plain
+2301	plain
 2302	Sun-exposed slope
-2303	plain
+2302	plain
 2303	Sun-exposed slope
+2303	plain
 2304	Sun-exposed slope
 2305	plain
 2306	plain
-2307	plain
 2307	Sun-exposed slope
+2307	plain
 2308	plain
 2309	Sun-exposed slope
 2310	plain
@@ -530,45 +562,45 @@ Comm_ID	Inclination/Exposition
 2314	Sun-exposed slope
 2315	Sun-exposed slope
 2316	Sun-exposed slope
-2317	Shadow-exposed slope
 2317	Sun-exposed slope
+2317	Shadow-exposed slope
 2318	Sun-exposed slope
 2319	Sun-exposed slope
 2320	plain
 2320	Shadow-exposed slope
 2321	Sun-exposed slope
-2322	plain
 2322	Sun-exposed slope
+2322	plain
 2323	Sun-exposed slope
-2330	plain
 2330	Shadow-exposed slope
+2330	plain
 2340	plain
-2340	Shadow-exposed slope
 2340	Sun-exposed slope
+2340	Shadow-exposed slope
 2350	Sun-exposed slope
 2360	Sun-exposed slope
 2370	Sun-exposed slope
 2380	Sun-exposed slope
-2381	plain
 2381	Shadow-exposed slope
+2381	plain
 2382	plain
 2382	Shadow-exposed slope
 2383	plain
 2384	plain
 2385	plain
 2386	Sun-exposed slope
-2387	plain
 2387	Sun-exposed slope
+2387	plain
 2388	plain
 2389	Sun-exposed slope
 2390	Sun-exposed slope
-2391	plain
 2391	Shadow-exposed slope
-2392	Shadow-exposed slope
+2391	plain
 2392	Sun-exposed slope
-2393	plain
-2393	Shadow-exposed slope
+2392	Shadow-exposed slope
 2393	Sun-exposed slope
+2393	Shadow-exposed slope
+2393	plain
 2394	Shadow-exposed slope
 2395	Shadow-exposed slope
 2396	plain
@@ -592,31 +624,31 @@ Comm_ID	Inclination/Exposition
 2407	Sun-exposed slope
 2408	Sun-exposed slope
 2409	plain
-2409	Shadow-exposed slope
 2409	Sun-exposed slope
-2410	plain
+2409	Shadow-exposed slope
 2410	Shadow-exposed slope
 2410	Sun-exposed slope
+2410	plain
 2412	Shadow-exposed slope
 2413	Sun-exposed slope
 2414	Sun-exposed slope
 2415	Sun-exposed slope
 2416	Sun-exposed slope
 2417	Shadow-exposed slope
-2418	plain
 2418	Sun-exposed slope
+2418	plain
 2419	Shadow-exposed slope
-2420	plain
 2420	Shadow-exposed slope
+2420	plain
 2420	Sun-exposed slope
-2421	plain
 2421	Shadow-exposed slope
 2421	Sun-exposed slope
-2422	plain
-2422	Shadow-exposed slope
+2421	plain
 2422	Sun-exposed slope
-2423	plain
+2422	Shadow-exposed slope
+2422	plain
 2423	Shadow-exposed slope
+2423	plain
 2423	Sun-exposed slope
 2424	plain
 2424	Shadow-exposed slope
@@ -624,39 +656,39 @@ Comm_ID	Inclination/Exposition
 2425	plain
 2425	Shadow-exposed slope
 2425	Sun-exposed slope
-2426	plain
-2426	Shadow-exposed slope
 2426	Sun-exposed slope
-2427	Shadow-exposed slope
+2426	Shadow-exposed slope
+2426	plain
 2427	Sun-exposed slope
+2427	Shadow-exposed slope
 2428	Shadow-exposed slope
-2429	plain
-2429	Shadow-exposed slope
 2429	Sun-exposed slope
-2430	plain
+2429	Shadow-exposed slope
+2429	plain
 2430	Shadow-exposed slope
 2430	Sun-exposed slope
+2430	plain
 2431	Sun-exposed slope
 2432	Sun-exposed slope
-2433	plain
 2433	Sun-exposed slope
+2433	plain
 2434	plain
 2435	Sun-exposed slope
 2436	Shadow-exposed slope
 2437	Shadow-exposed slope
-2438	plain
 2438	Shadow-exposed slope
+2438	plain
 2438	Sun-exposed slope
 2439	Sun-exposed slope
-2441	plain
 2441	Shadow-exposed slope
+2441	plain
 2442	Shadow-exposed slope
 2444	Shadow-exposed slope
 2445	Sun-exposed slope
 2446	Sun-exposed slope
 2447	plain
-2447	Shadow-exposed slope
 2447	Sun-exposed slope
+2447	Shadow-exposed slope
 2448	Sun-exposed slope
 2449	Shadow-exposed slope
 2450	plain
@@ -666,12 +698,12 @@ Comm_ID	Inclination/Exposition
 2452	Shadow-exposed slope
 2452	Sun-exposed slope
 2453	Sun-exposed slope
-2454	plain
 2454	Shadow-exposed slope
+2454	plain
 2454	Sun-exposed slope
 2461	plain
-2462	plain
 2462	Sun-exposed slope
+2462	plain
 2464	Shadow-exposed slope
 2465	Sun-exposed slope
 2470	plain
@@ -679,24 +711,24 @@ Comm_ID	Inclination/Exposition
 2474	plain
 2475	Sun-exposed slope
 2477	Shadow-exposed slope
-2478	plain
 2478	Shadow-exposed slope
 2478	Sun-exposed slope
-2479	Shadow-exposed slope
+2478	plain
 2479	Sun-exposed slope
+2479	Shadow-exposed slope
 2480	plain
 2481	Sun-exposed slope
-2482	Shadow-exposed slope
 2482	Sun-exposed slope
-2483	Shadow-exposed slope
+2482	Shadow-exposed slope
 2483	Sun-exposed slope
+2483	Shadow-exposed slope
 2484	Sun-exposed slope
-2485	Shadow-exposed slope
 2485	Sun-exposed slope
+2485	Shadow-exposed slope
 2486	plain
+2487	Sun-exposed slope
 2487	plain
 2487	Shadow-exposed slope
-2487	Sun-exposed slope
 2488	plain
 2488	Shadow-exposed slope
 2488	Sun-exposed slope
@@ -705,9 +737,9 @@ Comm_ID	Inclination/Exposition
 2490	Shadow-exposed slope
 2490	Sun-exposed slope
 2491	Sun-exposed slope
+2492	Sun-exposed slope
 2492	plain
 2492	Shadow-exposed slope
-2492	Sun-exposed slope
 2493	plain
 2493	Shadow-exposed slope
 2493	Sun-exposed slope
@@ -720,27 +752,38 @@ Comm_ID	Inclination/Exposition
 2498	Shadow-exposed slope
 2499	plain
 2499	Shadow-exposed slope
-2501	plain
-2501	Shadow-exposed slope
 2501	Sun-exposed slope
+2501	Shadow-exposed slope
+2501	plain
 2502	plain
+2503	Shadow-exposed slope
 2504	Shadow-exposed slope
+2504	Sun-exposed slope
+2504	plain
+2504	Shadow-exposed slope
+2505	plain
+2505	Sun-exposed slope
+2505	Shadow-exposed slope
+2506	plain
+2507	Sun-exposed slope
+2508	plain
+2509	plain
 2510	plain
 2510	Sun-exposed slope
+2511	Sun-exposed slope
 2511	plain
 2511	Shadow-exposed slope
-2511	Sun-exposed slope
 2512	plain
 2512	Sun-exposed slope
 2513	plain
-2513	Shadow-exposed slope
 2513	Sun-exposed slope
-2514	plain
+2513	Shadow-exposed slope
 2514	Shadow-exposed slope
+2514	plain
 2514	Sun-exposed slope
 2515	Sun-exposed slope
-2516	plain
 2516	Sun-exposed slope
+2516	plain
 2517	plain
 2517	Shadow-exposed slope
 2518	plain
@@ -751,40 +794,40 @@ Comm_ID	Inclination/Exposition
 2521	Sun-exposed slope
 2522	plain
 2522	Sun-exposed slope
+2523	Sun-exposed slope
 2523	plain
 2523	Shadow-exposed slope
-2523	Sun-exposed slope
 2524	plain
 2524	Shadow-exposed slope
 2525	plain
 2525	Shadow-exposed slope
-2526	plain
 2526	Shadow-exposed slope
-2527	plain
+2526	plain
 2527	Shadow-exposed slope
-2528	plain
+2527	plain
 2528	Shadow-exposed slope
-2529	plain
+2528	plain
 2529	Shadow-exposed slope
-2530	plain
+2529	plain
 2530	Shadow-exposed slope
-2531	plain
+2530	plain
 2531	Shadow-exposed slope
+2531	plain
+2532	Sun-exposed slope
 2532	plain
 2532	Shadow-exposed slope
-2532	Sun-exposed slope
 2533	plain
-2533	Shadow-exposed slope
 2533	Sun-exposed slope
-2534	plain
-2534	Shadow-exposed slope
+2533	Shadow-exposed slope
 2534	Sun-exposed slope
-2535	plain
+2534	Shadow-exposed slope
+2534	plain
 2535	Shadow-exposed slope
 2535	Sun-exposed slope
+2535	plain
 2536	plain
-2536	Shadow-exposed slope
 2536	Sun-exposed slope
+2536	Shadow-exposed slope
 2537	plain
 2537	Shadow-exposed slope
 2537	Sun-exposed slope
@@ -797,54 +840,54 @@ Comm_ID	Inclination/Exposition
 2544	plain
 2544	Shadow-exposed slope
 2544	Sun-exposed slope
-2545	plain
 2545	Shadow-exposed slope
+2545	plain
 2545	Sun-exposed slope
-2546	plain
-2546	Shadow-exposed slope
 2546	Sun-exposed slope
-2547	plain
+2546	Shadow-exposed slope
+2546	plain
 2547	Shadow-exposed slope
 2547	Sun-exposed slope
-2548	plain
-2548	Shadow-exposed slope
+2547	plain
 2548	Sun-exposed slope
+2548	Shadow-exposed slope
+2548	plain
 2549	Sun-exposed slope
 2550	Sun-exposed slope
 2551	Sun-exposed slope
 2552	Shadow-exposed slope
-2553	plain
 2553	Shadow-exposed slope
 2553	Sun-exposed slope
+2553	plain
 2554	Shadow-exposed slope
 2555	plain
 2556	Sun-exposed slope
 2557	Sun-exposed slope
-2558	plain
 2558	Shadow-exposed slope
 2558	Sun-exposed slope
+2558	plain
 2559	Sun-exposed slope
 2560	Sun-exposed slope
 2561	Sun-exposed slope
-2562	plain
 2562	Shadow-exposed slope
+2562	plain
 2562	Sun-exposed slope
 2563	plain
 2563	Shadow-exposed slope
 2563	Sun-exposed slope
 2564	plain
-2564	Shadow-exposed slope
 2564	Sun-exposed slope
+2564	Shadow-exposed slope
+2565	Sun-exposed slope
 2565	plain
 2565	Shadow-exposed slope
-2565	Sun-exposed slope
 2566	Shadow-exposed slope
-2567	plain
-2567	Shadow-exposed slope
 2567	Sun-exposed slope
-2568	plain
+2567	Shadow-exposed slope
+2567	plain
 2568	Shadow-exposed slope
 2568	Sun-exposed slope
+2568	plain
 2569	plain
 2569	Shadow-exposed slope
 2569	Sun-exposed slope
@@ -854,30 +897,30 @@ Comm_ID	Inclination/Exposition
 2571	plain
 2571	Shadow-exposed slope
 2571	Sun-exposed slope
-2572	plain
 2572	Shadow-exposed slope
 2572	Sun-exposed slope
-2573	plain
+2572	plain
 2573	Shadow-exposed slope
 2573	Sun-exposed slope
+2573	plain
 2574	plain
-2574	Shadow-exposed slope
 2574	Sun-exposed slope
+2574	Shadow-exposed slope
 2575	Shadow-exposed slope
-2576	Shadow-exposed slope
 2576	Sun-exposed slope
+2576	Shadow-exposed slope
 2577	Shadow-exposed slope
-2578	plain
 2578	Shadow-exposed slope
+2578	plain
 2578	Sun-exposed slope
-2579	plain
-2579	Shadow-exposed slope
 2579	Sun-exposed slope
-2580	plain
-2580	Shadow-exposed slope
+2579	Shadow-exposed slope
+2579	plain
 2580	Sun-exposed slope
-2581	plain
+2580	Shadow-exposed slope
+2580	plain
 2581	Shadow-exposed slope
+2581	plain
 2581	Sun-exposed slope
 2582	Sun-exposed slope
 2583	Sun-exposed slope
@@ -895,45 +938,45 @@ Comm_ID	Inclination/Exposition
 2593	plain
 2594	plain
 2595	plain
-2596	plain
 2596	Shadow-exposed slope
+2596	plain
 2596	Sun-exposed slope
 2597	plain
 2597	Shadow-exposed slope
 2597	Sun-exposed slope
+2598	Sun-exposed slope
 2598	plain
 2598	Shadow-exposed slope
-2598	Sun-exposed slope
+2599	Sun-exposed slope
 2599	plain
 2599	Shadow-exposed slope
-2599	Sun-exposed slope
 2601	Sun-exposed slope
 2602	Sun-exposed slope
 2603	Sun-exposed slope
 2604	Sun-exposed slope
-2605	plain
 2605	Shadow-exposed slope
+2605	plain
 2605	Sun-exposed slope
-2606	plain
 2606	Sun-exposed slope
+2606	plain
 2607	Sun-exposed slope
 2608	Sun-exposed slope
 2609	Sun-exposed slope
 2610	Sun-exposed slope
 2611	Sun-exposed slope
+2612	Sun-exposed slope
 2612	plain
 2612	Shadow-exposed slope
-2612	Sun-exposed slope
 2613	plain
 2614	plain
 2614	Sun-exposed slope
-2615	plain
 2615	Shadow-exposed slope
+2615	plain
 2616	plain
 2617	plain
 2618	plain
-2619	plain
 2619	Sun-exposed slope
+2619	plain
 2620	plain
 2621	plain
 2621	Shadow-exposed slope
@@ -947,8 +990,8 @@ Comm_ID	Inclination/Exposition
 2628	plain
 2628	Shadow-exposed slope
 2628	Sun-exposed slope
-2629	plain
 2629	Shadow-exposed slope
+2629	plain
 2629	Sun-exposed slope
 2630	plain
 2631	Shadow-exposed slope
@@ -978,16 +1021,16 @@ Comm_ID	Inclination/Exposition
 2649	plain
 2650	Shadow-exposed slope
 2651	Shadow-exposed slope
+2652	Sun-exposed slope
 2652	plain
 2652	Shadow-exposed slope
-2652	Sun-exposed slope
 2653	Shadow-exposed slope
-2654	plain
 2654	Sun-exposed slope
-2656	Shadow-exposed slope
+2654	plain
 2656	Sun-exposed slope
-2657	plain
+2656	Shadow-exposed slope
 2657	Sun-exposed slope
+2657	plain
 2659	Sun-exposed slope
 2660	Sun-exposed slope
 2661	Sun-exposed slope
@@ -1017,143 +1060,143 @@ Comm_ID	Inclination/Exposition
 2679	Sun-exposed slope
 2680	plain
 2680	Shadow-exposed slope
+2681	Sun-exposed slope
 2681	plain
 2681	Shadow-exposed slope
-2681	Sun-exposed slope
 2682	plain
 2683	Sun-exposed slope
-2684	plain
 2684	Shadow-exposed slope
-2686	Shadow-exposed slope
+2684	plain
 2686	Sun-exposed slope
+2686	Shadow-exposed slope
 2687	Shadow-exposed slope
 2688	Shadow-exposed slope
 2689	Shadow-exposed slope
 2689	Sun-exposed slope
-2690	plain
 2690	Shadow-exposed slope
 2690	Sun-exposed slope
+2690	plain
 2691	Shadow-exposed slope
 2692	Shadow-exposed slope
 2693	plain
-2693	Shadow-exposed slope
 2693	Sun-exposed slope
-2694	plain
+2693	Shadow-exposed slope
 2694	Shadow-exposed slope
+2694	plain
 2695	plain
 2695	Shadow-exposed slope
 2696	plain
 2696	Shadow-exposed slope
 2696	Sun-exposed slope
-2697	plain
 2697	Shadow-exposed slope
-2698	plain
+2697	plain
 2698	Shadow-exposed slope
-2699	plain
+2698	plain
 2699	Shadow-exposed slope
-2700	plain
-2700	Shadow-exposed slope
+2699	plain
 2700	Sun-exposed slope
-2701	plain
+2700	Shadow-exposed slope
+2700	plain
 2701	Shadow-exposed slope
+2701	plain
 2701	Sun-exposed slope
+2702	Sun-exposed slope
 2702	plain
 2702	Shadow-exposed slope
-2702	Sun-exposed slope
+2703	Sun-exposed slope
 2703	plain
 2703	Shadow-exposed slope
-2703	Sun-exposed slope
+2704	Sun-exposed slope
 2704	plain
 2704	Shadow-exposed slope
-2704	Sun-exposed slope
-2705	plain
 2705	Sun-exposed slope
+2705	plain
+2706	Sun-exposed slope
 2706	plain
 2706	Shadow-exposed slope
-2706	Sun-exposed slope
 2707	plain
-2707	Shadow-exposed slope
 2707	Sun-exposed slope
+2707	Shadow-exposed slope
 2708	Sun-exposed slope
 2709	plain
-2709	Shadow-exposed slope
 2709	Sun-exposed slope
-2710	plain
-2710	Shadow-exposed slope
+2709	Shadow-exposed slope
 2710	Sun-exposed slope
-2711	plain
+2710	Shadow-exposed slope
+2710	plain
 2711	Shadow-exposed slope
+2711	plain
 2711	Sun-exposed slope
-2712	plain
-2712	Shadow-exposed slope
 2712	Sun-exposed slope
+2712	Shadow-exposed slope
+2712	plain
 2713	plain
 2714	plain
-2715	plain
 2715	Sun-exposed slope
+2715	plain
 2716	plain
 2717	plain
 2718	plain
 2719	plain
 2720	plain
 2721	plain
-2721	Shadow-exposed slope
 2721	Sun-exposed slope
+2721	Shadow-exposed slope
+2722	Sun-exposed slope
 2722	plain
 2722	Shadow-exposed slope
-2722	Sun-exposed slope
 2723	plain
 2723	Shadow-exposed slope
-2724	plain
 2724	Shadow-exposed slope
-2725	plain
-2725	Shadow-exposed slope
+2724	plain
 2725	Sun-exposed slope
-2726	plain
+2725	Shadow-exposed slope
+2725	plain
 2726	Sun-exposed slope
+2726	plain
 2727	Shadow-exposed slope
-2728	plain
 2728	Shadow-exposed slope
+2728	plain
 2728	Sun-exposed slope
 2729	Shadow-exposed slope
 2730	plain
-2730	Shadow-exposed slope
 2730	Sun-exposed slope
+2730	Shadow-exposed slope
 2731	plain
 2732	plain
 2732	Shadow-exposed slope
 2732	Sun-exposed slope
+2733	Sun-exposed slope
 2733	plain
 2733	Shadow-exposed slope
-2733	Sun-exposed slope
 2734	plain
-2734	Shadow-exposed slope
 2734	Sun-exposed slope
+2734	Shadow-exposed slope
 2735	plain
 2736	Sun-exposed slope
 2737	plain
-2738	plain
 2738	Shadow-exposed slope
+2738	plain
 2739	Shadow-exposed slope
 2740	Shadow-exposed slope
 2741	plain
 2742	Shadow-exposed slope
 2743	Shadow-exposed slope
-2744	plain
 2744	Sun-exposed slope
-2745	plain
+2744	plain
 2745	Sun-exposed slope
+2745	plain
 2746	Sun-exposed slope
-2747	plain
 2747	Sun-exposed slope
+2747	plain
 2748	plain
-2748	Shadow-exposed slope
 2748	Sun-exposed slope
+2748	Shadow-exposed slope
 2749	plain
 2749	Shadow-exposed slope
 2750	plain
-2750	Shadow-exposed slope
 2750	Sun-exposed slope
+2750	Shadow-exposed slope
 2751	Shadow-exposed slope
 2752	plain
 2753	Sun-exposed slope
@@ -1161,8 +1204,8 @@ Comm_ID	Inclination/Exposition
 2754	Shadow-exposed slope
 2754	Sun-exposed slope
 2755	Sun-exposed slope
-2756	plain
 2756	Sun-exposed slope
+2756	plain
 2757	Shadow-exposed slope
 2758	plain
 2758	Sun-exposed slope
@@ -1170,9 +1213,9 @@ Comm_ID	Inclination/Exposition
 2759	Sun-exposed slope
 2760	Shadow-exposed slope
 2760	Sun-exposed slope
+2761	Sun-exposed slope
 2761	plain
 2761	Shadow-exposed slope
-2761	Sun-exposed slope
 2762	Shadow-exposed slope
 2762	Sun-exposed slope
 2763	Shadow-exposed slope
@@ -1182,9 +1225,9 @@ Comm_ID	Inclination/Exposition
 2764	Sun-exposed slope
 2765	Shadow-exposed slope
 2765	Sun-exposed slope
+2766	Sun-exposed slope
 2766	plain
 2766	Shadow-exposed slope
-2766	Sun-exposed slope
 2767	plain
 2767	Shadow-exposed slope
 2767	Sun-exposed slope
@@ -1197,8 +1240,8 @@ Comm_ID	Inclination/Exposition
 2772	Shadow-exposed slope
 2772	Sun-exposed slope
 2773	Sun-exposed slope
-2774	plain
 2774	Shadow-exposed slope
+2774	plain
 2774	Sun-exposed slope
 2775	Sun-exposed slope
 2776	Sun-exposed slope
@@ -1211,39 +1254,39 @@ Comm_ID	Inclination/Exposition
 2782	plain
 2782	Shadow-exposed slope
 2783	plain
-2784	plain
 2784	Shadow-exposed slope
 2784	Sun-exposed slope
+2784	plain
+2785	Sun-exposed slope
 2785	plain
 2785	Shadow-exposed slope
-2785	Sun-exposed slope
 2786	Shadow-exposed slope
+2787	Sun-exposed slope
 2787	plain
 2787	Shadow-exposed slope
-2787	Sun-exposed slope
 2788	Shadow-exposed slope
 2789	plain
 2790	Shadow-exposed slope
 2791	plain
 2791	Shadow-exposed slope
 2791	Sun-exposed slope
-2792	plain
 2792	Shadow-exposed slope
 2792	Sun-exposed slope
-2793	plain
+2792	plain
 2793	Sun-exposed slope
-2794	plain
+2793	plain
 2794	Shadow-exposed slope
+2794	plain
 2794	Sun-exposed slope
 2795	Shadow-exposed slope
-2796	plain
 2796	Shadow-exposed slope
+2796	plain
 2796	Sun-exposed slope
 2797	Sun-exposed slope
 2798	Shadow-exposed slope
 2799	Shadow-exposed slope
-2801	plain
 2801	Shadow-exposed slope
+2801	plain
 2802	plain
 2803	plain
 2804	plain
@@ -1267,9 +1310,9 @@ Comm_ID	Inclination/Exposition
 2818	plain
 2819	plain
 2819	Sun-exposed slope
-2820	plain
 2820	Shadow-exposed slope
 2820	Sun-exposed slope
+2820	plain
 2821	plain
 2822	plain
 2822	Sun-exposed slope
@@ -1277,8 +1320,8 @@ Comm_ID	Inclination/Exposition
 2823	Sun-exposed slope
 2824	plain
 2825	plain
-2826	plain
 2826	Sun-exposed slope
+2826	plain
 2827	Sun-exposed slope
 2828	plain
 2828	Shadow-exposed slope
@@ -1301,40 +1344,49 @@ Comm_ID	Inclination/Exposition
 2842	Sun-exposed slope
 2843	Sun-exposed slope
 2844	plain
-2844	Shadow-exposed slope
 2844	Sun-exposed slope
+2844	Shadow-exposed slope
 2845	plain
 2845	Sun-exposed slope
 2846	plain
 2847	plain
 2848	plain
-2849	plain
-2849	Shadow-exposed slope
 2849	Sun-exposed slope
+2849	Shadow-exposed slope
+2849	plain
 2850	plain
-2850	Shadow-exposed slope
 2850	Sun-exposed slope
-3001	plain
+2850	Shadow-exposed slope
+2851	plain
+2851	Sun-exposed slope
+2851	Shadow-exposed slope
+2852	plain
+2853	Sun-exposed slope
+2854	plain
+2855	plain
+2856	plain
+2856	Shadow-exposed slope
 3001	Shadow-exposed slope
+3001	plain
 3001	Sun-exposed slope
 3002	Sun-exposed slope
-3003	plain
 3003	Sun-exposed slope
-3004	plain
+3003	plain
 3004	Shadow-exposed slope
-3005	Shadow-exposed slope
+3004	plain
 3005	Sun-exposed slope
+3005	Shadow-exposed slope
 3006	Sun-exposed slope
 3007	Sun-exposed slope
 3008	Shadow-exposed slope
-3009	Shadow-exposed slope
 3009	Sun-exposed slope
-3010	Shadow-exposed slope
+3009	Shadow-exposed slope
 3010	Sun-exposed slope
-3011	Shadow-exposed slope
+3010	Shadow-exposed slope
 3011	Sun-exposed slope
-3012	plain
+3011	Shadow-exposed slope
 3012	Shadow-exposed slope
+3012	plain
 3012	Sun-exposed slope
 3013	plain
 3013	Sun-exposed slope
@@ -1351,143 +1403,150 @@ Comm_ID	Inclination/Exposition
 3018	Shadow-exposed slope
 3018	Sun-exposed slope
 3019	Shadow-exposed slope
-3020	plain
 3020	Shadow-exposed slope
-3021	plain
+3020	plain
 3021	Shadow-exposed slope
+3021	plain
 3021	Sun-exposed slope
 3022	plain
-3023	plain
-3023	Shadow-exposed slope
 3023	Sun-exposed slope
-3024	plain
+3023	Shadow-exposed slope
+3023	plain
 3024	Shadow-exposed slope
 3024	Sun-exposed slope
-3081	plain
-3081	Shadow-exposed slope
+3024	plain
+3025	Shadow-exposed slope
+3025	plain
+3025	Sun-exposed slope
+3026	Sun-exposed slope
+3026	plain
+3027	Sun-exposed slope
+3028	Shadow-exposed slope
 3081	Sun-exposed slope
+3081	Shadow-exposed slope
+3081	plain
 3082	plain
 3082	Shadow-exposed slope
 3082	Sun-exposed slope
-3083	plain
-3083	Shadow-exposed slope
 3083	Sun-exposed slope
+3083	Shadow-exposed slope
+3083	plain
 3084	plain
 3084	Shadow-exposed slope
 3084	Sun-exposed slope
 3085	plain
 3085	Shadow-exposed slope
 3085	Sun-exposed slope
+3110	Sun-exposed slope
 3110	plain
 3110	Shadow-exposed slope
-3110	Sun-exposed slope
 3111	plain
-3111	Shadow-exposed slope
 3111	Sun-exposed slope
+3111	Shadow-exposed slope
 3114	plain
 3114	Shadow-exposed slope
 3114	Sun-exposed slope
 3115	plain
 3115	Shadow-exposed slope
 3115	Sun-exposed slope
+3120	Sun-exposed slope
 3120	plain
 3120	Shadow-exposed slope
-3120	Sun-exposed slope
 3121	plain
+3130	Sun-exposed slope
 3130	plain
 3130	Shadow-exposed slope
-3130	Sun-exposed slope
+3140	Sun-exposed slope
 3140	plain
 3140	Shadow-exposed slope
-3140	Sun-exposed slope
-3141	plain
-3141	Shadow-exposed slope
 3141	Sun-exposed slope
+3141	Shadow-exposed slope
+3141	plain
 3142	plain
-3143	plain
 3143	Sun-exposed slope
-3150	plain
+3143	plain
 3150	Shadow-exposed slope
+3150	plain
 3150	Sun-exposed slope
 3170	Sun-exposed slope
 3170	Sun-exposed slope
 3171	plain
 3171	Shadow-exposed slope
 3171	Sun-exposed slope
-3172	plain
 3172	Sun-exposed slope
-3173	plain
+3172	plain
 3173	Sun-exposed slope
-3174	plain
+3173	plain
 3174	Sun-exposed slope
+3174	plain
 3175	plain
 3175	Sun-exposed slope
 3176	plain
 3177	plain
-3200	plain
 3200	Shadow-exposed slope
 3200	Sun-exposed slope
+3200	plain
 3201	plain
-3201	Shadow-exposed slope
 3201	Sun-exposed slope
+3201	Shadow-exposed slope
 3211	Sun-exposed slope
-3261	plain
-3261	Shadow-exposed slope
 3261	Sun-exposed slope
+3261	Shadow-exposed slope
+3261	plain
 3262	plain
 3262	Shadow-exposed slope
 3262	Sun-exposed slope
 3263	plain
 3264	plain
 3310	plain
-3310	Shadow-exposed slope
 3310	Sun-exposed slope
+3310	Shadow-exposed slope
 3311	plain
 3311	Shadow-exposed slope
 3311	Sun-exposed slope
-3370	plain
-3370	Shadow-exposed slope
 3370	Sun-exposed slope
-3371	plain
-3371	Shadow-exposed slope
+3370	Shadow-exposed slope
+3370	plain
 3371	Sun-exposed slope
-3391	plain
+3371	Shadow-exposed slope
+3371	plain
 3391	Shadow-exposed slope
 3391	Sun-exposed slope
+3391	plain
 3392	plain
 3392	Shadow-exposed slope
 3392	Sun-exposed slope
 3440	plain
-3440	Shadow-exposed slope
 3440	Sun-exposed slope
+3440	Shadow-exposed slope
 3480	plain
 3480	Shadow-exposed slope
 3480	Sun-exposed slope
+3481	Sun-exposed slope
 3481	plain
 3481	Shadow-exposed slope
-3481	Sun-exposed slope
+3501	Sun-exposed slope
 3501	plain
 3501	Shadow-exposed slope
-3501	Sun-exposed slope
+3502	Sun-exposed slope
 3502	plain
 3502	Shadow-exposed slope
-3502	Sun-exposed slope
-3503	plain
 3503	Shadow-exposed slope
 3503	Sun-exposed slope
+3503	plain
 3504	plain
-3504	Shadow-exposed slope
 3504	Sun-exposed slope
+3504	Shadow-exposed slope
 3505	plain
 3505	Sun-exposed slope
 3506	plain
 3506	Sun-exposed slope
 3540	plain
-3540	Shadow-exposed slope
 3540	Sun-exposed slope
-3541	plain
+3540	Shadow-exposed slope
 3541	Shadow-exposed slope
 3541	Sun-exposed slope
+3541	plain
 3542	plain
 3543	plain
 3544	plain
@@ -1499,74 +1558,75 @@ Comm_ID	Inclination/Exposition
 3606	Shadow-exposed slope
 3606	Sun-exposed slope
 3607	plain
-3607	Shadow-exposed slope
 3607	Sun-exposed slope
-3608	plain
+3607	Shadow-exposed slope
 3608	Shadow-exposed slope
 3608	Sun-exposed slope
+3608	plain
 3609	plain
 3609	Shadow-exposed slope
 3609	Sun-exposed slope
-3610	plain
-3610	Shadow-exposed slope
 3610	Sun-exposed slope
-3611	plain
-3611	Shadow-exposed slope
+3610	Shadow-exposed slope
+3610	plain
 3611	Sun-exposed slope
+3611	Shadow-exposed slope
+3611	plain
 3612	plain
 3612	Shadow-exposed slope
 3612	Sun-exposed slope
 3613	plain
-3911	plain
 3911	Shadow-exposed slope
+3911	plain
 3911	Sun-exposed slope
-3912	plain
-3912	Shadow-exposed slope
 3912	Sun-exposed slope
+3912	Shadow-exposed slope
+3912	plain
 3913	plain
 4000	plain
-4000	Shadow-exposed slope
 4000	Sun-exposed slope
+4000	Shadow-exposed slope
 4021	plain
 4021	Shadow-exposed slope
 4021	Sun-exposed slope
 4040	plain
 4040	Shadow-exposed slope
 4040	Sun-exposed slope
+4041	Sun-exposed slope
 4041	plain
 4041	Shadow-exposed slope
-4041	Sun-exposed slope
+4042	Sun-exposed slope
 4042	plain
 4042	Shadow-exposed slope
-4042	Sun-exposed slope
-4043	plain
 4043	Shadow-exposed slope
 4043	Sun-exposed slope
+4043	plain
 4044	plain
 4045	plain
-4046	plain
 4046	Shadow-exposed slope
+4046	plain
 4046	Sun-exposed slope
 4047	plain
 4048	plain
 4048	Shadow-exposed slope
 4048	Sun-exposed slope
+4049	plain
 4150	Shadow-exposed slope
 4150	Sun-exposed slope
 4151	Shadow-exposed slope
 4201	plain
-4201	Shadow-exposed slope
 4201	Sun-exposed slope
-4202	plain
+4201	Shadow-exposed slope
 4202	Shadow-exposed slope
+4202	plain
 4203	plain
-4203	Shadow-exposed slope
 4203	Sun-exposed slope
+4203	Shadow-exposed slope
 4214	plain
 4215	plain
+4216	Sun-exposed slope
 4216	plain
 4216	Shadow-exposed slope
-4216	Sun-exposed slope
 4217	plain
 4217	Shadow-exposed slope
 4217	Sun-exposed slope
@@ -1575,61 +1635,68 @@ Comm_ID	Inclination/Exposition
 4218	Sun-exposed slope
 4219	plain
 4219	Shadow-exposed slope
-4220	plain
 4220	Sun-exposed slope
-4221	plain
+4220	plain
 4221	Shadow-exposed slope
+4221	plain
 4222	Sun-exposed slope
 4223	plain
 4224	plain
 4225	plain
-4225	Shadow-exposed slope
 4225	Sun-exposed slope
+4225	Shadow-exposed slope
+4226	Sun-exposed slope
 4226	plain
 4226	Shadow-exposed slope
-4226	Sun-exposed slope
 4227	Sun-exposed slope
 4228	Sun-exposed slope
 4229	plain
 4229	Shadow-exposed slope
+4230	plain
+4230	Shadow-exposed slope
+4231	Sun-exposed slope
+4232	plain
+4232	Sun-exposed slope
+4233	Sun-exposed slope
 4290	plain
 4290	Shadow-exposed slope
 4290	Sun-exposed slope
 4501	plain
-4501	Shadow-exposed slope
 4501	Sun-exposed slope
-4502	plain
+4501	Shadow-exposed slope
 4502	Shadow-exposed slope
 4502	Sun-exposed slope
-4725	plain
+4502	plain
+4724	plain
 4725	Sun-exposed slope
+4725	plain
 4726	plain
 4727	plain
 4728	plain
 4729	plain
-4730	plain
 4730	Shadow-exposed slope
+4730	plain
 4730	Sun-exposed slope
-4731	plain
-4731	Shadow-exposed slope
 4731	Sun-exposed slope
+4731	Shadow-exposed slope
+4731	plain
 4732	plain
-4732	Shadow-exposed slope
 4732	Sun-exposed slope
+4732	Shadow-exposed slope
 4733	plain
 4734	Shadow-exposed slope
 4735	plain
 4735	Sun-exposed slope
 4736	plain
-4736	Shadow-exposed slope
 4736	Sun-exposed slope
-4737	plain
+4736	Shadow-exposed slope
 4737	Shadow-exposed slope
+4737	plain
 4738	Shadow-exposed slope
 4739	Sun-exposed slope
-4740	plain
-4740	Shadow-exposed slope
 4740	Sun-exposed slope
+4740	Shadow-exposed slope
+4740	plain
 4741	Shadow-exposed slope
 4741	Sun-exposed slope
 4742	Shadow-exposed slope
@@ -1637,41 +1704,41 @@ Comm_ID	Inclination/Exposition
 4743	Sun-exposed slope
 4744	plain
 4744	Shadow-exposed slope
-4745	plain
 4745	Shadow-exposed slope
+4745	plain
 4746	Sun-exposed slope
 4747	Sun-exposed slope
-4748	Shadow-exposed slope
 4748	Sun-exposed slope
+4748	Shadow-exposed slope
 4749	plain
 4749	Shadow-exposed slope
 4749	Sun-exposed slope
 4750	plain
-4750	Shadow-exposed slope
 4750	Sun-exposed slope
-4751	plain
+4750	Shadow-exposed slope
 4751	Shadow-exposed slope
 4751	Sun-exposed slope
+4751	plain
 4752	Sun-exposed slope
 4753	Sun-exposed slope
 4754	Sun-exposed slope
 4755	Sun-exposed slope
 4756	plain
-4757	plain
 4757	Shadow-exposed slope
+4757	plain
 4757	Sun-exposed slope
-4758	plain
 4758	Shadow-exposed slope
 4758	Sun-exposed slope
-4759	plain
+4758	plain
 4759	Shadow-exposed slope
 4759	Sun-exposed slope
+4759	plain
 4760	Shadow-exposed slope
 4761	plain
 4761	Sun-exposed slope
 4762	plain
-4763	plain
 4763	Shadow-exposed slope
+4763	plain
 4763	Sun-exposed slope
 4764	Sun-exposed slope
 4765	plain
@@ -1679,60 +1746,72 @@ Comm_ID	Inclination/Exposition
 4767	plain
 4768	plain
 4769	plain
-4770	plain
 4770	Sun-exposed slope
-4771	plain
+4770	plain
 4771	Sun-exposed slope
-4772	plain
+4771	plain
 4772	Sun-exposed slope
+4772	plain
 4773	plain
 4773	Sun-exposed slope
 4774	plain
 4775	plain
 4775	Sun-exposed slope
-4776	Shadow-exposed slope
 4776	Sun-exposed slope
+4776	Shadow-exposed slope
 4777	Sun-exposed slope
 4778	plain
 4779	plain
-4780	plain
 4780	Shadow-exposed slope
 4780	Sun-exposed slope
+4780	plain
 4781	plain
-4781	Shadow-exposed slope
 4781	Sun-exposed slope
+4781	Shadow-exposed slope
 4782	Shadow-exposed slope
 4783	Shadow-exposed slope
 4784	plain
+4785	Shadow-exposed slope
+4786	Sun-exposed slope
+4786	plain
+4787	Shadow-exposed slope
+4788	Shadow-exposed slope
+4789	Shadow-exposed slope
 4799	plain
-4799	Shadow-exposed slope
 4799	Sun-exposed slope
-4800	plain
-4800	Shadow-exposed slope
+4799	Shadow-exposed slope
 4800	Sun-exposed slope
-4801	plain
+4800	Shadow-exposed slope
+4800	plain
 4801	Shadow-exposed slope
+4801	plain
 4803	plain
 4803	Shadow-exposed slope
 4803	Sun-exposed slope
-4880	plain
 4880	Shadow-exposed slope
+4880	plain
+4907	Shadow-exposed slope
+4907	plain
+4908	plain
+4909	Shadow-exposed slope
+4909	Sun-exposed slope
+4909	plain
 4911	plain
 4912	plain
 4913	plain
 4914	plain
 4915	plain
 4915	Sun-exposed slope
-4916	plain
 4916	Shadow-exposed slope
+4916	plain
 4916	Sun-exposed slope
 4917	plain
 4918	Shadow-exposed slope
 4918	Sun-exposed slope
-4919	Shadow-exposed slope
 4919	Sun-exposed slope
-4920	plain
+4919	Shadow-exposed slope
 4920	Shadow-exposed slope
+4920	plain
 4920	Sun-exposed slope
 4921	plain
 4922	plain
@@ -1740,46 +1819,46 @@ Comm_ID	Inclination/Exposition
 4924	plain
 4925	plain
 4926	plain
-4926	Shadow-exposed slope
 4926	Sun-exposed slope
+4926	Shadow-exposed slope
 4927	Sun-exposed slope
 4928	plain
 4929	plain
-4930	plain
 4930	Shadow-exposed slope
+4930	plain
 4930	Sun-exposed slope
-4933	plain
 4933	Shadow-exposed slope
+4933	plain
 4934	plain
 4934	Sun-exposed slope
-4935	plain
 4935	Sun-exposed slope
-4936	plain
+4935	plain
 4936	Sun-exposed slope
-4937	plain
+4936	plain
 4937	Sun-exposed slope
+4937	plain
 4938	plain
 4938	Sun-exposed slope
 4939	plain
 4939	Shadow-exposed slope
 4940	plain
 4940	Shadow-exposed slope
-4941	plain
 4941	Shadow-exposed slope
 4941	Sun-exposed slope
+4941	plain
 4942	plain
-4942	Shadow-exposed slope
 4942	Sun-exposed slope
-4943	plain
+4942	Shadow-exposed slope
 4943	Shadow-exposed slope
+4943	plain
 4943	Sun-exposed slope
 4944	plain
 4945	plain
 4945	Sun-exposed slope
 4947	plain
 4947	Sun-exposed slope
-4948	plain
 4948	Sun-exposed slope
+4948	plain
 4949	plain
 4949	Sun-exposed slope
 4950	plain
@@ -1791,20 +1870,20 @@ Comm_ID	Inclination/Exposition
 4956	plain
 4957	plain
 4958	Shadow-exposed slope
-4960	plain
 4960	Sun-exposed slope
+4960	plain
 4961	Shadow-exposed slope
 4962	plain
-4963	plain
-4963	Shadow-exposed slope
 4963	Sun-exposed slope
-4964	plain
+4963	Shadow-exposed slope
+4963	plain
 4964	Shadow-exposed slope
-4965	plain
+4964	plain
 4965	Shadow-exposed slope
+4965	plain
 4965	Sun-exposed slope
-4966	plain
 4966	Shadow-exposed slope
+4966	plain
 4966	Sun-exposed slope
 4967	plain
 4967	Shadow-exposed slope
@@ -1812,59 +1891,59 @@ Comm_ID	Inclination/Exposition
 4968	plain
 4968	Shadow-exposed slope
 4969	Sun-exposed slope
-4970	plain
-4970	Shadow-exposed slope
 4970	Sun-exposed slope
-4971	plain
+4970	Shadow-exposed slope
+4970	plain
 4971	Sun-exposed slope
-4972	plain
+4971	plain
 4972	Shadow-exposed slope
-4973	plain
+4972	plain
 4973	Sun-exposed slope
+4973	plain
 4974	plain
 4974	Shadow-exposed slope
+4975	Sun-exposed slope
 4975	plain
 4975	Shadow-exposed slope
-4975	Sun-exposed slope
-4976	plain
 4976	Shadow-exposed slope
+4976	plain
 4976	Sun-exposed slope
-4977	plain
 4977	Shadow-exposed slope
+4977	plain
 4977	Sun-exposed slope
-4978	plain
 4978	Shadow-exposed slope
 4978	Sun-exposed slope
-4979	plain
+4978	plain
 4979	Shadow-exposed slope
-4980	plain
+4979	plain
 4980	Sun-exposed slope
+4980	plain
 4981	plain
 4981	Sun-exposed slope
 4982	Shadow-exposed slope
 4983	plain
-4983	Shadow-exposed slope
 4983	Sun-exposed slope
-4984	plain
-4984	Shadow-exposed slope
+4983	Shadow-exposed slope
 4984	Sun-exposed slope
+4984	Shadow-exposed slope
+4984	plain
+4985	Sun-exposed slope
 4985	plain
 4985	Shadow-exposed slope
-4985	Sun-exposed slope
-4986	plain
 4986	Shadow-exposed slope
 4986	Sun-exposed slope
+4986	plain
+4987	Sun-exposed slope
 4987	plain
 4987	Shadow-exposed slope
-4987	Sun-exposed slope
 4988	plain
 4989	Shadow-exposed slope
 4990	Sun-exposed slope
 4991	plain
 4992	plain
-4993	plain
 4993	Shadow-exposed slope
 4993	Sun-exposed slope
+4993	plain
 4994	plain
 4995	plain
 4996	plain
@@ -1874,115 +1953,115 @@ Comm_ID	Inclination/Exposition
 5001	plain
 5002	plain
 5004	plain
-5005	plain
 5005	Sun-exposed slope
-5008	plain
+5005	plain
 5008	Sun-exposed slope
-5009	plain
+5008	plain
 5009	Sun-exposed slope
-5010	plain
+5009	plain
 5010	Shadow-exposed slope
-5011	plain
+5010	plain
 5011	Shadow-exposed slope
+5011	plain
 5011	Sun-exposed slope
-5012	plain
-5012	Shadow-exposed slope
 5012	Sun-exposed slope
+5012	Shadow-exposed slope
+5012	plain
 5013	plain
-5014	plain
 5014	Shadow-exposed slope
 5014	Sun-exposed slope
+5014	plain
+5015	Sun-exposed slope
 5015	plain
 5015	Shadow-exposed slope
-5015	Sun-exposed slope
-5016	plain
 5016	Shadow-exposed slope
 5016	Sun-exposed slope
-5017	plain
+5016	plain
 5017	Shadow-exposed slope
 5017	Sun-exposed slope
-5018	plain
+5017	plain
 5018	Sun-exposed slope
+5018	plain
 5019	plain
 5019	Shadow-exposed slope
+5020	Sun-exposed slope
 5020	plain
 5020	Shadow-exposed slope
-5020	Sun-exposed slope
+5021	Sun-exposed slope
 5021	plain
 5021	Shadow-exposed slope
-5021	Sun-exposed slope
 5022	Sun-exposed slope
 5023	Shadow-exposed slope
 5024	plain
 5025	plain
-5026	plain
 5026	Shadow-exposed slope
+5026	plain
 5027	plain
 5027	Shadow-exposed slope
 5027	Sun-exposed slope
-5028	plain
 5028	Shadow-exposed slope
 5028	Sun-exposed slope
-5029	plain
-5029	Shadow-exposed slope
+5028	plain
 5029	Sun-exposed slope
+5029	Shadow-exposed slope
+5029	plain
 5030	plain
 5030	Shadow-exposed slope
 5031	plain
-5031	Shadow-exposed slope
 5031	Sun-exposed slope
+5031	Shadow-exposed slope
+5032	Sun-exposed slope
 5032	plain
 5032	Shadow-exposed slope
-5032	Sun-exposed slope
-5033	plain
 5033	Shadow-exposed slope
 5033	Sun-exposed slope
+5033	plain
+5034	Sun-exposed slope
 5034	plain
 5034	Shadow-exposed slope
-5034	Sun-exposed slope
 5035	Shadow-exposed slope
 5036	plain
 5036	Shadow-exposed slope
 5037	Sun-exposed slope
-5038	plain
 5038	Sun-exposed slope
-5039	Shadow-exposed slope
+5038	plain
 5039	Sun-exposed slope
-5040	plain
+5039	Shadow-exposed slope
 5040	Sun-exposed slope
+5040	plain
 5041	plain
 5041	Sun-exposed slope
+5042	Sun-exposed slope
 5042	plain
 5042	Shadow-exposed slope
-5042	Sun-exposed slope
 5043	Sun-exposed slope
 5044	Sun-exposed slope
-5045	Shadow-exposed slope
 5045	Sun-exposed slope
+5045	Shadow-exposed slope
 5046	Sun-exposed slope
-5047	plain
 5047	Shadow-exposed slope
-5048	plain
-5048	Shadow-exposed slope
+5047	plain
 5048	Sun-exposed slope
+5048	Shadow-exposed slope
+5048	plain
 5049	plain
 5049	Shadow-exposed slope
 5049	Sun-exposed slope
+5050	Sun-exposed slope
 5050	plain
 5050	Shadow-exposed slope
-5050	Sun-exposed slope
-5051	plain
 5051	Sun-exposed slope
-5052	plain
+5051	plain
 5052	Sun-exposed slope
+5052	plain
 5053	plain
 5053	Shadow-exposed slope
 5053	Sun-exposed slope
 5054	plain
 5054	Shadow-exposed slope
 5054	Sun-exposed slope
-5055	plain
 5055	Sun-exposed slope
+5055	plain
 5056	plain
 5057	plain
 5057	Sun-exposed slope
@@ -1992,6 +2071,7 @@ Comm_ID	Inclination/Exposition
 5061	plain
 5064	plain
 5064	Sun-exposed slope
+5067	Shadow-exposed slope
 5068	Shadow-exposed slope
 5069	Sun-exposed slope
 5070	Sun-exposed slope
@@ -1999,10 +2079,10 @@ Comm_ID	Inclination/Exposition
 5072	plain
 5072	Shadow-exposed slope
 5073	Sun-exposed slope
-5074	plain
 5074	Sun-exposed slope
-5075	Shadow-exposed slope
+5074	plain
 5075	Sun-exposed slope
+5075	Shadow-exposed slope
 5076	Sun-exposed slope
 5077	Sun-exposed slope
 5078	Shadow-exposed slope
@@ -2016,16 +2096,16 @@ Comm_ID	Inclination/Exposition
 5085	Shadow-exposed slope
 5086	plain
 5086	Sun-exposed slope
-5087	plain
 5087	Sun-exposed slope
+5087	plain
 5088	Sun-exposed slope
 5089	Sun-exposed slope
 5090	Shadow-exposed slope
 5091	plain
 5092	Sun-exposed slope
 5093	plain
-5093	Shadow-exposed slope
 5093	Sun-exposed slope
+5093	Shadow-exposed slope
 5094	plain
 5095	Shadow-exposed slope
 5096	Shadow-exposed slope
@@ -2033,15 +2113,16 @@ Comm_ID	Inclination/Exposition
 5097	Shadow-exposed slope
 5097	Sun-exposed slope
 5098	plain
-5099	plain
 5099	Shadow-exposed slope
 5099	Sun-exposed slope
+5099	plain
 5100	Shadow-exposed slope
 5101	plain
 5101	Sun-exposed slope
-5102	Shadow-exposed slope
 5102	Sun-exposed slope
+5102	Shadow-exposed slope
 5103	Shadow-exposed slope
+5104	Sun-exposed slope
 5105	Shadow-exposed slope
 5105	Sun-exposed slope
 5106	Sun-exposed slope
@@ -2052,19 +2133,19 @@ Comm_ID	Inclination/Exposition
 5109	plain
 5109	Shadow-exposed slope
 5109	Sun-exposed slope
-5110	plain
-5110	Shadow-exposed slope
 5110	Sun-exposed slope
-5111	plain
+5110	Shadow-exposed slope
+5110	plain
 5111	Shadow-exposed slope
 5111	Sun-exposed slope
+5111	plain
 5112	Sun-exposed slope
 5113	Shadow-exposed slope
 5114	plain
 5115	plain
 5115	Sun-exposed slope
-5116	plain
 5116	Shadow-exposed slope
+5116	plain
 5116	Sun-exposed slope
 5117	Shadow-exposed slope
 5118	plain
@@ -2078,20 +2159,20 @@ Comm_ID	Inclination/Exposition
 5122	Shadow-exposed slope
 5123	plain
 5123	Shadow-exposed slope
-5124	plain
 5124	Sun-exposed slope
+5124	plain
 5125	plain
 5125	Shadow-exposed slope
-5126	Shadow-exposed slope
 5126	Sun-exposed slope
-5127	Shadow-exposed slope
+5126	Shadow-exposed slope
 5127	Sun-exposed slope
+5127	Shadow-exposed slope
 5128	Shadow-exposed slope
 5129	plain
 5130	Sun-exposed slope
 5131	Shadow-exposed slope
-5132	plain
 5132	Shadow-exposed slope
+5132	plain
 5133	Shadow-exposed slope
 5134	plain
 5134	Shadow-exposed slope
@@ -2105,16 +2186,33 @@ Comm_ID	Inclination/Exposition
 5143	plain
 5143	Sun-exposed slope
 5144	plain
-5144	Shadow-exposed slope
 5144	Sun-exposed slope
+5144	Shadow-exposed slope
 5145	plain
 5145	Sun-exposed slope
-5146	plain
 5146	Shadow-exposed slope
+5146	plain
 5147	plain
 5147	Sun-exposed slope
 5148	plain
 5149	plain
+5150	Shadow-exposed slope
+5150	plain
+5150	Sun-exposed slope
+5151	plain
+5151	Sun-exposed slope
+5151	Shadow-exposed slope
+5152	Shadow-exposed slope
+5152	Sun-exposed slope
+5153	plain
+5153	Shadow-exposed slope
+5153	Sun-exposed slope
+5154	Shadow-exposed slope
+5155	Shadow-exposed slope
+5156	Shadow-exposed slope
+5157	Shadow-exposed slope
+5158	Shadow-exposed slope
+5159	Shadow-exposed slope
 5160	Shadow-exposed slope
 5161	Shadow-exposed slope
 5162	plain
@@ -2125,18 +2223,25 @@ Comm_ID	Inclination/Exposition
 5167	plain
 5168	plain
 5169	plain
-5169	Shadow-exposed slope
 5169	Sun-exposed slope
+5169	Shadow-exposed slope
 5170	plain
 5171	Shadow-exposed slope
+5172	Shadow-exposed slope
+5172	plain
+5172	Sun-exposed slope
+5173	Shadow-exposed slope
+5174	Sun-exposed slope
+5174	Shadow-exposed slope
+5175	Shadow-exposed slope
 5202	plain
 5203	plain
-5204	plain
 5204	Shadow-exposed slope
 5204	Sun-exposed slope
+5204	plain
 5205	plain
-5205	Shadow-exposed slope
 5205	Sun-exposed slope
+5205	Shadow-exposed slope
 5206	plain
 5206	Shadow-exposed slope
 5206	Sun-exposed slope
@@ -2150,50 +2255,50 @@ Comm_ID	Inclination/Exposition
 5402	plain
 5403	plain
 5404	plain
-5405	Shadow-exposed slope
 5405	Sun-exposed slope
-5451	plain
+5405	Shadow-exposed slope
 5451	Shadow-exposed slope
 5451	Sun-exposed slope
-5452	plain
+5451	plain
 5452	Sun-exposed slope
-5501	plain
+5452	plain
 5501	Shadow-exposed slope
+5501	plain
 5501	Sun-exposed slope
-5520	plain
 5520	Shadow-exposed slope
 5520	Sun-exposed slope
+5520	plain
 5601	Sun-exposed slope
-5602	plain
 5602	Shadow-exposed slope
 5602	Sun-exposed slope
-5740	plain
+5602	plain
 5740	Shadow-exposed slope
 5740	Sun-exposed slope
+5740	plain
 5741	plain
 5742	plain
 5743	plain
 5744	plain
 5745	plain
 5746	plain
-5747	plain
 5747	Shadow-exposed slope
+5747	plain
 5748	plain
 5749	plain
 5750	plain
-5751	Shadow-exposed slope
 5751	Sun-exposed slope
+5751	Shadow-exposed slope
+5752	Sun-exposed slope
 5752	plain
 5752	Shadow-exposed slope
-5752	Sun-exposed slope
 5753	plain
 5753	Sun-exposed slope
 5754	plain
 5755	plain
 5756	Sun-exposed slope
-5757	plain
-5757	Shadow-exposed slope
 5757	Sun-exposed slope
+5757	Shadow-exposed slope
+5757	plain
 5758	plain
 5758	Sun-exposed slope
 5759	plain
@@ -2201,29 +2306,29 @@ Comm_ID	Inclination/Exposition
 5761	plain
 5761	Shadow-exposed slope
 5761	Sun-exposed slope
-5762	plain
 5762	Sun-exposed slope
+5762	plain
 5763	plain
 5763	Sun-exposed slope
 5764	plain
 5764	Sun-exposed slope
-5765	Shadow-exposed slope
 5765	Sun-exposed slope
-5766	plain
+5765	Shadow-exposed slope
 5766	Shadow-exposed slope
+5766	plain
 5766	Sun-exposed slope
 5767	plain
-5767	Shadow-exposed slope
 5767	Sun-exposed slope
+5767	Shadow-exposed slope
 5768	Sun-exposed slope
 5769	plain
-5769	Shadow-exposed slope
 5769	Sun-exposed slope
+5769	Shadow-exposed slope
+5770	Sun-exposed slope
 5770	plain
 5770	Shadow-exposed slope
-5770	Sun-exposed slope
-5771	plain
 5771	Shadow-exposed slope
+5771	plain
 5771	Sun-exposed slope
 5772	Sun-exposed slope
 5773	Shadow-exposed slope
@@ -2240,8 +2345,8 @@ Comm_ID	Inclination/Exposition
 5780	Sun-exposed slope
 5781	Shadow-exposed slope
 5781	Sun-exposed slope
-5782	Shadow-exposed slope
 5782	Sun-exposed slope
+5782	Shadow-exposed slope
 5783	plain
 5783	Shadow-exposed slope
 5783	Sun-exposed slope
@@ -2252,19 +2357,19 @@ Comm_ID	Inclination/Exposition
 5785	Shadow-exposed slope
 5785	Sun-exposed slope
 5820	plain
-5820	Shadow-exposed slope
 5820	Sun-exposed slope
-5821	plain
+5820	Shadow-exposed slope
 5821	Shadow-exposed slope
 5821	Sun-exposed slope
-5822	plain
+5821	plain
 5822	Shadow-exposed slope
 5822	Sun-exposed slope
+5822	plain
+5823	Sun-exposed slope
 5823	plain
 5823	Shadow-exposed slope
-5823	Sun-exposed slope
-5824	plain
 5824	Shadow-exposed slope
+5824	plain
 5824	Sun-exposed slope
 5825	plain
 5826	plain
@@ -2272,15 +2377,16 @@ Comm_ID	Inclination/Exposition
 5828	plain
 5829	plain
 5830	plain
+5831	Sun-exposed slope
 5831	plain
 5831	Shadow-exposed slope
-5831	Sun-exposed slope
 5832	plain
 5832	Shadow-exposed slope
 5832	Sun-exposed slope
 5833	plain
 5834	plain
 5835	plain
+5836	plain
 6001	Shadow-exposed slope
 6002	plain
 6003	plain
@@ -2289,10 +2395,10 @@ Comm_ID	Inclination/Exposition
 6007	plain
 6008	plain
 6009	plain
-6010	plain
 6010	Shadow-exposed slope
-6011	plain
+6010	plain
 6011	Sun-exposed slope
+6011	plain
 6015	plain
 6023	plain
 6027	plain
@@ -2302,47 +2408,68 @@ Comm_ID	Inclination/Exposition
 6032	plain
 6033	plain
 6034	Sun-exposed slope
-6042	Shadow-exposed slope
 6042	Sun-exposed slope
+6042	Shadow-exposed slope
 6043	plain
+6044	Sun-exposed slope
 6044	plain
 6044	Shadow-exposed slope
-6044	Sun-exposed slope
 6045	plain
 6046	plain
 6047	plain
 6048	plain
 6049	plain
 6050	plain
+6051	Shadow-exposed slope
+6051	plain
+6052	plain
+6053	plain
+6054	Sun-exposed slope
+6055	Sun-exposed slope
+6056	Sun-exposed slope
 6101	Shadow-exposed slope
+6102	Shadow-exposed slope
+6103	Sun-exposed slope
+6103	Shadow-exposed slope
+6104	plain
+6105	plain
+6106	plain
 6107	plain
 6107	Shadow-exposed slope
-6108	plain
-6108	Shadow-exposed slope
+6107	Shadow-exposed slope
 6108	Sun-exposed slope
+6108	Shadow-exposed slope
+6108	plain
+6108	Sun-exposed slope
+6108	Shadow-exposed slope
+6109	Shadow-exposed slope
+6110	Shadow-exposed slope
+6111	Shadow-exposed slope
+6111	plain
+6111	Sun-exposed slope
 6112	Shadow-exposed slope
 6113	plain
 6114	Sun-exposed slope
 6118	plain
 6119	plain
-6120	plain
 6120	Shadow-exposed slope
+6120	plain
 6121	plain
 6121	Shadow-exposed slope
 6122	plain
 6123	plain
-6201	plain
 6201	Shadow-exposed slope
 6201	Sun-exposed slope
+6201	plain
 6202	plain
 6202	Shadow-exposed slope
 6202	Sun-exposed slope
 6203	plain
 6203	Sun-exposed slope
-6204	plain
 6204	Sun-exposed slope
-6301	plain
+6204	plain
 6301	Sun-exposed slope
+6301	plain
 6302	plain
 6303	Shadow-exposed slope
 6304	plain
@@ -2413,3 +2540,6 @@ Comm_ID	Inclination/Exposition
 7043	plain
 7044	plain
 7045	plain
+7046	plain
+7046	plain
+7047	plain
